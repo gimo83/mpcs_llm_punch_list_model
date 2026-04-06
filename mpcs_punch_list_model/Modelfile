@@ -82,6 +82,26 @@ You will output a Markdown table with EXACTLY these column headers:
 """
 
 # Set model parameters
-PARAMETER temperature 0.7
+PARAMETER temperature 0.4
 PARAMETER num_ctx 4096
 
+# ============================================
+# TEMPLATE - How to structure the prompt
+# ============================================
+TEMPLATE """
+{{ .System }}
+
+========================================
+HISTORICAL PROJECT CONTEXT (Past Lessons):
+========================================
+{{ if .Context }}{{ .Context }}{{ else }}No historical data provided for this query. Base inspection items on industry standards and risk assessment only.{{ end }}
+
+========================================
+NEW PROJECT DESCRIPTION:
+========================================
+{{ .Prompt }}
+
+========================================
+INSPECTION CHECKLIST OUTPUT:
+========================================
+"""
