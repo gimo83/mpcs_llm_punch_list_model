@@ -1,0 +1,1034 @@
+CATEGORY_TEXT	CONT_SCOPE	FUNC_LOC	ITEM_TITLE	ITEM_DESCRIPTION	STARTUP
+IT	X	N/A	power	Permanent power is not ready	Y
+IT	X	N/A	Data Box	The data face plate should match the data box as explained in the scope and drawing# CA-083733	N
+Electrical	X	N/A	Cable duct bank	Scop of Work	Y
+Electrical	X	N/A	Cable Stub Ups	Complete the Stub Ups Installation near SS-20 at Pipe Rack 3 for Incomer cables of 369-019-SG-301. (Reference Drawing #369-P-RA-2025	Y
+Electrical	X	N/A	Cable Stub Ups	Complete the Stub Ups Installation near PIB-019 at Pipe Rack 3 for Incomer cables of 369-019-SG-301. (Reference Drawing #369-P-CB-08	Y
+Electrical	X	N/A	Cable Stub Ups	Complete the Stub Ups Installation near SS-19 for Incomer cables of 369-019-SG-301. (Reference Drawing #369-P-CB-083031-002-0A1)	Y
+Electrical	X	N/A	Cable Tray System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Continuity Testing for Cable Tray in pipe rack area for incomer power cables of 369-019-SG-301. (Reference Dr	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Torque Testing for Cable Tray in pipe rack area for incomer power cables of 369-019-SG-301. (Reference Drawin	Y
+Electrical	X	N/A	Cable Tray System	Complete the identification for Cable Tray in pipe rack area for incomer power cables of 369-019-SG-301. (Reference Drawing #369-P-C	N
+Electrical	X	N/A	Cable Tray System	Scop of Work	N
+DCS	X	N/A	Cabinet Layout	As per PMT the cabinets should be in sequence right to left numbering.	Y
+Electrical	X	N/A	Cable Tray System	Scop of Work	N
+Electrical	X	N/A	Cable Tray System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Continuity Testing for Cable Tray, outside of SS-19 for incomer power cables of 369-019-SG-301. (Reference Dr	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Torque Testing for Cable Tray, outside of SS-19 for incomer power cables of 369-019-SG-301. (Reference Drawin	Y
+Electrical	X	N/A	Cable Tray System	Complete the identification for Cable Tray, Inside and outside of SS-19 power cables.. (Reference Drawing #369-P-CB-083030-001-0A1)	N
+Electrical	X	N/A	Cable Tray System	Complete the Cable Tray cover installation outside of SS-19 for incomer power cables of 369-019-SG-301. (Reference Drawing #369-P-CB	N
+Electrical	X	N/A	Grounding System	Complete the Grounding and Bonding Installation for Cable Tray Support Structure of Incomer Power Cables of 369-019-SG-301. (Referen	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Continuity Testing for Cable Tray Support Structure of Incomer Power Cables of 369-019-SG-301. (Reference Dra	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+DCS	X	N/A	Grounding	All cable glands grounding in IRP cabinets are daisy chained. AS per SAES-J-902 section 14.3.2.2 Shield drain wires shall not be dai	Y
+Electrical	X	N/A	MCT Installation	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14275 From 13.8kV SWITCHGEAR, SG-102 (SS 20) To 369-019-SG-301. (Reference Drawin	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Cable Ties Requirments	Provide Cable Ties As Per NEMA V2; Sec 5.6 (a) and Figure 5.7 and 5.8 for MV Cable # PC-14275 and PC# 14276 From SG-102 (SS 20) To 3	N
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Screen test with Tag no# PC-14275 From 13.8kV SWITCHGEAR, SG-102 (SS 20) To 369-019-SG-301. (Reference Drawing #3	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Cable Trench	Scop of Work	Y
+Electrical	X	N/A	Cable Trench	Scop of Work	N
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Hi Pot with Tag No# PC-14275 From 13.8kV SWITCHGEAR, SG-102 (SS 20) To 369-019-SG-301. (Reference Drawing #369-P-	Y
+DCS	X	N/A	Cable Labeling	"Most field cables entering the marshalling panels are not labeled with stainless steel labels. Most cables are hand written on tape
+"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14276 From 13.8kV SWITCHGEAR, SG-102 (SS 20) To 369-019-SG-301. (Referen	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Hi Pot with Tag No# PC-14276 From 13.8kV SWITCHGEAR, SG-102 (SS 20) To 369-019-SG-301. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13450 From SG-102,BUS-3, CB(B)-346 To 369-019-SG-301. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Control Cable	"Complete the Cable Glanding and Termination with Tag No#CC-13450 From SG-102,BUS-3, CB(B)-346 To 369-019-SG-301. (Reference Drawing
+"	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13450 From SG-102,BUS-3, CB(B)-346 To 369-019-SG-301. (Reference Drawin	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13450 From SG-102,BUS-3, CB(B)-346 To 369-019-SG-301. (Reference Drawin	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+DCS	X	N/A	High Voltage Labeling	This is a safety issue, all High voltage panduits and terminals must have a cover and must be labeled correctly before energization.	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13690 From SG-102, BUS-TIE BREAKER (B306) To EXISTING ANNUNCIATOR PANEL (XAP-2551	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13691 From SG-102, BUS-3, BREAKER (B346) To EXISTING ANNUNCIATOR PANEL (X	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	"Complete the Cable Termination Torque Testing with Tag No#CC-13691 From SG-102, BUS-3, BREAKER (B346) To EXISTING ANNUNCIATOR PANEL
+"	Y
+DCS	X	N/A	Field cables entry	All cable entries into the cabinets and uildings must be sealed prior to energization.	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13692 From SG-102, BUS-4, BREAKER (B347) To EXISTING ANNUNCIATOR PANEL (XAP-2551)	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13692 From SG-102, BUS-4, BREAKER (B347) To EXISTING ANNUNCIATOR PANEL (X	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	"Complete the Cable Termination Torque Testing with Tag No#CC-13692 From SG-102, BUS-4, BREAKER (B347) To EXISTING ANNUNCIATOR PANEL
+"	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13696 From SG-102, BUS-TIE BREAKER (B306) To EXISTING RTU PANEL. (Refer	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13697 From SG-102, BUS-TIE BREAKER (B306) To EXISTING RTU PANEL. (Referen	Y
+DCS	X	N/A	Ground Bus Bars	Missing Ground BUS bar labels and wiring.	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13697 From SG-102, BUS-TIE BREAKER (B306) To EXISTING RTU PANEL. (Refer	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13697 From SG-102, BUS-TIE BREAKER (B306) To EXISTING RTU PANEL. (Refer	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13698 From SG-102, BUS-3, BREAKER (B346) To EXISTING RTU PANEL. (Reference Drawin	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+DCS	X	N/A	Missing Ground wires	Missing ground wires for the rails FTB2 and FRB2 in IRP panels.	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Instrument and Control power Transformer Testing for 369-019-SG-301 . (Reference Drawing #369-P-CA-082819-001-001)	Y
+Electrical	X	N/A	Breaker Installation	Complete the all Breaker installation inside 36-019-SG-301. (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Breaker Installation	Complete The All Breakers Testing and Setting for 369-019-SG-301 . (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Fire Protection	X	N/A	Fire Beacon and Horn	"The fire Beacon in SS-19 are not labeled and did not see any red Horns that are dedicated for Fire similar as the ones installed in
+"	Y
+Electrical	X	N/A	Electrical Equipment Cleaning	Complete The Cleaning inside/outside and tope side of 369-019-SG-301 . (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Cable Stub Ups	Complete the Stub up installation Transformer yard side for Incoming Cables of 369-XFR(T)-301/302/303/304. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Cable Trench	Complete the Trench Preparation for Incoming Cables of 369-XFR(T)-301/302/303/304. (Reference Drawing #369-P-CB-083030-001-0A1)	Y
+Electrical	X	N/A	Cable Trench	Complete the Trench Back filling activity for Incoming Cables of 369-XFR(T)-301/302/303/304 . (Reference Drawing #369-P-CB-083030-00	Y
+Electrical	X	N/A	Cable Trench	Complete the Trench marker Installation for cable trench used for incoming cables of 369-XFR(T)-301/302/303/304 . (Reference Drawing	N
+Electrical	X	N/A	Cable Tray System	Complete the Cable Tray Installation outside of SS-19 for Incomer cables of 369-XFR(T)-301/302/303/304. (Reference Drawing #369-P-CB	Y
+Electrical	X	N/A	Grounding System	Complete the grounding and bonding installation for Cable Tray, outside of SS-19 for incomer power cables of 369-XFR(T)-301/302/303/	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Continuity Testing for Cable Tray, outside of SS-19 for incomer power cables of 369-XFR(T)-301/302/303/304. (	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Torque Testing for Cable Tray, outside of SS-19 for incomer power cables of 369-XFR(T)-301/302/303/304. (Refe	Y
+Electrical	X	N/A	Cable Tray System	Complete the Cable Tray cover installation outside of SS-19 for incomer power cables of 369-XFR(T)-301/302/303/304. (Reference Drawi	N
+DCS	X	N/A	LEL Detector Horn	"The Gas detector Horns inside the building and outside are wired with loose wires and not in conduits. This is not home wiring - th
+"	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the grounding Torque Testing for Support Structure of Cable Tray for incomer power cables of 369-XFR(T)-301/302/303/304. (R	Y
+Electrical	X	N/A	MCT Installation	Complete the MCT installation for incomer power cables of 369-XFR(T)-301/302/303/304. (Reference Drawing #369-P-CB-083030-001-0A1)	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+IT	X	N/A	Fiber patch panel	Fiber patch panel is not fully terminated	Y
+Safety	X	N/A	LPD Building classification	Area classification must be revisited by LPD. This building is 30meters aways from Hydrocarbon Gas release and should be classified	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14279 From 369-019-SG-301 To 369-019-XFR(T)-301. (Reference Drawing #369	Y
+Safety	X	N/A	Eye Wash Station	Complete the installation of Eye Was Station in the Battery Room	Y
+Safety	X	N/A	Building Entrances	Complete the installation of Access/Egress stairway for Rack Room	Y
+Safety	X	N/A	Building Entrances	Agreed to consolidate and close as per IFC	Y
+Safety	X	N/A	Building Entrances	Complete the installation of Access/Egress stairway for the Battery Room	Y
+Safety	X	N/A	Building Entrances	Agreed to consolidate and close as per IFC	Y
+Safety	X	N/A	Building Entrances	Agreed to consolidate and close as per IFC	Y
+Safety	X	N/A	Access/Egress	Per the requirements of SAES-B-014	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14280 From 369-019-SG-301 To 369-019-XFR(T)-302. (Reference Drawing #369	Y
+Safety	X	N/A	Access/Egress	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Access/Egress	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Access/Egress	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Access/Egress	Complete the installation of the door in the Battery Room	Y
+Safety	X	N/A	Access/Egress	Complete the installation of the exterior door in the Air Lock	Y
+Safety	X	N/A	Access/Egress	Complete the installation of the interior door in Air Lock	Y
+Safety	X	N/A	Access/Egress	Complete the installation of the door in the Lobby	Y
+Safety	X	N/A	Access/Egress	Complete the installation of the door in the Telecoms Room	Y
+Safety	X	N/A	Extraction Fan	Complete the installation of explosion proof battery room extraction fans	Y
+Safety	X	N/A	Flammable Gas Detector	Complete the installation of Flammable Gas Detection System	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14281 From 369-019-SG-301 To 369-019-XFR(T)-303. (Reference Drawing #369	Y
+Safety	X	N/A	Toxic Gas Detector	No Toxic Gas Detection System at PIB-19	Y
+Safety	X	N/A	Fire Dampers	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Fire/Smoke Dampers	Complete the installation of Fire/Smoke dampers in the Telecoms Room	Y
+Safety	X	N/A	Fire/Smoke Dampers	Complete the installation of Fire/Smoke dampers in the Lobby	Y
+Safety	X	N/A	Fire/Smoke Dampers	Complete the installation of Fire/Smoke dampers in the Rack Room	Y
+Safety	X	N/A	Blast Protection Damper	Per the requirements of SAES-M-009	Y
+Safety	X	N/A	Blast Protection Damper	Complete the installation of Blast Protection Damper in the Battery Room	Y
+Safety	X	N/A	Blast Protection Damper	Complete the installation of Blast Protection Damper in the UPS/Electrical Room	Y
+Safety	X	N/A	Blast Protection Damper	Complete the installation of Blast Protection Damper in the Mechanical Room West Wall	Y
+Safety	X	N/A	Blast Protection Damper	Per the requirements of SAES-M-009	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14282 From 369-019-SG-301 To 369-019-XFR(T)-304. (Reference Drawing #369	Y
+Safety	X	N/A	Blast Protection Damper	no blast protection in project scope	Y
+Safety	X	N/A	Building Entrances	Complete the installation of Handrails/Guards on the stairway for Rack Room	Y
+Safety	X	N/A	Building Entrances	agreed to consolidate and close as per IFC	Y
+Safety	X	N/A	Building Entrances	Complete the installation of Handrails/Guards on the stairway for Air Lock	Y
+Safety	X	N/A	Fixed Ladder	Complete the installation (footing/bolts) of East side fixed caged ladder	Y
+Safety	X	N/A	Fire Extinguisher	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Fire Extinguisher	Complete the installation of wall mounted portable CO2 fire extinguisher in UPS/Electrical Room	Y
+Safety	X	N/A	Fire Extinguisher	Complete the installation of wall mounted portable CO2 fire extinguisher in Lobby Room	Y
+Safety	X	N/A	Fire Extinguisher	Complete the installation of wall mounted portable CO2 fire extinguisher in Telecoms Room	Y
+Safety	X	N/A	Fire Extinguisher	Per the requirements of SAES-B-014	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Hi Pot Testing with Tag No# PC-14279 From 369-019-SG-301 To 369-019-XFR(T)-301. (Reference Drawing #369-P-CA-0828	Y
+Safety	X	N/A	Fire Extinguisher	Complete the installation of outdoor wall mounted portable Dry Chemical fire extinguisher at entrance of the Rack Room	Y
+Safety	X	N/A	Fire Extinguisher	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Fire Extinguisher	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Safety Equipment Cabinet	Complete the installation of the safety equipment cabinet that contains the required PPE	Y
+Safety	X	N/A	Battery Room Signage	Per the requirements of Section 6.10 of SAES-P-103	Y
+Safety	X	N/A	Lighting	Complete the installation of Emergency Lighting in the Rack Room	Y
+Safety	X	N/A	Smoke Detection	Complete the installation of the Smoke Detection/Alarm System (ceiling void/floor void, duct, spot type for room) for the Rack Room	Y
+Safety	X	N/A	Smoke Detection	Complete the installation of the Smoke Detection System in the Lobby Room	Y
+Safety	X	N/A	Smoke Detection	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Smoke Detection	Per the requirements of SAES-B-014	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Hi Pot Testing with Tag No# PC-14280 From 369-019-SG-301 To 369-019-XFR(T)-302. (Reference Drawing #369-P-CA-0828	Y
+Safety	X	N/A	Smoke Detection	Complete the installation of the HSSD Smoke Detection and Alarm System for the UPS/Elecrical Room	Y
+Safety	X	N/A	Smoke Detection	Complete the installation of the Smoke Detection System in the Telecoms Room	Y
+Safety	X	N/A	Fire Alarm	Per the requirmetns of SAES-B-014 and NFPA 72	Y
+Safety	X	N/A	Fire Alarm	Complete the installation 5 of the combination audible/light alarms inside each room the building (Mechanical Room, Rack Room, Telec	Y
+Safety	X	N/A	Manual Pull Stations	as agreed with initiator, to be consolidated and close as per IFC	Y
+Safety	X	N/A	Fire Stopping	Per the requirmetns of SAES-B-014	Y
+Safety	X	N/A	Fire Stopping	Per the requirements of SAES-M-100 Section 701.2	Y
+Safety	X	N/A	Fire Stopping	Per the requirements of SAES-M-100 Section 701.2	Y
+Safety	X	N/A	Fire Stopping	The FIRE RESISTIVE ASSEMBLY PACKET shall be part of the completed construction documents per SAES-M-100 701.2.	Y
+Safety	X	N/A	Fire Water System	Per the requirments of SAES-B-017	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Safety	X	N/A	Fire Detection and Alarm System	Per the requiremetns of SAES-B-017	Y
+Safety	X	N/A	Fire Detection and Alarm System	Per the requiremetns of SAES-B-017	Y
+Safety	X	N/A	Dry Chemical Extinguishers	Complete the installation of Dry chemical extinguishers located on the exterior of process interface buildings near entrances.	Y
+IT	X	N/A	power	Permanent power is no ready	Y
+Electrical	X	N/A	PMCC-05-ELCT-PIB-19	Scope of work	Y
+Safety	X	N/A	Building Entrances	Per the requirements of SAES-B-54	Y
+Safety	X	N/A	Building Entrances	Per the requirements of SAES-B-54	Y
+Safety	X	N/A	Access/Egress	Complete the installation of doors of the Rack Room.	Y
+Safety	X	N/A	Fire Extinguisher	Per the requirements of SAES-B-014	Y
+Safety	X	N/A	Fire Extinguisher	Per the requirements of SAES-B-014	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Safety	X	N/A	Safety	as agreed with initiator. Kindly change to NO.	Y
+Electrical	X	N/A	Power distribution	Power distribution wiring is wrong. The red color shall be used only for DC power and not for AC.	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Torque Testing with Tag No# PC-14282 From 369-019-SG-301 To 369-019-XFR(T)-304. (Reference Drawing #369-P-CA-0828	Y
+Electrical	X	N/A	Grounding System	Complete the Conduits Installation for Grounding Cable of 369-019-XFR(T)-303. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-XFR(T)-303. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Transformers Pit	Scop of Work	Y
+Electrical	X	N/A	Steel Grating Mesh	Scop of Work	Y
+Electrical	X	N/A	Electrical Power	"In most electrical power distribution panels such as 369-019-PP-014 or 015 Breaker 16. There is a gray wire that is connected to a
+"	Y
+Electrical	X	N/A	Crushed Rock	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Conduits Installation for Grounding Cable of 369-019-XFR(T)-304. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-XFR(T)-304. (Reference Drawing #369-P-CB-0	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-XFR(T)-304. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Transformers Pit	Scop of Work	Y
+Electrical	X	N/A	Steel Grating Mesh	Scop of Work	Y
+Electrical	X	N/A	Crushed Rock	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-XFR(T)-301. (Reference Drawing #369-P-CB-0	Y
+Electrical	X	N/A	Power distribution	All Power distribution panels must have a laminated cable schedule inside the panel.	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-XFR(T)-301. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-XFR(T)-301. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for Star Point Grounding of 369-019-XFR(T)-301. (Refer	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for Star Point Grounding of 369-019-XFR(T)-301. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Transformers Pit	Provide Cleaning for Transformer and Pit With Tag No# 369-019-XFR(T)-301. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Steel Grating Mesh	Scop of Work	Y
+Electrical	X	N/A	Crushed Rock	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-XFR(T)-302. (Reference Drawing #369-P-CB-0	Y
+Communication	X	N/A	Paging System	The box is necessarly to protect the equipment.	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for Star Point Grounding of 369-019-XFR(T)-302. (Refer	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for Star Point Grounding of 369-019-XFR(T)-302. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Transformers Pit	Provide Cleaning for Transformer and Pit With Tag No# 369-019-XFR(T)-302. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Steel Grating Mesh	Complete the Steel Grating Mesh for 369-019-XFR(T)-302. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Crushed Rock	Provide Crushed Rock for 369-019-XFR(T)-302. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14291 From 369-019-XFR(T)-303 NEUTRAL BOX To 369-019-GR(Y)-201. (Reference Drawin	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14292 From 369-019-XFR(T)-304 NEUTRAL BOX To 369-019-GR(Y)-202. (Reference Drawin	Y
+Fire Protection	X	N/A	Fire Detection alarm	Complete the installation Fire Alarm Control Panel and its associated Major internal Components (Mother Board, Zone Card Modules, NA	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14291 From 369-019-XFR(T)-303 NEUTRAL BOX To 369-019-GR(Y)-201. (Referen	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14292 From 369-019-XFR(T)-304 NEUTRAL BOX To 369-019-GR(Y)-202. (Referen	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Hi Pot Testing with Tag No# PC-14291 From 369-019-XFR(T)-303 NEUTRAL BOX To 369-019-GR(Y)-201. (Reference Drawing	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Hi Pot Testing with Tag No# PC-14292 From 369-019-XFR(T)-304 NEUTRAL BOX To 369-019-GR(Y)-202. (Reference Drawing	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Torque Testing with Tag No# PC-14291 From 369-019-XFR(T)-303 NEUTRAL BOX To 369-019-GR(Y)-201. (Reference Drawing	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Torque Testing with Tag No# PC-14292 From 369-019-XFR(T)-304 NEUTRAL BOX To 369-019-GR(Y)-202. (Reference Drawing	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for Body Grounding of 369-019-GR(Y)-201. (Reference Drawing #369-P-CB-083	Y
+Fire Protection	X	N/A	Fire detection Alarm	"Complete the installation of all Smoke Detectors and provide each on the center of the ceiling void formed by concrete beam pockets
+"	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for Resistor Grounding of 369-019-GR(Y)-201. (Referenc	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for Resistor Grounding of 369-019-GR(Y)-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for Resistor Grounding of 369-019-GR(Y)-201. (Reference Drawing #369-P-CB	Y
+Electrical	X	N/A	Grounding System	Complete the Conduits Installation for Grounding Cable of 369-019-GR(Y)-202. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for Body Grounding of 369-019-GR(Y)-202. (Reference Dr	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for Body Grounding of 369-019-GR(Y)-202. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for Resistor Grounding of 369-019-GR(Y)-202. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for Resistor Grounding of 369-019-GR(Y)-202. (Reference Drawing #369-P-CB	Y
+Fire Protection	X	N/A	Fire Detection Alarm	Full Functional Test/ SAT shall be made on the Fire Detection Alarm System and to be witnessed by FrPD and LPD.	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-CBD-201 and CBD Support. (Reference Drawin	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-CBD-201 and CBD Support. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-CBD-202 and CBD Support. (Reference Drawing #369-P-CB-083009-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Bus HI pot with Tag No# 369-019-CBD-201. (Reference Drawing #369-P-CA-082819-001-001)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Bus HI pot with Tag No# 369-019-CBD-202. (Reference Drawing #369-P-CA-082819-001-001)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Bus Termination Torqueing Testing for 369-019-CBD-201. (Reference Drawing #369-P-CA-082819-001-001)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Bus Termination Torqueing Testing for 369-019-CBD-202. (Reference Drawing #369-P-CA-082819-001-001)	Y
+Fire Protection	X	N/A	Fire Detection Alarm	Full Functional Test/ SAT shall be made on the Fire Detection Alarm System and to be witnessed by FrPD and LPD.	Y
+Electrical	X	N/A	Cable Bus System	Complete Hold Down Clamp Installation for 369-019-CBD-201 outside of SS-19 beside wall.. (Reference Drawing #369-P-CA-082819-001-001	N
+Electrical	X	N/A	Cable Bus System	Scop of Work	N
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-CBD-001 and CBD Support. (Reference Drawin	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-CBD-001 and CBD Support. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-CBD-002 and CBD Support. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Cable Bus System	Complete the MCT Installation for Cable Bus.. (Reference Drawing #369-P-CB-082841-001-0A2)	N
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Bus Continuity and IR Testing for 369-019-CBD-002. (Reference Drawing #369-P-CA-082819-001-001)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Bus Termination Torqueing Testing for 369-019-CBD-002. (Reference Drawing #369-P-CA-082819-001-001)	Y
+Electrical	X	N/A	Cable Tray System	Provide Cleaning and Remove Cable Ties/Dirt's From Cable Bus 369-019-CBD-001 /002and 369-019-CBD-201/202. (Reference Drawing #369-P-	N
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-SG-201. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-SG-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-SG-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete the Bus Bar Torqueing for 369-019-SG-201. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+IT	X	N/A	Fiber patch cord	Fiber patch cord is not available	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Bus Bar Insulation Resistance for 369-019-SG-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The IR for Control Wiring of 369-019-SG-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Instrument and Control power Transformer Testing for 369-019-SG-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The all Functional Testing of 369-019-SG-201. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete the all Breaker installation inside 36-019-SG-201. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The All Breakers Testing and Setting for 369-019-SG-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Cleaning inside/outside and tope side of 369-019-SG-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-AFD-201. (Reference Drawing #369-P-CB-0830	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-AFD-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-AFD-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-AFD-202. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-AFD-202. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-AFD-202. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	Complete the installation of Duct Smoke Detectors on the supply air ducting.	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13500 From 369-019-SG-201 To 369-019-AFD-201. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying with Tag No# CC-13501 From 369-019-SG-201 To 369-019-AFD-201. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13501 From 369-019-SG-201 To 369-019-AFD-201. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13501 From 369-019-SG-201 To 369-019-AFD-201. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13501 From 369-019-SG-201 To 369-019-AFD-201. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13503 From 369-019-SG-201 To 369-019-AFD-202. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13503 From 369-019-SG-201 To 369-019-AFD-202. (Reference Drawing #369-P	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	Ensure that the Air Inlet Sampling Tube of Duct Smoke Detectors are protruded across the HVAC Ducting/ cladding and provide manufact	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14321 From 369-019-PP-001 To 369-019-AFD-201, COOLING FAN & SERVICE SUPPL	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14321 From 369-019-PP-001 To 369-019-AFD-201, COOLING FAN & SERVICE SUP	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14326 From 369-019-PP-002 To 369-019-AFD-202, COOLING FAN & SERVICE SUP	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14326 From 369-019-PP-002 To 369-019-AFD-202, COOLING FAN & SERVICE SUP	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying with Tag No# PC-14320 From 369-019-PP-014 To 369-019-AFD-201. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14320 From 369-019-PP-014 To 369-019-AFD-201. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying with Tag No# PC-14325 From 369-019-PP-015 To 369-019-AFD-202. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14325 From 369-019-PP-015 To 369-019-AFD-202. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14283 From 369-019-MCC-001 To 369-019-XFR(T)-301 . (Reference Drawing #	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13456 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #369-P-CD-082	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13456 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13456 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13457 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #369-P-CD-082	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	Provide Battery Dropped Calculation certificate in order to ensure that secondary power supply could stand its operation for the FAC	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13457 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13457 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13464 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13464 From 369-019-XFR(T)-301 To 369-019-SG-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14284 From 369-019-MCC-002 To 369-019-XFR(T)-302. (Reference Drawing #3	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13458 From 369-019-XFR(T)-302 To 369-019-SG-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13458 From 369-019-XFR(T)-302 To 369-019-SG-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13458 From 369-019-XFR(T)-302 To 369-019-SG-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13459 From 369-019-XFR(T)-302 To 369-019-SG-001. (Reference Drawing #369-P-CD-082	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13459 From 369-019-XFR(T)-302 To 369-019-SG-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+DCS	X	N/A	missing labeling Manual Alarm Call Point	the labeling of Manual Alarm Call Points installed inside the substation 19 are missing and it is required to have a proper identifi	N
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14285 From 369-019-MCC-001 To 369-019-XFR(T)-303. (Reference Drawing #3	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13460 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #369-P-CD-082	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13460 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13460 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #36	Y
+Fire Protection	X	N/A	Fire Detection Alarm	NFPA 72	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13461 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #369-P-CD-082	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13461 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13466 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #369-P-CD-082	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13466 From 369-019-XFR(T)-303 To 369-019-SG-201. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14286 From 369-019-MCC-002 To 369-019-XFR(T)-304. (Reference Drawing #369-P-CB-08	Y
+IT	X	N/A	UPS	UPS is not powered on	N
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14286 From 369-019-MCC-002 To 369-019-XFR(T)-304. (Reference Drawing #369	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14286 From 369-019-MCC-002 To 369-019-XFR(T)-304. (Reference Drawing #3	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13463 From 369-019-XFR(T)-304 To 369-019-SG-201. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13463 From 369-019-XFR(T)-304 To 369-019-SG-201. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14287 From 369-019-PP-003 To 369-019-XFR(T)-301 AUXILIARY. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14287 From 369-019-PP-003 To 369-019-XFR(T)-301 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14287 From 369-019-PP-003 To 369-019-XFR(T)-301 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14288 From 369-019-PP-003 To 369-019-XFR(T)-302 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14288 From 369-019-PP-003 To 369-019-XFR(T)-302 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14289 From 369-019-PP-003 To 369-019-XFR(T)-303 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14289 From 369-019-PP-003 To 369-019-XFR(T)-303 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14290 From 369-019-PP-003 To 369-019-XFR(T)-304 AUXILIARY. (Reference D	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-MCC-201. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-MCC-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-MCC-201. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-MCC-202. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 10	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Instrument and Control Power Transformer Testing for 369-019-MCC-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Cleaning	Complete The Cleaning inside/outside and top side of 369-019-MCC-201 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Instrument and Control Power Transformer Testing for 369-019-MCC-202 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Fuse	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Cleaning	Complete The Cleaning inside/outside and tope side of 369-019-MCC-202 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13512 From 369-019-MCC-201 To 369-019-CP-007. (Reference Drawing #369-P-CD-082861	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13512 From 369-019-MCC-201 To 369-019-CP-007. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13512 From 369-019-MCC-201 To 369-019-CP-007. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13512 From 369-019-MCC-201 To 369-019-CP-007. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13517 From 369-019-MCC-202 To 369-019-CP-007. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13522 From 369-019-MCC-201 To 369-019-CP-007. (Reference Drawing #369-P-CD-082861	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13522 From 369-019-MCC-201 To 369-019-CP-007. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13527 From 369-019-MCC-202 To 369-019-CP-007. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13527 From 369-019-MCC-202 To 369-019-CP-007. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13513 From 369-019-MCC-201 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13513 From 369-019-MCC-201 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	Expedite the installation of all Catch Basins/ OWS per approved design for all Oil filled Transformers	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13514 From 369-019-MCC-201 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13514 From 369-019-MCC-201 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13518 From 369-019-MCC-202 To 369-IRP-204. (Reference Drawing #369-P-CD-0	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13518 From 369-019-MCC-202 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13518 From 369-019-MCC-202 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13519 From 369-019-MCC-202 To 369-IRP-204. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Fire Protection	X	N/A	Portable Fire Extinguisher	NFPA 10	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13519 From 369-019-MCC-202 To 369-IRP-204. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13524 From 369-019-MCC-201 To 369-IRP-205. (Reference Drawing #369-P-CD-0	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13524 From 369-019-MCC-201 To 369-IRP-205. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13528 From 369-019-MCC-202 To 369-IRP-205. (Reference Drawing #369-P-CD-082861)	Y
+Fire Protection	X	N/A	Fire Alarm Control	NFPA 72	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13529 From 369-019-MCC-202 To 369-IRP-205. (Reference Drawing #369-P-CD-0	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13529 From 369-019-MCC-202 To 369-IRP-205. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-SG-001. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-SG-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-SG-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+IT	X	N/A	Fiber patch panel is not labeled	Fiber patch panel is not labeled	N
+DCS	X	N/A	labeling missing in Smoke detectors	the labeling of Smoke detectors have to be installed.	N
+Electrical	X	N/A	Electrical Equipment Testing	Complete the Bus Bar Torqueing, IR, Hipot, Contact Resistance for 369-019-SG-001. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Breaker Installation	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete The Cleaning inside/outside and tope side of 369-019-SG-001 . (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No#PC-14295 From 
+369-019-PP-006 To 369-019-SG-001, BUS-A. (Reference Drawing
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14295 From 
+369-019-PP-006 To 369-019-SG-001, BUS-A. (Reference Drawin"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No#PC-14296 From 
+369-019-PP-007 To 369-019-SG-001, BUS-B. (Reference Drawing
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14296 From 
+369-019-PP-007 To 369-019-SG-001, BUS-B. (Reference Drawin"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14296 From
+369-019-PP-007 To 369-019-SG-001, BUS-B. (Reference Drawin
+"	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-MCC-002. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-MCC-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Complete the Bus Bar Torqueing, IR, Hipot, Contact Resistance for 369-019-MCC-001. (Reference Drawing #369-P-CB-082819-001-00)	Y
+Fire Protection	X	N/A	Fire Alarm Control Panel	NFPA 72	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Cleaning	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Testing	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Fire Protection	X	N/A	FACP	NFPA 72	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14300 From 369-019-SG-001 To 369-019-MCC-002. (Reference Drawing #369-P-CB-082823	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination with Tag No# PC-14299 From 369-019-SG-001 To 369-019-MCC-001. (Reference Drawing #369-P-CB-082819-001	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination with Tag No# PC-14300 From 369-019-SG-001 To 369-019-MCC-002. (Reference Drawing #369-P-CB-082823-002	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete the Battery Charger Installation with Tag No# 369-019-BC-001/002. (Reference Drawing #369-P-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-BC-001/002. (Reference Drawing #369-P-CB-0	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+DCS	X	N/A	lifting bolts missing in IRPs cabinets	lifting bolts of IRPs' cabinets are missing and shall be installed as per the material specification sheet for instrument control ca	N
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14411 From 369-019-MCC-001 To 369-019-BC-001. (Reference Drawing #369-P-CB-082819	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14412 From 369-019-MCC-002 To 369-019-BC-002. (Reference Drawing #369-P-CB-082823	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14411 From 369-019-MCC-001 To 369-019-BC-001. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No# PC-14412 From 369-019-MCC-002 To 369-019-BC-002. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14411 From 369-019-MCC-001 To 369-019-BC-001. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14412 From 369-019-MCC-002 To 369-019-BC-002. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	PMCC-05-ELCT-PIB-19	Scope of work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-PP-006. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14417 From 369-019-BC-001/002 To 369-019-PP-006. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14277 From 
+369-019-PP-006 To 369-019-SG-301, BUS-A. (Reference Drawin"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14277 From
+369-019-PP-006 To 369-019-SG-301, BUS-A. (Reference Drawin
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No#PC-14297 From 
+369-019-PP-006 To 369-019-SG-201 ,BUS-A. (Reference Drawing
+"	Y
+Electrical	X	N/A	metal nameplate is missing in LV Panel	metal nameplate is missing in one of power cable entering from below the LV Panel	N
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14297 From 
+369-019-PP-006 To 369-019-SG-201 ,BUS-A. (Reference Drawin"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14420 From 
+369-019-PP-006 To 
+369-019-CP-005. (Reference Drawing #36"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14422 From 
+369-019-PP-006 To 369-019-PSA-001, CABINET-001. (Reference"	Y
+Electrical	X	N/A	Arc Flash Labels for 240V and above equi	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14422 From
+369-019-PP-006 To 369-019-PSA-001, CABINET-001. (Reference
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No#PC-14423 From 
+369-019-PP-006 To 369-019-PSA-001, CABINET-002. (Reference D"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14423 From 
+369-019-PP-006 To 369-019-PSA-001, CABINET-002. (Reference"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14423 From
+369-019-PP-006 To 369-019-PSA-001, CABINET-002. (Reference
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No#PC-14424 From 
+369-019-PP-006 To 369-019-PSA-001, CABINET-003. (Reference D"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14424 From 
+369-019-PP-006 To 369-019-PSA-001, CABINET-003. (Reference"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14424 From
+369-019-PP-006 To 369-019-PSA-001, CABINET-003. (Reference
+"	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Substation No. 19 Building No. Signage	Install Substation No. 19 building signage	N
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14418 From 369-019-BC-001/002 To 369-019-PP-007. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14418 From 369-019-BC-001/002 To 369-019-PP-007. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Substation Bldg. Windsock	Install substation building windsock	N
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No#PC-14425 From 
+369-019-PP-007 To 369-019-PSA-001, CABINET-001. (Reference D"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Laying /Pulling with Tag No# PC-14425 From 
+369-019-PP-007 To 369-019-PSA-001, CABINET-001. (Reference Drawing #"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14425 From
+369-019-PP-007 To 369-019-PSA-001, CABINET-001. (Reference
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Laying /Pulling with Tag No#PC-14426 From 
+369-019-PP-007 To 369-019-PSA-001, CABINET-002. (Reference Drawing #3"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+IT	X	N/A	UTP patch panel is not labeled	UTP patch panel is not labeled	N
+Civil	X	N/A	Substation doors, guard railings and bol	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No#PC-14427 From
+369-019-PP-007 To 369-019-PSA-001, CABINET-003. (Reference
+"	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	SPDP package for all Substation No. 19 E	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13674 From 369-019-BC-001 To DSW FOR BATTERY BANK-1 369-019-DSW-001. (Reference D	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-DSW-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14415 From BATTERY CHARGER 369-019-BC-002 To DSW FOR BATTERY BANK-2 369-019-DSW-0	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14415 From BATTERY CHARGER 369-019-BC-002 To DSW FOR BATTERY BANK-2 369-0	Y
+Electrical	X	N/A	Special tools and equipment	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13675 From 369-019-BC-002 To DSW FOR BATTERY BANK-2 369-019-DSW-002. (Reference D	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13675 From 369-019-BC-002 To DSW FOR BATTERY BANK-2 369-019-DSW-002. (Ref	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13675 From 369-019-BC-002 To DSW FOR BATTERY BANK-2 369-019-DSW-002. (R	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Tools and PPE Cabinets	Need to be completed prior to approval of final MCC	N
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14414 From 369-019-DSW-001 To 369-019-SB-001. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14414 From 369-019-DSW-001 To 369-019-SB-001. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13670 From 369-019-BC-001 To TEMP. SENSOR JUNCTION BOX (369-019-JB-012). (Referen	Y
+Electrical	X	N/A	Electrical Control Cable	"Complete the Cable Glanding and Termination with Tag No#CC-13670 From 369-019-BC-001 To TEMP. SENSOR JUNCTION BOX (369-019-JB-012).
+"	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13670 From 369-019-BC-001 To TEMP. SENSOR JUNCTION BOX (369-019-JB-012)	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13670 From 369-019-BC-001 To TEMP. SENSOR JUNCTION BOX (369-019-JB-012)	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	A0 Single Line Diagram	Provide A0 size latest copy of overall single line diagram to be hanged with a frame inside switchgear room of Substation 19.	N
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Installation	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete The Battery Installation in Battery Rack A 369-019-SB-001. (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete The Battery Connection and Torqueing in Battery Rack A 369-019-SB-001. (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-SB-002. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-SB-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-SB-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14416 From 369-019-DSW-002 To 369-019-SB-002. (Reference Drawing #369-P-CD-082861	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14416 From 369-019-DSW-002 To 369-019-SB-002. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14416 From 369-019-DSW-002 To 369-019-SB-002. (Reference Drawing #369-P	Y
+Civil	X	N/A	Touch-up for damaged paints on walls and	Perform touch-up for damaged paints on walls and floors of Substation 19.	N
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14416 From 369-019-DSW-002 To 369-019-SB-002. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13672 From 369-019-BC-002 To BATTERY BANK (369-019-SB-002) , TEMP. SENSOR	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13673 From TEMP. SENSOR JUNCTION BOX (369-019-JB-013) To BATTERY BANK(369-019-SB-	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13673 From TEMP. SENSOR JUNCTION BOX (369-019-JB-013) To BATTERY BANK(3	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete the TEMP. SENSOR, JUNCTION BOX Installation and Functional Testing with Tag No# 369-019-JB-013 . (Reference Drawing #369-A-	Y
+Civil	X	N/A	Flood testing for substation roof water	Complete flood testing for substation roof water proofing.	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete The Battery Installation in Battery Rack B 369-019-SB-002. (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete The Battery Connection and Torqueing in Battery Rack B 369-019-SB-002. (Reference Drawing #369-A-CB-082841-001-0A2)	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13676 From 369-019-BC-001 To DDC PANEL, 369-SS019-DDC-002. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13676 From 369-019-BC-001 To DDC PANEL, 369-SS019-DDC-002. (Reference Dra	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13676 From 369-019-BC-001 To DDC PANEL, 369-SS019-DDC-002. (Reference D	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Termination Torque Testing with Tag No#CC-13676 From 369-019-BC-001 To DDC PANEL, 369-SS019-DDC-002. (Reference D	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13677 From 369-019-BC-002 To DDC PANEL, 369-SS019-DDC-002. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Civil	X	N/A	Backfilling and asphalting of substation	Need to be completed prior to approval of final MCC	N
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Laying /Pulling with Tag No# PC-14372 From 369-SS019-DDC-002 To BATTERY ROOM
+HORN. (Reference Drawing #369-P-CD-"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Glanding and Termination with Tag No# PC-14372 From 369-SS019-DDC-002 To BATTERY ROOM
+HORN. (Reference Drawing #"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Continuity and IR Testing with Tag No# PC-14372 From 369-SS019-DDC-002 To BATTERY ROOM
+HORN. (Reference Drawing
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Termination Torque Testing with Tag No# PC-14372 From 369-SS019-DDC-002 To BATTERY ROOM
+HORN. (Reference Drawing"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Cable Laying /Pulling with Tag No# PC-14374 From 369-SS019-DDC-002 To BATTERY ROOM
+HORN. (Reference Drawing #369-P-CD-"	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-DDC-002. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Civil	X	N/A	Flood testing for substation outdoor sur	Need to be completed prior to approval of final MCC	N
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-DDC-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13742 From 369-019-PSA-001 To 369-SS019-DDC-002. (Reference Drawing #36	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Civil	X	N/A	Fence for transformer yard area	Complete installation of fence for transformer yard area	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14554 From 369-019-PP-003 To 369-019-PSA-001. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-XFR-001. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-XFR-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14471 From 369-019-MCC-001 To 369-019-XFR-001. (Reference Drawing #369-P-CB-08281	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14471 From 369-019-MCC-001 To 369-019-XFR-001. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14471 From 369-019-MCC-001 To 369-019-XFR-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14471 From 369-019-MCC-001 To 369-019-XFR-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+IT	X	N/A	IT sign is not installed on the cabinet	IT sign is not installed on the cabinet	N
+Electrical	X	N/A	Underground cable marker	Complete installation of underground cable marker for all outdoor surrounding area of Substation 19.	N
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14473 From 369-019-XFR-001 To 369-019-PP-001. (Reference Drawing #369-P-CB-082875	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14473 From 369-019-XFR-001 To 369-019-PP-001. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14475 From 369-019-PP-001 To 369-019-LP-001. (Reference Drawing #369-P-CB-082875.	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14475 From 369-019-PP-001 To 369-019-LP-001. (Reference Drawing #369-P-CB	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	13.8kV switchgear energization package S	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14476 From 369-019-PP-001 To 369-019-PP-003. (Reference Drawing #369-P-CB-082875.	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14476 From 369-019-PP-001 To 369-019-PP-003. (Reference Drawing #369-P-CB	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14476 From 369-019-PP-001 To 369-019-PP-003. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14476 From 369-019-PP-001 To 369-019-PP-003. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14477 From 369-019-PP-001 To 369-019-CP-001. (Reference Drawing #369-P-CB-082875.	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14477 From 369-019-PP-001 To 369-019-CP-001. (Reference Drawing #369-P-CB	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-PP-003. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-PP-003. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	13.8kV/4.16kV transformer energization p	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14293 From 369-019-PP-003 To SPACE HEATER 369-019-GR(Y)-201. (Reference Drawing #	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14293 From 369-019-PP-003 To SPACE HEATER 369-019-GR(Y)-201. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14294 From 369-019-PP-003 To SPACE HEATER 369-019-GR(Y)-202. (Reference Drawing #	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14294 From 369-019-PP-003 To SPACE HEATER 369-019-GR(Y)-202. (Reference D	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14294 From 369-019-PP-003 To SPACE HEATER 369-019-GR(Y)-202. (Reference	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14294 From 369-019-PP-003 To SPACE HEATER 369-019-GR(Y)-202. (Reference	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	13.8kV/4.16kV transformer energization p	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14551 From 369-019-PP-003 To 369-SS019-LFACP-001. (Reference Drawing #369	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14551 From 369-019-PP-003 To 369-SS019-LFACP-001. (Reference Drawing #3	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-LFACP-001. (Reference Drawing #369-P-CB-08	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-LFACP-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-LFACP-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete The Battery Cable Termination Torque Testing for 369-019-LFACP-001. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Laying /Pulling with Tag No# CC-13743 From 369-019-PSA-001 To 369-019-LFACP-001. (Reference Drawing #369-P-CD-082	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Glanding and Termination with Tag No#CC-13743 From 369-019-PSA-001 To 369-019-LFACP-001. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Control Cable	Complete the Cable Continuity and IR Testing with Tag No# CC-13743 From 369-019-PSA-001 To 369-019-LFACP-001. (Reference Drawing #36	Y
+Electrical	X	N/A	Oil Containement Pit	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Control Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14552 From 369-019-PP-003 To TELECOM ENCLOSURE OUTLET-1. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14552 From 369-019-PP-003 To TELECOM ENCLOSURE OUTLET-1. (Reference Drawi	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14552 From 369-019-PP-003 To TELECOM ENCLOSURE OUTLET-1. (Reference Dra	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14553 From 369-019-PP-003 To TELECOM ENCLOSURE OUTLET-2. (Reference Drawi	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14553 From 369-019-PP-003 To TELECOM ENCLOSURE OUTLET-2. (Reference Dra	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14553 From 369-019-PP-003 To TELECOM ENCLOSURE OUTLET-2. (Reference Dra	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14555 From 369-019-PP-003 To 369-SS019-DDC-002. (Reference Drawing #369-P-CD-0828	Y
+Electrical	X	N/A	Fire extinguisher transformer yard and i	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14556 From 369-019-PP-003 To 369-IRP-201. (Reference Drawing #369-P-CD-08	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14557 From 369-019-PP-003 To 369-IRP-202. (Reference Drawing #369-P-CD-08	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14557 From 369-019-PP-003 To 369-IRP-202. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	4.16kV Switchgear Energization Package S	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14557 From 369-019-PP-003 To 369-IRP-202. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14558 From 369-019-PP-003 To 369-IRP-203. (Reference Drawing #369-P-CD-08	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14558 From 369-019-PP-003 To 369-IRP-203. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14560 From 369-019-PP-003 To 369-IRP-205. (Reference Drawing #369-P-CD-082875-006	Y
+Electrical	X	N/A	4.16kV MCC Energization Package MCC-201	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14560 From 369-019-PP-003 To 369-IRP-205. (Reference Drawing #369-P-CD-08	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14560 From 369-019-PP-003 To 369-IRP-205. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14560 From 369-019-PP-003 To 369-IRP-205. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Continuity and IR Testing with Tag No# CKT-1 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-	Y
+Electrical	X	N/A	4.16kV MCC Energization Package MCC-202	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Laying /Pulling with Tag No# CKT-2 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-006-0A1)	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Glanding and Termination with Tag No#CKT-2 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-00	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Continuity and IR Testing with Tag No# CKT-2 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Laying /Pulling with Tag No# CKT-3 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-006-0A1)	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	AFD Energization Package AFD-201	Submit energization package for AFD 369-019-AFD-201 for review and approval	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Glanding and Termination with Tag No#CKT-14 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-0	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Continuity and IR Testing with Tag No# CKT-14 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Laying /Pulling with Tag No# CKT-21 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-006-0A1)	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Termination Torque Testing with Tag No#CKT-21 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Glanding and Termination with Tag No#CKT-22 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875-0	Y
+Electrical	X	N/A	Electrical Outlet	Complete the Cable Continuity and IR Testing with Tag No# CKT-22 From 369-019-PP-003 To Outlets. (Reference Drawing #369-P-CD-082875	Y
+IT	X	N/A	UTP cable test result has to be provided	UTP cable test result has to be provided	N
+Electrical	X	N/A	AFD Energization Package AFD-202	Submit energization package for AFD 369-019-AFD-202 for review and approval	Y
+Electrical	X	N/A	Electrical Outlet	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-LP-001. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-LP-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-LP-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Equipment Installation	Complete the Cable Laying /Pulling with Tag No# CKT-1 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Drawing #369	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Continuity and IR Testing with Tag No# CKT-1 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Laying /Pulling with Tag No# CKT-2 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Drawing #369	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Provide vendor training for operation an	Provide vendor training for operation and maintenance of AFD	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Termination Torque Testing with Tag No#CKT-2 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Laying /Pulling with Tag No# CKT-3 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Drawing #369	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Glanding and Termination with Tag No#CKT-3 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Draw	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Continuity and IR Testing with Tag No# CKT-3 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Laying /Pulling with Tag No# CKT-5 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Drawing #369	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Continuity and IR Testing with Tag No# CKT-5 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Termination Torque Testing with Tag No#CKT-5 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	13.8kV/480V transformer energization pac	Submit 13.8kV/480V transformer 369-019-XFR(T)-301 energization package for review and approval, including associated NGR	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Continuity and IR Testing with Tag No# CKT-6 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Laying /Pulling with Tag No# CKT-7 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Drawing #369	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Glanding and Termination with Tag No#CKT-7 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Draw	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Continuity and IR Testing with Tag No# CKT-7 From 369-019-LP-001 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-CP-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	13.8kV/480V transformer energization pac	Submit 13.8kV/480V transformer 369-019-XFR(T)-302 energization package for review and approval, including associated NGR	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-CP-001. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-LP-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-LP-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14478 From 369-019-CP-001 To 369-019-LP-002. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14478 From 369-019-CP-001 To 369-019-LP-002. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Laying /Pulling with Tag No# CKT-3 From 369-019-LP-002 To Lighting and Lighting Switches. (Reference Drawing #369	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Glanding and Termination with Tag No#CKT-3 From 369-019-LP-002 To Lighting and Lighting Switches. (Reference Draw	Y
+Electrical	X	N/A	480V Switchgear Energization Package SG-	Submit 480V switchgear energization package for review and approval, including associated cable buses	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Continuity and IR Testing with Tag No# CKT-3 From 369-019-LP-002 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Termination Torque Testing with Tag No#CKT-3 From 369-019-LP-002 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Glanding and Termination with Tag No#CKT-4 From 369-019-LP-002 To Lighting and Lighting Switches. (Reference Draw	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Cable Termination Torque Testing with Tag No#CKT-4 From 369-019-LP-002 To Lighting and Lighting Switches. (Reference Dr	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-XFR-002. (Reference Drawing #369-P-CB-0830	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-XFR-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-XFR-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14478 From 369-019-MCC-002 To 369-019-XFR-002. (Reference Drawing #369-P-CB-08282	Y
+Electrical	X	N/A	480V MCC Energization Package MCC-001	Submit 480V MCC 369-019-MCC-001 energization package for review and approval	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14478 From 369-019-MCC-002 To 369-019-XFR-002. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14478 From 369-019-MCC-002 To 369-019-XFR-002. (Reference Drawing #369-	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-PP-002. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14478 From 369-019-XFR-002 To 369-019-PP-002. (Reference Drawing #369-P-CD-082861	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14478 From 369-019-XFR-002 To 369-019-PP-002. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14478 From 369-019-XFR-002 To 369-019-PP-002. (Reference Drawing #369-P	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14478 From 369-019-XFR-002 To 369-019-PP-002. (Reference Drawing #369-P	Y
+Electrical	X	N/A	480V MCC Energization Package MCC-002	Submit 480V MCC 369-019-MCC-002 energization package for review and approval	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14479 From 369-019-PP-002 To 369-019-LP-003. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14479 From 369-019-PP-002 To 369-019-LP-003. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Battery charger energization package BC-	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Laying /Pulling with Tag No# PC-14482 From 369-019-PP-002 To 369-019-CP-002. (Reference Drawing #369-P-CD-082861)	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Glanding and Termination with Tag No#PC-14482 From 369-019-PP-002 To 369-019-CP-002. (Reference Drawing #369-P-CD	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Continuity and IR Testing with Tag No# PC-14482 From 369-019-PP-002 To 369-019-CP-002. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14482 From 369-019-PP-002 To 369-019-CP-002. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Grounding System	Complete The Grounding Cable Laying/Pulling With Permanent Identification Tag for 369-019-LP-003. (Reference Drawing #369-P-CB-08300	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-LP-003. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-LP-003. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	PSA energization package PSA-001	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Termination with Tag No#CKT-1 From 369-019-LP-003 To Lighting and Lighting Switches. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Installation with Tag No# CKT-5 From 369-019-LP-003 To Lighting and Lighting Switches. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Continuity and IR Testing with Tag No# CKT-5 From 369-019-LP-003 To Lighting and Lighting Switches. (Reference Dra	Y
+Electrical	X	N/A	PSA interface with DCS	Required as per MCC GI, related to safe operation of substation and associated equipment	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Installation with Tag No# CKT-6 From 369-019-LP-003 To Lighting and Lighting Switches. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Continuity and IR Testing with Tag No# CKT-6 From 369-019-LP-003 To Lighting and Lighting Switches. (Reference Dra	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Termination Torque Testing with Tag No#CKT-6 From 369-019-LP-003 To Lighting and Lighting Switches. (Reference Dra	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Scop of Work	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Continuity for 369-019-CP-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+IT	X	N/A	Grounding the equipment and cabinet	Grounding the equipment and cabinet were not completed	Y
+Electrical	X	N/A	Energization package for lighting distri	Submit energization packages for all indoor and outdoor lighting distribution panels along with associated dry-type transformers and	Y
+Electrical	X	N/A	Grounding System	Complete the Grounding Cable Termination Torqueing Testing for 369-019-CP-002. (Reference Drawing #369-P-CB-083009-001-0A2)	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Cable Termination Torque Testing with Tag No#PC-14483 From 369-019-CP-002 To 369-019-LP-004. (Reference Drawing #369-P-	Y
+Electrical	X	N/A	Electrical Power Cable	Complete the Wire Installation with Tag No# PC-14495 From 369-019-LP-004 To Lighting and Lighting Switches. (Reference Drawing #369-	Y
+Electrical	X	N/A	Electrical Power Cable	Scop of Work	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Wire Continuity and IR Testing with Tag No# PC-14495 From 369-019-LP-004 To Lighting and Lighting Switches. (Reference
+"	Y
+Electrical	X	N/A	Electrical Power Cable	"Complete the Wire Termination Torque Testing with Tag No#PC-14495 From 369-019-LP-004 To Lighting and Lighting Switches. (Reference
+"	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Installation with Tag No# CKT-2 From 369-019-LP-004 To Lighting and Lighting Switches. (Reference Drawing #369-P-C	Y
+Electrical	X	N/A	Energization package for power distribut	Submit energization packages for all power panels along with associated dry-type transformers	Y
+Electrical	X	N/A	Lighting System	Complete the Wire Termination with Tag No#CKT-2 From 369-019-LP-004 To Lighting and Lighting Switches. (Reference Drawing #369-P-CD-	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Lighting System	Scop of Work	Y
+Electrical	X	N/A	Energization package for motor space hea	Submit energization packages for all motor space heater panels along with associated control panel	Y
+Electrical	X	N/A	Energization package for 125V DC distrib	Submit energization packages for all 125VDC distribution panels	Y
+Mechanical	X	N/A	Functional testing of HVAC units	Complete functional testing of HVAC units along with associated equipment such as exhaust fan and interlocks of HVAC units	Y
+Instrumentation	X	N/A	Functional testing of signal interfaces	Complete functional testing of signal interfaces between IRP to DCS	Y
+Electrical	X	N/A	Indoor and outdoor substation lighting i	Complete installation and functional testing of indoor and outdoor substation lighting including exit lights	Y
+Electrical	X	N/A	Socket outlet and welding outlet inside	Complete installation and functional testing of Socket outlet and welding outlet inside and outside substation	Y
+Civil	X	N/A	Fireproofing of substation wall and floo	Need to be completed prior to approval of final MCC	N
+Electrical	X	N/A	Power Cable Trench	Scop of Work	Y
+

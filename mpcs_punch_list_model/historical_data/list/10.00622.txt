@@ -1,0 +1,2031 @@
+CATEGORY_TEXT	CONT_SCOPE	FUNC_LOC	ITEM_TITLE	ITEM_DESCRIPTION	STARTUP
+Electrical	X	N/A	Substation drawings	Provide all substaion drawings	N
+Instrumentation	X	N/A	607-PDIT-0051 to be Installed	Scope of work.	Y
+HVAC	X	N/A	607-607-PDIT-0051 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	607-607-PDIT-0051 Identification	Scope of work.	N
+HVAC	X	N/A	T3 Installation	Scope of work.	Y
+HVAC	X	N/A	T3 Cable Activities	Scope of work.	N
+HVAC	X	N/A	T3  Identification	Scope of work.	N
+HVAC	X	N/A	FSD-6 Conduit Installation	Scope of work.	Y
+HVAC	X	N/A	FSD-6  Cable Activities	Fire and smoke damper, FSD-6 cable to be pulled, taggged, terminated and tested.	N
+HVAC	X	N/A	FSD-6 Identification	Fire and smoke damper, FSD-6 to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	FSD-7 Conduit Installation	Fire and smoke damper, FSD-7 no conduit installed.	Y
+HVAC	X	N/A	FSD-7 Cable Activities	Fire and smoke damper, FSD-7  cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	FSD-7 Identification	Fire and smoke damper, FSD-7 to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	FSD-4 Conduit Installation	Fire and smoke damper, FSD-4 no conduit installed.	Y
+HVAC	X	N/A	FSD-4 Cable Activities	Fire and smoke damper, FSD-4  cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	FSD-4 Identification	Fire and smoke damper, FSD-4 to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	FSD-5 Conduit Installation	Fire and smoke damper, FSD-5 no conduit installed.	Y
+HVAC	X	N/A	FSD-5 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	FSD-5 Identification	Scope of work.	N
+HVAC	X	N/A	607-PDIT-0050 Installation	Scope of work.	Y
+HVAC	X	N/A	607-PDIT-0050 Cable Activities	Scope of work.	Y
+Electrical	X	N/A	Close all punch items as per SAES	SAES	N
+HVAC	X	N/A	607-PDIT-0050 Identification	Scope of work.	N
+HVAC	X	N/A	T2 Installation	Scope of work.	Y
+HVAC	X	N/A	T2 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	T2 Identification	Scope of work.	N
+HVAC	X	N/A	FSD-1 Conduit Installation	Fire and smoke damper, FSD-1 no conduit installed.	Y
+HVAC	X	N/A	FSD-1 Cable Activities	Fire and smoke damper, FSD-1 cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	FSD-1 Identification	Fire and smoke damper, FSD-1  to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	TS-1 Cable Activities	Return air temp. device, TS-1 cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	TS-1 Installation	Return air temp. device, TS-1 in mechanical room not yet installed.	Y
+HVAC	X	N/A	TS-1 Identification	Return air temp. device, TS-1 in mechanical room  to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	MD-5 Installation	Motorized dumper, MD-5 in mechanical room not yet installed.	Y
+HVAC	X	N/A	MD-5 Cable Activities	Motorized dumper, MD-5 cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	MD-5 Identification	Scope of work.	N
+HVAC	X	N/A	TS-2 Installation	Supply air temp. device, TS2 in battery room not yet installed.	Y
+HVAC	X	N/A	TS-2 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	TS-2 Identification	Scope of work.	N
+HVAC	X	N/A	PDSH for AHU-2A	Pressure Differential Switch high for AHU-2A not installed.	Y
+HVAC	X	N/A	PDSH for AHU-2A Cable Activities	Scope of work.	Y
+HVAC	X	N/A	PDSH for AHU-2A Identification	Scope of work.	N
+HVAC	X	N/A	PDSL for AHU-2A	Scope of work.	Y
+HVAC	X	N/A	FSD Installation-01	Scope of Work	Y
+HVAC	X	N/A	PDSL for AHU-2A Cable Activities	Pressure Differential Switch low cable to be pulled, tagged, terminated and tested.	Y
+HVAC	X	N/A	PDSL for AHU-2A Identification	Pressure Differential Switch low for AHU-2A to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	MD-2 Installation	Scope of work.	Y
+HVAC	X	N/A	MD-2 Cable Activities	Motorized dumper, MD-2 cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	MD-2 Identification	Motorized dumper, MD-2 in mechanical room  to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	PDSH for AHU-2B	Scope of work.	Y
+HVAC	X	N/A	PDSH for AHU-2B Cable Activities	Scope of work.	Y
+HVAC	X	N/A	PDSH for AHU-2B Identification	Scope of work.	N
+HVAC	X	N/A	PDSL for AHU-2B	Scope of work.	Y
+HVAC	X	N/A	PDSL for AHU-2B Cable Activities	Scope of work.	Y
+HVAC	X	N/A	PDSL for AHU-2B Identification	Scope of work.	N
+HVAC	X	N/A	FSD-01 Access Door Installation	Complete installation of Access door Fire smoke damper Tag-01 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-4 Installation	Motorized dumper, MD-4 in mechanical room not yet installed.	Y
+HVAC	X	N/A	MD-4 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	MD-4 Identification	Motorized dumper, MD-4 in mechanical room  to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	FSD-2 Conduit Installation	Fire and smoke damper, FSD-2 no conduit installed.	Y
+HVAC	X	N/A	FSD Installation-02	Complete installation of Fire smoke damper Tag-02 at Mechanical Room Substation building	Y
+Instrumentation	X	N/A	FSD-2 Cable Activities	Fire and smoke damper, FSD-2  cable to be pulled, tagged, terminated and tested.	Y
+HVAC	X	N/A	FSD-2 Identification	Fire and smoke damper, FSD-2  to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	FSD-02 Access Door Installation	Scope of Work	Y
+HVAC	X	N/A	MD-3 Installation	Motorized dumper, MD-3 in mechanical room not yet installed.	Y
+HVAC	X	N/A	MD-3 Cable Activities	Motorized dumper, MD-3 cable to be pulled, tagged, terminated and tested.	Y
+HVAC	X	N/A	MD-3 Identification	Motorized dumper, MD-3 in mechanical room  to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	MD-1 Installation	Motorized dumper, MD-1 in mechanical room not yet installed.	Y
+HVAC	X	N/A	MD-1 Cable Activities	Motorized dumper, MD-1 cable to be pulled, tagged, terminated and tested.	Y
+HVAC	X	N/A	MD-1 Identification	Scope of work.	N
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install hollow metal door (D1) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install hollow metal door (D2) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install hollow metal door (D2) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install hollow metal door (D2) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install door (D4) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located at exterior s	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	SAES-Q-012, Section 7 & 8.	N
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install galvanized steel caged ladder painted yellow color, located at lower bay, exterior side of Switchgear room, east of Substati	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install galvanized steel caged ladder painted yellow color, located at higher bay, exterior side of GIS room, north of Substation Bu	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete balance concrete screed at floor below GIS room, Substation Bulding, to be provided with control joints and applied with ap	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete the balance painting with textured finish at columns and beams below GIS room, Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Remove the backfill materials used as temporary ramp at the exterior side of GIS room, South of Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete the installation of steel stair and platform at East side of GIS room, Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete the installation of steel stair and platform at South side of GIS room, Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Provide ramp up at the entrance of door (D1) in Mechanical room, Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Provide ramp up at the entrance of door (D1) in Swithgear room, Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final non-slip epoxy paint on floor of Mechanical room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final non-slip epoxy paint on floor of Relay room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete the backfilling around the sides of cable entry support foundations (6-Nos) after complete application of protective coatin	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	N
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final paint on the walls of Mechanical room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final paint on the walls of Switchgear room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final paint on the walls of Relay room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final paint on the walls of GIS room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Complete application for the final paint on the walls of Battery room at Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Scope of work.	N
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Add gravel to make a uniform thickness of 50 mm in all areas of roof at Substation Building.	N
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install steel screen at every scupper drain at roof to prevent entry of gravel to downspout which will cause water clog - Substation	N
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Conduct water slope test at floor of Battery room, Substation Building.	Y
+Civil	X	N/A	PMCC 1A - GIS Substation Building	Install fire stops in openings around penetrations through fire resistant rated walls , partitiions, floors or ceiling - Substation	Y
+HVAC	X	N/A	FSD-3 Conduit Installation	Fire and smoke damper, FSD-3 no conduit installed.	Y
+HVAC	X	N/A	FSD-3 Cable Activities	Fire and smoke damper, FSD-3 cable to be pulled, taggged, terminated and tested.	Y
+HVAC	X	N/A	FSD-3 Identification	Fire and smoke damper, FSD-3 to be provided with a tag to both device and conduit.	N
+HVAC	X	N/A	T1 Installation	High temp. alarm device, T1 in Battery room not yet installed.	Y
+HVAC	X	N/A	T1 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	T1 Identification	Scope of work.	N
+HVAC	X	N/A	MD-6 Installation	Scope of work.	Y
+HVAC	X	N/A	MD-6 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	MD-6 Identification	Scope of work.	N
+HVAC	X	N/A	MD-7 Installation	Scope of work.	Y
+HVAC	X	N/A	MD-7 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	MD-7 Identification	Scope of work.	N
+HVAC	X	N/A	607-K-0059 Installation	Scope of work.	Y
+HVAC	X	N/A	607-K-0059 Conduit Installation	Scope of work.	Y
+HVAC	X	N/A	607-K-0059 Cable Pulling	DDC panel, 607-K-0059 cable to be pulled.	Y
+HVAC	X	N/A	607-K-0059 Cable Termination	DDC panel, 607-K-0059 cable to be terminated.	Y
+HVAC	X	N/A	607-K-0059 Cable Meggering	DDC panel, 607-K-0059 cable to be tested.	Y
+HVAC	X	N/A	FSD-03 Installation	Scope of Work	Y
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-01, MDL-3 not installed.	N
+Safety	X	N/A	607-AA/AL-01 Identification	607-AA/AL-01 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-02, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-02 Identification	607-AA/AL-02 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-03, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-03 Identification	607-AA/AL-03 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-04, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-04 Identification	607-AA/AL-04 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-10, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-10 Identification	607-AA/AL-10 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-05, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-05 Identification	Scope of work.	N
+Safety	X	N/A	MDL-3 Installation	Scope of work.	Y
+Safety	X	N/A	607-AA/AL-06 Identification	Scope of work.	N
+Safety	X	N/A	MDL-3 Installation	Scope of work.	Y
+Safety	X	N/A	607-AA/AL-07 Identification	Scope of work.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-08, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-08 Identification	607-AA/AL-08 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	MDL-3 Installation	607-AA/AL-09, MDL-3 not installed.	Y
+Safety	X	N/A	607-AA/AL-09 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-MP-01 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-01 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-02 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-03 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-04 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-MP-02 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-05 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-HSSD-17 Installation	Scope of work.	Y
+Safety	X	N/A	607-LI-SD-06 Identification	607-LI-SD-06 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-PB-07 Installation	607-LI-PB-07, transmitter and receiver are not installed.	Y
+Safety	X	N/A	607-LI-SD-11 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-12 Identification	607-LI-SD-12 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-MP-03 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-13 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-SD-14 Identification	607-LI-SD-14 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-DSD-01 Identification	607-LI-DSD-01 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-DSD-02 Identification	607-LI-DSD-02 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-SD-15 Identification	607-LI-SD-15 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-SD-16 Identification	Scope of work.	N
+Safety	X	N/A	607-LI-MP-04 Identification	607-LI-MP-04 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-MP-05 Identification	607-LI-MP-05 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-MP-06 Identification	607-LI-MP-06 has no phenolic tag and conduit identity.	N
+Safety	X	N/A	607-LI-MP-07 Identification	Scope of work.	N
+Safety	X	N/A	607-FACP-0001 Pocket Provision	Scope of work.	N
+Safety	X	N/A	Battery Installation	Scope of work.	Y
+Safety	X	N/A	607-FACP-0001 Termination	Scope of work.	Y
+Safety	X	N/A	Display Unit Identification	Scope of work.	N
+Safety	X	N/A	DC Safe Grounding	Scope of work.	Y
+Safety	X	N/A	607-FS-0043 Installation	Scope of work.	Y
+Safety	X	N/A	607-IC-2526 Cable Activities	Scope of work.	Y
+HVAC	X	N/A	FSD-03 Access Door Installation	Scope of Work	Y
+Electrical	X	N/A	PMCC-1A	607-001-SB-001 Installation Inspection for Equipment Grounding not done	Y
+Electrical	X	N/A	607-001-SB-001	Scope of Work	Y
+Electrical	X	N/A	607-001-SB-001	Scope of Work	Y
+Electrical	X	N/A	607-001-SB-001	Scope of Work	Y
+HVAC	X	N/A	FSD-04 Installation	Scope of Work	Y
+HVAC	X	N/A	FSD-04 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-05 Installation	Scope of Work	Y
+HVAC	X	N/A	FSD-05 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-06 Installation	Scope of Work	Y
+HVAC	X	N/A	FSD-06 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-07 Installation	Scope of Work	Y
+HVAC	X	N/A	FSD-07 Access door	Scope of Work	Y
+HVAC	X	N/A	EF-5A	Scope of Work	Y
+HVAC	X	N/A	EF-5B	Complete Installation of Exhaust Fan at battery Room Tag No-5B Substation building	Y
+HVAC	X	N/A	MD-01 Installation	Complete Installation Motorized damper Tag-MD-01 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-02Installation	Scope of Work	Y
+HVAC	X	N/A	MD-03 Installation	Complete Installation Motorized damper Tag-MD-03 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-04 Installation	Complete Installation Motorized damper Tag-MD-04 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-05 Installation	Complete Installation Motorized damper Tag-MD-05 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-06 Installation	Scope of Work	Y
+HVAC	X	N/A	MD-07 Installation	Complete Installation Motorized damper Tag-MD-07 at Battery Room Substation building	Y
+HVAC	X	N/A	MD-01 Access Door	Scope of Work	Y
+HVAC	X	N/A	MD-02 Access Door	Scope of Work	Y
+HVAC	X	N/A	MD-03 Access Door	Complete Installation of Access door Tag-MD-3 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-04 Access Door	Complete Installation of Access door Tag-MD-4 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-05 Access Door	Complete Installation of Access door Tag-MD-5 at Mechanical Room Substation building	Y
+HVAC	X	N/A	MD-06 Access Door	Complete Installation of Access door Tag-MD-6 at Battery Room Substation building	Y
+HVAC	X	N/A	MD-07 Access Door	Complete Installation of Access door Tag-MD-7 at Battery Room Substation building	Y
+HVAC	X	N/A	SAG-1	Complete Installation of Supply Air Grill Mechanical Room SAG-1 Substation building	Y
+HVAC	X	N/A	SAG-2	Scope of Work	Y
+HVAC	X	N/A	FAD- 1	Scope of Work	Y
+HVAC	X	N/A	Fresh Air stack AHU	Complete Installation fresh air external ducts for stacks	Y
+HVAC	X	N/A	Fresh Air stack Duct support	Complete Installation fresh air external ducts supports for stacks	Y
+HVAC	X	N/A	Fresh Air stack Duct insulation	Scope of Work	Y
+HVAC	X	N/A	FAD Cladding	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	liquid line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2A	complete Installation of ACCU-2A suction pipe line insulation	Y
+HVAC	X	N/A	ACCU-2A	complete Installation of ACCU-2A liquid pipe line insulation	Y
+HVAC	X	N/A	Suction line ACCU-2A	complete Installation of ACCU-2A suction pipe line support Installation	Y
+HVAC	X	N/A	Liquid line ACCU-2A	complete Installation of ACCU-2A liquid pipe line support Installation	Y
+HVAC	X	N/A	Suction line ACCU-2A	complete Installation of ACCU-2A suction pipe line clading Installation	Y
+HVAC	X	N/A	Liquid line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	complete Installation of ACCU-2B suction pipe line	Y
+HVAC	X	N/A	Liquid line ACCU-2B	complete Installation of ACCU-2B liquid pipe line	Y
+HVAC	X	N/A	Suction line ACCU-2B	complete Installation of ACCU-2B suction pipe line insulation	Y
+HVAC	X	N/A	Liquid line ACCU-2B	complete Installation of ACCU-2B liquid pipe line insulation	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Liquid line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	complete Installation of ACCU-2B suction pipe line cladding Installation	Y
+HVAC	X	N/A	Liquid line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Liquid line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	complete Installation of ACCU-2B suction pipe line insulation	Y
+HVAC	X	N/A	Suction line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Liquid line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Liquid line ACCU-2B	complete refrigerant liquid pipe line blowout of ACCU-2B	Y
+HVAC	X	N/A	Suction line ACCU-2A	complete refrigerant suction line leak test of ACCU-2A	Y
+HVAC	X	N/A	Liquid line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	complete refrigerant suction pipe line leak test of ACCU-2B	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Liquid line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Liquid line ACCU-2A	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	Suction line ACCU-2B	Scope of Work	Y
+HVAC	X	N/A	FSD-01 functional test	Scope of Work	N
+HVAC	X	N/A	FSD-02 functional test	Scope of Work	N
+HVAC	X	N/A	FSD-03 functional test	Scope of Work	N
+HVAC	X	N/A	FSD-04 functional test	Scope of Work	N
+HVAC	X	N/A	FSD-05 functional test	Scope of Work	N
+HVAC	X	N/A	FSD-06 functional test	Scope of Work	N
+HVAC	X	N/A	FSD-07 functional test	Scope of Work	N
+HVAC	X	N/A	MD-01 functional test	Complete functional test Motorized damper Tag-MD-01 at Mechanical Room Substation building	N
+HVAC	X	N/A	MD-02 functional test	Scope of Work	N
+HVAC	X	N/A	MD-03 functional test	Scope of Work	N
+HVAC	X	N/A	MD-04 functional test	Scope of Work	N
+HVAC	X	N/A	MD-05 functional test	Complete functional test Motorized damper Tag-MD-05 at Mechanical Room Substation building	N
+HVAC	X	N/A	MD-06 functional test	Complete functional test Motorized damper Tag-MD-06 at Battery Room Substation building	N
+HVAC	X	N/A	MD-07 functional test	Complete functional test Motorized damper Tag-MD-07 at Battery Room Substation building	N
+HVAC	X	N/A	functional test ACCU-2A	Complete functional test ACCU Tag No- 2A at substation building	N
+HVAC	X	N/A	functional test ACCU-2B	Complete functional test ACCU Tag No- 2B at substation building	N
+HVAC	X	N/A	functional test ACCU-2A	Complete functional test AHU Tag No- 2A at substation building	N
+HVAC	X	N/A	functional test ACCU-2B	Scope of Work	N
+HVAC	X	N/A	Duct insulation	Complete damage insulation supply air, RAD all rooms	Y
+HVAC	X	N/A	wall Penetration	Complete all refrigerant pipe penetrations at substation building	Y
+HVAC	X	N/A	Stenciling ACCU-2A/2B	Complete Equipment tag number stenciling for ACCU 2A & 2B	N
+HVAC	X	N/A	Stenciling AHU-2A/2B	Scope of Work	N
+HVAC	X	N/A	FSD Stencil	Scope of Work	N
+HVAC	X	N/A	MVD Stencil	Complete all MVD tag number stenciling at substation building	N
+HVAC	X	N/A	Grounding AHU-2A	Grounding wire between AHU and flexible connectors AHU Tag no 2A	N
+HVAC	X	N/A	Grounding AHU-2B	Grounding wire between AHU and duct flexible connectors AHU Tag no 2B	N
+HVAC	X	N/A	Duct Clashing	Complete duct clashing with electrical tray at switchgear room	Y
+HVAC	X	N/A	Drip Tray	Scope of Work	Y
+HVAC	X	N/A	FSD	Scope of Work	Y
+HVAC	X	N/A	Identification Sticker	Scope of Work	N
+HVAC	X	N/A	Battery Room SAD installation	Scope of Work	Y
+HVAC	X	N/A	Battery Room VCD Installation	Scope of Work	Y
+HVAC	X	N/A	Battery Room SAD Cladding	Scope of Work	Y
+HVAC	X	N/A	Cleaning ACCU/AHU 2A	Scope of Work	Y
+HVAC	X	N/A	Cleaning ACCU/AHU 2B	Scope of Work	Y
+HVAC	X	N/A	Cleaning ACCU/AHU 2A	Scope of Work	Y
+HVAC	X	N/A	Cleaning ACCU/AHU 2B	Complete cleaning inside and outside the of AHU-2B	Y
+HVAC	X	N/A	Red Line Drawing Refrigerant pipe ACCU/A	Provide redline drawing for refrigetant pipe in between AHU to ACCU 2A Mechanical Room	Y
+HVAC	X	N/A	Red Line Drawing Refrigerant pipe ACCU/A	Provide redline drawing for refrigerant pipe in between AHU to ACCU 2B Mechanical Room	N
+HVAC	X	N/A	Battery Room SAD leak test	Complete Battery Room supply air Stainless steel duct leak test	Y
+HVAC	X	N/A	Battery Room EAD leak test	Complete Battery Room Exhaust air Stainless steel duct leak test and all joint need to be seal with sealant	Y
+HVAC	X	N/A	Mechanical room FAD leak test	Complete Fresh air duct leak test at mechanical room	Y
+HVAC	X	N/A	Excess Rod Cutting	Completed duct support excess rods need to be cut in all rooms	Y
+HVAC	X	N/A	Galvanize paint touchup	Complete galvanize paint touchup at Rod and Angle edges	Y
+HVAC	X	N/A	support Rods Alignment	Scope of Work	Y
+HVAC	X	N/A	FSD Breakway joint	Scope of Work	Y
+HVAC	X	N/A	Exhaust fans BDD	Scope of Work	Y
+HVAC	X	N/A	Hose Bib	Scope of Work	Y
+HVAC	X	N/A	ACCU/AHU	Scope of Work	Y
+HVAC	X	N/A	ACCU/AHU	Scope of Work	Y
+HVAC	X	N/A	Insulation Strap Bands	Scope of Work	Y
+HVAC	X	N/A	Supply/Return Grills at switchgear room	Scope of Work	Y
+HVAC	X	N/A	Supply/Return Grills Relay room	Scope of Work	Y
+HVAC	X	N/A	Supply/Return Grills GIS room	Scope of Work	Y
+HVAC	X	N/A	Drain Pipe AHU-2A	Complete Installation inspection for drain pipe for AHU-2A	Y
+HVAC	X	N/A	Drain Pipe AHU-2B	Scope of Work	Y
+HVAC	X	N/A	Duct Insulation Cleaning	Scope of Work	Y
+HVAC	X	N/A	Inside duct Cleaning SAD,RAD, EAD,FAD	Scope of Work	Y
+HVAC	X	N/A	Duct Sealant SAD,RAD, EAD,FAD	Complete proper duct sealant for supply, return, Fresh air and Exhaust duct	Y
+HVAC	X	N/A	Duct Alignment SAD,RAD, EAD,FAD	Scope of Work	Y
+HVAC	X	N/A	Spring isolators ACCU-2A	Complete proper tightening alignment of Spring isolators ACCU-2A	Y
+HVAC	X	N/A	Spring isolators ACCU-2B	Complete proper tightening alignment of Spring isolators ACCU-2B	Y
+HVAC	X	N/A	Return air bell mouth in switchgear room	Complete Installation inspection for return air bell mouth in switchgear room	Y
+HVAC	X	N/A	Supply VCD-1 for GIS room	Scope of Work	Y
+HVAC	X	N/A	supply VCD-2 for GIS room	Scope of Work	Y
+HVAC	X	N/A	supply VCD-3 for GIS room	Scope of Work	Y
+HVAC	X	N/A	supply VCD-4 for GIS room	Scope of Work	Y
+HVAC	X	N/A	return air bell mouth in GIS room	Scope of Work	Y
+HVAC	X	N/A	Supply air VCD-1 for Relay room	Scope of Work	Y
+HVAC	X	N/A	supply air VCD-2 for Relay room	Scope of Work	Y
+HVAC	X	N/A	Return air VCD-1 for switchgear room	Scope of Work	Y
+HVAC	X	N/A	Supply air VCD-2 for submain duct switch	Scope of Work	Y
+HVAC	X	N/A	supply air VCD-3 for switchgear room	Scope of Work	Y
+HVAC	X	N/A	VCD-4 for submain duct switchgear room	Scope of Work	Y
+HVAC	X	N/A	Supply air VCD-5 for switchgear room	Scope of Work	Y
+HVAC	X	N/A	Supply air VCD-6 for submain duct switch	Scope of Work	Y
+HVAC	X	N/A	Supply air VCD-7 for switchgear room	Complete Installation inspection for supply air VCD-7 for switchgear room	Y
+HVAC	X	N/A	Supply air VCD-8 for switchgear room	Complete Installation inspection for supply air VCD-8 for switchgear room	Y
+HVAC	X	N/A	Supply air VCD-9 for switchgear room	Scope of Work	Y
+HVAC	X	N/A	Insulation supply main duct for switchge	Scope of Work	Y
+HVAC	X	N/A	Insulation RAD for switchgear room	Scope of Work	Y
+HVAC	X	N/A	Insulation branch SAD for switchgear roo	Scope of Work	Y
+HVAC	X	N/A	Insulation branch RAD for switchgear roo	Scope of Work	Y
+HVAC	X	N/A	Insulation main SAD for Mechanical room	Scope of Work	Y
+HVAC	X	N/A	Insulation main RAD for Mechanical room	Scope of Work	Y
+HVAC	X	N/A	Insulation branch SAD for Mechanical roo	Scope of Work	Y
+HVAC	X	N/A	Insulation branch RAD for Mechanical roo	Scope of Work	Y
+HVAC	X	N/A	Insulation main SAD for Relay room	Scope of Work	Y
+HVAC	X	N/A	Insulation main RAD for Relay room	Scope of Work	Y
+HVAC	X	N/A	Insulation branch SAD for Relay room	Scope of Work	Y
+HVAC	X	N/A	Insulation branch RAD for Relay room	Scope of Work	Y
+HVAC	X	N/A	Insulation main RAD for GIS room	Scope of Work	Y
+HVAC	X	N/A	Insulation main RAD for GIS room	Scope of Work	Y
+HVAC	X	N/A	Insulation branch SAD for GIS room	Scope of Work	Y
+HVAC	X	N/A	Insulation branch RAD for GIS room	Scope of Work	Y
+HVAC	X	N/A	leak test main SAD for switchgear room	Scope of Work	Y
+HVAC	X	N/A	leak test main RAD for switchgear room	Scope of Work	Y
+HVAC	X	N/A	leak test branch SAD for switchgear room	Scope of Work	Y
+HVAC	X	N/A	leak test branch RAD for switchgear room	Scope of Work	Y
+HVAC	X	N/A	leak test main SAD for Mechanical room	Scope of Work	Y
+HVAC	X	N/A	leak test main RAD for Mechanical room	Scope of Work	Y
+HVAC	X	N/A	leak test branch SAD for Mechanical room	Scope of Work	Y
+HVAC	X	N/A	leak test branch RAD for Mechanical room	Scope of Work	Y
+HVAC	X	N/A	leak test main SAD for Relay room	Scope of Work	Y
+HVAC	X	N/A	leak test main RAD for Relay room	Scope of Work	Y
+HVAC	X	N/A	leak test branch SAD for Relay room	Complete leak test inspection for branch SAD for Relay room	Y
+HVAC	X	N/A	leak test branch RAD for Relay room	Complete leak test inspection for branch RAD for Relay room	Y
+HVAC	X	N/A	leak test main SAD for GIS room	Complete leak test inspection for main SAD for GIS room	Y
+HVAC	X	N/A	leak test main RAD for GIS room	Complete leak test inspection for main RAD for GIS room	Y
+HVAC	X	N/A	leak test branch SAD for GIS room	Complete leak test inspection for branch SAD for GIS room	Y
+HVAC	X	N/A	leak test branch RAD for GIS room	Complete leak test inspection for branch RAD for GIS room	Y
+HVAC	X	N/A	RAD bell mouth wire mesh in switchgear r	Complete Installation inspection for return air bell mouth wire mesh in switchgear room	Y
+HVAC	X	N/A	RAD bell mouth wire mesh in GIS room	Complete Installation inspection for return air bell mouth wire mesh in GIS room	Y
+HVAC	X	N/A	BDD Exhaust Fan- 5A	Complete Installation of Exhaust Fan Back draft damper at battery Room Tag No-5A Substation building	Y
+HVAC	X	N/A	BDD Exhaust Fan- 5B	Complete Installation of Exhaust Fan Back draft damper at battery Room Tag No-5B Substation building	Y
+HVAC	X	N/A	BDD Access door- 5A	Scope of Work	Y
+HVAC	X	N/A	BDD Access door- 5B	Scope of Work	Y
+HVAC	X	N/A	Exhaust fans-5A cleaning	Scope of Work	Y
+HVAC	X	N/A	Exhaust fans-5B cleaning	Scope of Work	Y
+HVAC	X	N/A	DDC Panel Installation HVAC	Scope of Work	Y
+HVAC	X	N/A	AHU Cleaning Tag-2A	Scope of Work	Y
+HVAC	X	N/A	ACCU Cleaning Tag-2B	Scope of Work	Y
+HVAC	X	N/A	FSD Cable continuity test	Scope of Work	Y
+HVAC	X	N/A	MVD Cable continuity test	Scope of Work	Y
+HVAC	X	N/A	DDC Panel Functional test	Scope of Work	Y
+HVAC	X	N/A	Exhaust fans continuity test	Complete Cable pulling, Termination and Continuity test for Exhaust Fan Tag No- 5A/5B	Y
+HVAC	X	N/A	Exhaust fans Functional test	Functional test for Exhaust Fan 5A/5B	Y
+HVAC	X	N/A	Exhaust fans Grounding cable	Grounding cable shall be comlete for Exhaust Fan 5A/5B	Y
+Electrical	X	N/A	Storage batteries -001IR	Scope of Work	Y
+Electrical	X	N/A	Storage batteries termination	Scope of Work	Y
+Electrical	X	N/A	Storage batteries-002 IR	Scope of Work	Y
+Electrical	X	N/A	Storage batteries termination	Scope of Work	Y
+Electrical	X	N/A	Storage batteries	Scope of Work	Y
+Electrical	X	N/A	Ehaust Fan-5A	Scope of Work	Y
+Electrical	X	N/A	Ehaust Fan-5A IR test	Scope of Work	Y
+Electrical	X	N/A	Ehaust Fan-5A termination	Scope of Work	Y
+Electrical	X	N/A	Ehaust Fan-5B	EF-5B Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	Ehaust Fan-5B IR test	Scope of Work	Y
+Electrical	X	N/A	Ehaust Fan-5B termination	Scope of Work	Y
+Electrical	X	N/A	Bus bar Installation Battery room	Scope of Work	Y
+Electrical	X	N/A	Bus bar Battery room	Scope of Work	Y
+Electrical	X	N/A	Bus bar IR test Battery room	Scope of Work	Y
+Electrical	X	N/A	Bus bar termination Battery room	Scope of Work	Y
+Electrical	X	N/A	Door Grounding	Scope of Work	Y
+Electrical	X	N/A	Door Grounding IR test	Scope of Work	Y
+Electrical	X	N/A	Door Grounding termination	Scope of Work	Y
+Electrical	X	N/A	Bus bar tag Battery room	Scope of Work	Y
+Electrical	X	N/A	DSW-005 Grounding	Scope of Work	Y
+Electrical	X	N/A	DSW-005 Grounidng cableIR	Scope of Work	Y
+Electrical	X	N/A	DSW-005 Grounidng cable termination	607-001-DSW(D)-005 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	DSW-007 Grounding	607-001-DSW(D)-007 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	DSW-007 Grounidng cableIR	Scope of Work	Y
+Electrical	X	N/A	DSW-007 Grounidng cable termination	Scope of Work	Y
+Electrical	X	N/A	AHU-2A Grounding	Scope of Work	Y
+Electrical	X	N/A	AHU-2A Grounidng cableIR	Scope of Work	Y
+Electrical	X	N/A	AHU-2A Grounidng cable termination	Scope of Work	Y
+Electrical	X	N/A	AHU-2B Grounding	Scope of Work	Y
+Electrical	X	N/A	AHU-2B Grounidng cableIR	Scope of Work	Y
+Electrical	X	N/A	AHU-2B Grounidng cable termination	Scope of Work	Y
+Electrical	X	N/A	Door Grounding	Scope of Work	Y
+Electrical	X	N/A	Door Grounding IR test	Scope of Work	Y
+Electrical	X	N/A	Door Grounding termination	Scope of Work	Y
+Electrical	X	N/A	busbar Identification tag	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-001 Grounidng cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-001 Grounidng cable terminati	607-001-SG-001 Switch gear Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-SG-301 Grounding	607-001-SG-301 Switch gear equipment Grounding connection to be done	Y
+Electrical	X	N/A	607-001-SG-301 Grounidng cableIR	607-001-SG-301 Switch gear Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-SG-301 Grounidng cable terminati	607-001-SG-301 Switch gear Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-MCC-001 Grounding	607-001-MCC-001 Equipment Grounding to be done	Y
+Electrical	X	N/A	607-001-MCC-001 Grounidng cableIR	607-001-MCC-001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-MCC-001 Grounidng cable terminat	607-001-MCC-001 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-MCC-002 Grounding	607-001-MCC-002 Equipment Grounding not done at two ends	Y
+Electrical	X	N/A	607-001-MCC-002 Grounidng cableIR	607-001-MCC-002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-MCC-002 Grounidng cable terminat	607-001-MCC-002 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-BC-001 Grounding	607-001-BC-001 battery cahrger Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-BC-001 Grounidng cableIR	607-001-BC-001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	The Grounding conductor from the Main grid to the Down conductor ,Proper support to be provided using project approved materials	N
+Electrical	X	N/A	GIS Substation Building	Standard Requirement for Equipment & Personal Safety	Y
+Electrical	X	N/A	GIS Substation Building	Standard Requirement for Equipment & Personal Safety	Y
+Electrical	X	N/A	GIS Substation Building	Identification tag to be provided for all the ground cables terminated at MSG in the GIS SWGR room ,relay Room, Switchgear & Mechani	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	Earth Pit Installation to be completed & proper identification to be provided around the Substation Building as per the Drawings	N
+Electrical	X	N/A	GIS Substation Building	Illumination test to be conducted inside all the S/S interior rooms & external buildings ,the values are within the standard accepta	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal & Down conductor Installation for the Lightning protection be completed as per the Approved IFC drawing	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	The grounding cables from main grid to the Main Safety Ground Busar (MSG) at GIS SWGR room ,relay Room MV & LV Switchgear & Mechanic	Y
+Electrical	X	N/A	GIS Substation Building	Earth Resiatance Test & Continuity Test to be conducted at all Main safety Busbar & equipments connected in the GIS SWGR room ,relay	Y
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal Install near the Cage ladder , the height of the Air terminal should be greater than Cage /Steel access ladder as p	N
+Electrical	X	N/A	GIS Substation Building	Emergency Light Battery backup durartion test to be conducted in GIS SWGR room ,relay Room, MV &LV Switchgear & Mechanical room as m	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	The grounding cables from main grid to the Main Safety Ground Busar (MSG) at PIB room found without terminated during PMCC ,terminat	Y
+Electrical	X	N/A	PIB (Process interface Building)	Standard Requirement for Equipment & Personal Safety	Y
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	Earth Pit Installation to be completed & identified around the PIB Building as per the Drawings	N
+Electrical	X	N/A	PIB (Process interface Building)	Illumination test to be conducted inside all the PIB building interior rooms & External buildings . The values are within the standa	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	The Air Terminal which going to Install near the Cage ladder , the height of the Air terminal should be greater than Cage /Steel acc	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal & Down conductor Installation for the Lightning protection be completed as per the Approved IFC drawing	N
+Electrical	X	N/A	GIS Substation Building	The Grounding conductor from the Main grid to the Down conductor ,Proper support to be provided using project approved materials	N
+Electrical	X	N/A	GIS Substation Building	The grounding cables from main grid to the Main Safety Ground Busar (MSG) at GIS SWGR room ,relay Room MV & LV Switchgear & Mechanic	Y
+Electrical	X	N/A	GIS Substation Building	Earth Resiatance Test & Continuity Test to be conducted at all Main safety Busbar & equipments connected in the GIS SWGR room ,relay	Y
+Electrical	X	N/A	GIS Substation Building	Identification tag to be provided for all the ground cables terminated at MSG in the GIS SWGR room ,relay Room, Switchgear & Mechani	N
+Electrical	X	N/A	GIS Substation Building	Luminaires and control switches shall be marked (tagged) with circuit number and panel board number in GIS SWGR room ,relay Room, MV	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal Install near the Cage ladder , the height of the Air terminal should be greater than Cage /Steel access ladder as p	N
+Electrical	X	N/A	GIS Substation Building	Emergency Light Battery backup durartion test to be conducted in GIS SWGR room ,relay Room, MV &LV Switchgear & Mechanical room as m	N
+Electrical	X	N/A	GIS Substation Building	Spare grounding provisions shall be provided for the future equipments connection on the Electrical,Instrument & Telecom Busbar at G	N
+Electrical	X	N/A	GIS Substation Building	Earth Pit Installation to be completed & proper identification to be provided around the Substation Building as per the Drawings	N
+Electrical	X	N/A	GIS Substation Building	Illumination test to be conducted inside all the S/S interior rooms & external buildings ,the values are within the standard accepta	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal & Down conductor Installation for the Lightning protection be completed as per the Approved IFC drawing	N
+Electrical	X	N/A	GIS Substation Building	The Grounding conductor from the Main grid to the Down conductor ,Proper support to be provided using project approved materials	N
+Electrical	X	N/A	GIS Substation Building	The grounding cables from main grid to the Main Safety Ground Busar (MSG) at GIS SWGR room ,relay Room MV & LV Switchgear & Mechanic	Y
+Electrical	X	N/A	GIS Substation Building	Earth Resiatance Test & Continuity Test to be conducted at all Main safety Busbar & equipments connected in the GIS SWGR room ,relay	Y
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal & Down conductor Installation for the Lightning protection be completed as per the Approved IFC drawing	N
+Electrical	X	N/A	GIS Substation Building	The Grounding conductor from the Main grid to the Down conductor ,Proper support to be provided using project approved materials	N
+Electrical	X	N/A	GIS Substation Building	The grounding cables from main grid to the Main Safety Ground Busar (MSG) at GIS SWGR room ,relay Room MV & LV Switchgear & Mechanic	Y
+Electrical	X	N/A	GIS Substation Building	Standard Requirement for Equipment & Personal Safety	Y
+Electrical	X	N/A	GIS Substation Building	Identification tag to be provided for all the ground cables terminated at MSG in the GIS SWGR room ,relay Room, Switchgear & Mechani	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	Emergency Light Battery backup durartion test to be conducted in GIS SWGR room ,relay Room, MV &LV Switchgear & Mechanical room as m	N
+Electrical	X	N/A	GIS Substation Building	Spare grounding provisions shall be provided for the future equipments connection on the Electrical,Instrument & Telecom Busbar at G	N
+Electrical	X	N/A	GIS Substation Building	Earth Pit Installation to be completed & proper identification to be provided around the Substation Building as per the Drawings	N
+Electrical	X	N/A	GIS Substation Building	Illumination test to be conducted inside all the S/S interior rooms & external buildings ,the values are within the standard accepta	N
+Electrical	X	N/A	607-001-BC-001 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-BC-002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-BC-002 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-BC-002 Grounding cable terminati	607-001-BC-002 Termination and Torque Test for baterry charger Grounding conductor not done.	Y
+Electrical	X	N/A	PSA Annunciator Grounding	PSA Annunciator Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	PSA Annunciator Grounding cableIR	PSA Annunciator Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	PSA Annunciator Grounding cable terminat	PSA Annunciator Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	Breaker Test Cabinet Grounding	13.8 KV Ckt, Breaker Test Cabinet Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	Breaker Test Cabinet Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	Breaker Test Cabinet Grounding cable ter	13.8 KV Ckt, Breaker Test Cabinet Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CB(A)-001 Grounding	607-001-CB(A)-001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-CB(A)-001 Grounidng cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-CB(A)-001 Grounding cable termin	Scope of Work	Y
+Electrical	X	N/A	607-001-CB(A)-002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-CB(A)-002 Grounding cableIR	607-001-CB(A)-002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CB(A)-002 Grounding cable termin	607-001-CB(A)-002 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-IRP-0001 Grounding	607-001-IRP-0001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-IRP-0001 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-IRP-0001 Grounding cable termina	607-001-IRP-0001 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-IRP-0002 Grounding	607-001-IRP-0002 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-IRP-0002 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-IRP-0002 Grounding cable termina	607-001-IRP-0002 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-IRP-0003 Grounding	607-001-IRP-0003 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-IRP-0003 Grounding cableIR	607-001-IRP-0003 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-IRP-0003 Grounding cable termina	607-001-IRP-0003 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-IRP-0004 Grounding	607-001-IRP-0004 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-IRP-0004 Grounding cableIR	607-001-IRP-0004 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-IRP-0004 Grounding cable termina	607-001-IRP-0004 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	480 V Ckt, Breaker Test Cabinet Groundin	Scope of Work	Y
+Electrical	X	N/A	480 V Ckt, Breaker Test Cabinet Groundin	480 V Ckt, Breaker Test Cabinet Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	480 V Ckt, Breaker Test Cabinet Groundin	480 V Ckt, Breaker Test Cabinet Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	Busbar Switchgear room north side	Scope of Work	Y
+Electrical	X	N/A	Busbar Switchgear Cabinet Grounding	Grounding Busbar inside Switchgear room (north side) Grounding Conductor installation not done.	Y
+Electrical	X	N/A	Busbar Switchgear Grounding cableIR	Grounding Busbar inside Switchgear room (north side) Continuity & Resistance Test for Grounding conductor not done.	Y
+Electrical	X	N/A	Busbar Switchgear Grounding cable termin	Grounding Busbar inside Switchgear room (north side) Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	door Grounding	Scope of Work	Y
+Electrical	X	N/A	door Grounding cableIR	Door Grounding of Switchgear room Continuity & Resistance Test for Grounding conductor not done.	Y
+Electrical	X	N/A	door Groundingcable termination	Door Grounding of Switchgear room Termination Torque Test for Grounding conductor not done.	Y
+Electrical	X	N/A	busbar SG room identification	Provide Tag number of Busbar inside Switchgear room and to be reflected to the IFC drawing.	Y
+Electrical	X	N/A	cable tray	Provide Cable Tray Grounding inside Switchgear room.	Y
+Electrical	X	N/A	601-001-CBD-301 Grounding	601-001-CBD-301 Installation Inspection for Equipmenrt Grounding not done.	Y
+Electrical	X	N/A	601-001-CBD-301 Grounding cableIR	601-001-CBD-301 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	601-001-CBD-301 Grounding cable terminat	601-001-CBD-301 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	601-001-CBD-302 Grounding	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-302 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-302 Grounding cable terminat	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-001 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-001 Grounding cable terminat	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-002   Grounding	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-002 Grounding	Scope of Work	Y
+Electrical	X	N/A	601-001-CBD-002 Grounding cableIR	601-001-CBD-002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	601-001-CBD-002 Grounding cable terminat	601-001-CBD-002 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-XFR(T)-001 Grounding	607-001-XFR(T)-001 Neutral grounding of dry type transformer to be done with near grounding busbar	Y
+Electrical	X	N/A	607-001-XFR(T)-006 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-010 Grounding	607-001-XFR(T)-010 Neutral grounding of dry type transformer to be done with near grounding busbar	Y
+Electrical	X	N/A	607-001-XFR(T)-0011 Grounding	607-001-XFR(T)-011 Neutral grounding of dry type transformer to be done with near grounding busbar	Y
+Electrical	X	N/A	607-001-RP-601 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-601 Grounding cableIR	607-001-RP-601 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-601 Grounding cable terminati	607-001-RP-601 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-602 Grounding	607-001-RP-602Realy panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-RP-602 Grounding cableIR	607-001-RP-602 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-602 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-603 Grounding	607-001-RP-603 Realy panel Installation and connection of Grounding cable not done..	Y
+Electrical	X	N/A	607-001-RP-603 Grounding cableIR	607-001-RP-603 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-603 Grounding cable terminati	607-001-RP-603 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-604 Grounding	607-001-RP-604 Realy panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-RP-604 Grounding cableIR	607-001-RP-604 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-604 Grounding cable terminati	607-001-RP-604 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-605 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-605 Grounding cableIR	607-001-RP-605 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-605 Grounding cable terminati	607-001-RP-605 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-606 Grounding	607-001-RP-606 Realy panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-RP-606 Grounding cableIR	607-001-RP-606 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-606 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-607 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-607 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-607 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-608 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-608 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-608 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-606 Grounding	607-001-CP-606 control panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-606 Grounding cableIR	607-001-CP-606 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-606 Grounding cable terminati	607-001-CP-606 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-607 Grounding	607-001-CP-607 control panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-607 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-607 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-001 Grounding cableIR	607-001-PSA-001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-001 Grounding cable terminat	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-002 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-002 Grounding cable terminat	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-003 Grounding	607-001-PSA-003 Power system and automation panel Equipment Grounding not done	Y
+Electrical	X	N/A	607-001-PSA-003 Grounding cableIR	607-001-PSA-003 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-003 Grounding cable terminat	607-001-PSA-003 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-FACP-001 Grounding	607-001-FACP-001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-FACP-001 Grounding cableIR	607-001-FACP-001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-FACP-001 Grounding cable termina	607-001-FACP-001 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-004 Grounding	607-001-PSA-004 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-PSA-004 Grounding cableIR	607-001-PSA-004 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-004 Grounding cable terminat	607-001-PSA-004 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	Relay room Grounding	Door Grounding of Relay room installation not done.	Y
+Electrical	X	N/A	Relay room Grounding cableIR	Door Grounding of Relay room Continuity & Resistance Test for Grounding conductor not done.	Y
+Electrical	X	N/A	Relay room Grounding cable termination	Door Grounding of Relay room Termination Torque Test for Grounding conductor not done.	Y
+Electrical	X	N/A	Relay room busbar identification	Provide Tag number of Busbar inside Relay room and to be reflected to the IFC drawing.	Y
+Electrical	X	N/A	Cable Tray relay room	Provide Cable Tray Grounding at both ends inside Relay room.	Y
+Electrical	X	N/A	607-001-SG-601 Grounding	607-001-SG-601 GIS Switcg gear Grounding installation and connection not done.	Y
+Electrical	X	N/A	607-001-SG-601 Grounding cableIR	607-001-SG-601 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-SG-601 Grounding cable terminati	607-001-SG-601 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-601 Grounding	607-001-CP-601 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-601 Grounding cableIR	607-001-CP-601 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-601 Grounding cable terminati	607-001-CP-601 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-602 Grounding	607-001-CP-602 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-602 Grounding cableIR	607-001-CP-602 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-602 Grounding cable terminati	607-001-CP-602 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-603 Grounding	607-001-CP-603 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-603 Grounding cableIR	607-001-CP-603 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-603 Grounding cable terminati	607-001-CP-603 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-604 Grounding	607-001-CP-604 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-604 Grounding cableIR	607-001-CP-604 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-604 Grounding cable terminati	607-001-CP-604 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-SG-605 Grounding	607-001-CP-605 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-SG-605 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-605 Grounding cable terminati	607-001-CP-605 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	601-001-CBD-002 Grounding cableIR	601-001-CBD-002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	601-001-CBD-002 Grounding cable terminat	601-001-CBD-002 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-XFR(T)-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-006 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-010 Grounding	607-001-XFR(T)-010 Neutral grounding of dry type transformer to be done with near grounding busbar	Y
+Electrical	X	N/A	607-001-XFR(T)-0011 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-601 Grounding	607-001-RP-601 Realy panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-RP-601 Grounding cableIR	607-001-RP-601 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-601 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-602 Grounding	607-001-RP-602Realy panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-RP-602 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-602 Grounding cable terminati	607-001-RP-602 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-603 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-603 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-603 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-604 Grounding	607-001-RP-604 Realy panel Installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-RP-604 Grounding cableIR	607-001-RP-604 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-604 Grounding cable terminati	607-001-RP-604 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-605 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-605 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-605 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-606 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-606 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-606 Grounding cable terminati	607-001-RP-606 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-RP-607 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-607 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-607 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-608 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-608 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-RP-608 Grounding cable terminati	607-001-RP-608 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-606 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-606 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-606 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-607 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-607 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-607 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-001 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-001 Grounding cable terminat	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-002 Grounding cableIR	607-001-PSA-002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-002 Grounding cable terminat	607-001-PSA-002 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-003 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-003 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-003 Grounding cable terminat	Scope of Work	Y
+Electrical	X	N/A	607-001-FACP-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-FACP-001 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-FACP-001 Grounding cable termina	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-004 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PSA-004 Grounding cableIR	607-001-PSA-004 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PSA-004 Grounding cable terminat	607-001-PSA-004 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	Relay room Grounding	Door Grounding of Relay room installation not done.	Y
+Electrical	X	N/A	Relay room Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	Relay room Grounding cable termination	Scope of Work	Y
+Electrical	X	N/A	Relay room busbar identification	Provide Tag number of Busbar inside Relay room and to be reflected to the IFC drawing.	Y
+Electrical	X	N/A	Cable Tray relay room	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-601 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-601 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-601 Grounding cable terminati	607-001-SG-601 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-601 Grounding	607-001-CP-601 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-601 Grounding cableIR	607-001-CP-601 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-601 Grounding cable terminati	607-001-CP-601 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-602 Grounding	607-001-CP-602 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-602 Grounding cableIR	607-001-CP-602 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-602 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-603 Grounding	607-001-CP-603 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-CP-603 Grounding cableIR	607-001-CP-603 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-603 Grounding cable terminati	607-001-CP-603 Termination and Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-604 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-604 Grounding cableIR	607-001-CP-604 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-CP-604 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-605 Grounding	607-001-CP-605 local control panel installation and connection of Grounding cable not done.	Y
+Electrical	X	N/A	607-001-SG-605 Grounding cableIR	607-001-CP-605 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-SG-605 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	GIS Substation Building	The Air Terminal & Down conductor Installation for the Lightning protection be completed as per the Approved IFC drawing	N
+Electrical	X	N/A	GIS Substation Building	The Grounding conductor from the Main grid to the Down conductor ,Proper support to be provided using project approved materials	N
+Electrical	X	N/A	GIS Substation Building	The grounding cables from main grid to the Main Safety Ground Busar (MSG) at GIS SWGR room ,relay Room MV & LV Switchgear & Mechanic	Y
+Electrical	X	N/A	GIS Substation Building	Earth Resiatance Test & Continuity Test to be conducted at all Main safety Busbar & equipments connected in the GIS SWGR room ,relay	Y
+Electrical	X	N/A	GIS Substation Building	Identification tag to be provided for all the ground cables terminated at MSG in the GIS SWGR room ,relay Room, Switchgear & Mechani	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal Install near the Cage ladder , the height of the Air terminal should be greater than Cage /Steel access ladder as p	N
+Electrical	X	N/A	GIS Substation Building	Emergency Light Battery backup durartion test to be conducted in GIS SWGR room ,relay Room, MV &LV Switchgear & Mechanical room as m	N
+Electrical	X	N/A	GIS Substation Building	Spare grounding provisions shall be provided for the future equipments connection on the Electrical,Instrument & Telecom Busbar at G	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	Illumination test to be conducted inside all the S/S interior rooms & external buildings ,the values are within the standard accepta	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal & Down conductor Installation for the Lightning protection be completed as per the Approved IFC drawing	N
+Electrical	X	N/A	GIS Substation Building	The Grounding conductor from the Main grid to the Down conductor ,Proper support to be provided using project approved materials	N
+Electrical	X	N/A	GIS Substation Building	Standard Requirement for Equipment & Personal Safety	Y
+Electrical	X	N/A	GIS Substation Building	Earth Resiatance Test & Continuity Test to be conducted at all Main safety Busbar & equipments connected in the GIS SWGR room ,relay	Y
+Electrical	X	N/A	GIS Substation Building	Identification tag to be provided for all the ground cables terminated at MSG in the GIS SWGR room ,relay Room, Switchgear & Mechani	N
+Electrical	X	N/A	GIS Substation Building	Luminaires and control switches shall be marked (tagged) with circuit number and panel board number in GIS SWGR room ,relay Room, MV	N
+Electrical	X	N/A	GIS Substation Building	The Air Terminal Install near the Cage ladder , the height of the Air terminal should be greater than Cage /Steel access ladder as p	N
+Electrical	X	N/A	GIS Substation Building	Emergency Light Battery backup durartion test to be conducted in GIS SWGR room ,relay Room, MV &LV Switchgear & Mechanical room as m	N
+Electrical	X	N/A	GIS Substation Building	Spare grounding provisions shall be provided for the future equipments connection on the Electrical,Instrument & Telecom Busbar at G	N
+Electrical	X	N/A	GIS Substation Building	As per the Standard Requirement	N
+Electrical	X	N/A	GIS Substation Building	Illumination test to be conducted inside all the S/S interior rooms & external buildings ,the values are within the standard accepta	N
+Civil	X	N/A	Substation Bldg	Complete installing foundation platform A	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	Complete installing tow doors (real Room)	N
+Civil	X	N/A	Substation Bldg	Apply final floor coating (real Room)	N
+Civil	X	N/A	Substation Bldg	Complete installing tow doors (Switchgear room)	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	Complete installing concrete ramp and coat (Mechanical Room)	N
+Civil	X	N/A	Substation Bldg	Installation one door ( battery room)	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Civil	X	N/A	Substation Bldg	To maintain safe work environment	N
+Electrical	X	N/A	GIS room Grounding	Door Grounding of GIS room installation not done.	Y
+Electrical	X	N/A	GIS room Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	GIS room Grounding cable termination	Scope of Work	Y
+Electrical	X	N/A	GIS Flatform Grounding	Scope of Work	Y
+Electrical	X	N/A	GIS Flatform Grounding cableIR	GIS Flatform Continuity & Resistance Test for Grounding conductor not done.	Y
+Electrical	X	N/A	GIS Flatform Grounding cable termination	GIS Flatform Termination Torque Test for Grounding conductor not done.	Y
+Electrical	X	N/A	GIS cable tray Grounding	Scope of Work	Y
+Electrical	X	N/A	Test Well	Scope of Work	Y
+Electrical	X	N/A	Main Grid Substation	Scope of Work	Y
+Electrical	X	N/A	Grounding in Cellar room	Installation & Testing of Grounding in Cellar room below GIS bldg.	Y
+Electrical	X	N/A	Vertical Cable Tray Grounding	Vertical Cable Tray infront of Substation Grounding installation not done.	Y
+Electrical	X	N/A	Vertical Cable Tray Grounding cableIR	Vertical Cable Tray infront of Substation Continuity & Resistance Test for Grounding conductor not done.	Y
+Electrical	X	N/A	Vertical Cable Tray Grounding cable term	Vertical Cable Tray infront of Substation room Termination Torque Test for Grounding conductor not done.	Y
+Electrical	X	N/A	Steel Ladder Grounding	Steel Ladder infront of Substation Grounding installation not done.	Y
+Electrical	X	N/A	Steel Ladder Grounding cableIR	Steel Ladder infront of Substation Continuity & Resistance Test for Grounding conductor not done.	Y
+Electrical	X	N/A	Steel Ladder Grounding cable termination	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-006 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-006 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-SG-001 Grounding cable terminati	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-008 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-008 Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-008 Grounding cable termi	607-001-DSW(D)-008 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	ACCU-2A Grounding	Scope of Work	Y
+Electrical	X	N/A	ACCU-2A Grounding cableIR	ACCU-2A Continuity & Resistance Test for Equipment Grounding conductor not t done.	Y
+Electrical	X	N/A	ACCU-2A Grounding cable termination	ACCU-2A Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	ACCU-2B Grounding	Scope of Work	Y
+Electrical	X	N/A	ACCU-2B Grounding cableIR	Scope of Work	Y
+Electrical	X	N/A	ACCU-2B Grounding cable termination	Scope of Work	Y
+Electrical	X	N/A	Lightning Arrester	Scope of Work	Y
+Electrical	X	N/A	Lightning ArresterConductor	Scope of Work	Y
+Electrical	X	N/A	Test Terminal	Scope of Work	Y
+Electrical	X	N/A	Down conductor	Scope of Work	Y
+Electrical	X	N/A	earth testimg	Scope of Work	Y
+Electrical	X	N/A	Air terminal torque testing	Scope of Work	Y
+Electrical	X	N/A	substation Maingrid	Scope of Work	Y
+Electrical	X	N/A	Exit Light Installation	Scope of Work	Y
+Electrical	X	N/A	Outdoor Lighting	Scope of Work	Y
+Electrical	X	N/A	Outdoor Lighting IR test	Scope of Work	Y
+Electrical	X	N/A	illumination Testing	Perform Functional and illumination Testing of Lighting System inside Switchgear room.	Y
+Electrical	X	N/A	Functional test Battery room.	Scope of Work	Y
+Electrical	X	N/A	Functional test Mechanical room	Scope of Work	Y
+Electrical	X	N/A	Functional test Relay room.	Perform Functional and illuminationl Testing of Lighting System inside Relay room.	Y
+Electrical	X	N/A	Functional test GIS room	Perform Functional and illumination Testing of Lighting System inside GIS room.	Y
+Electrical	X	N/A	Functional test Outdoor Lighting	Perform Functional and illuminationTesting of Lighting System in Outdoor Lighting in Substation.	Y
+Electrical	X	N/A	identification tag Switchgear room	Provide Individual Tag # for all Lighting Fixtures inside Switchgear room and shall be reflected in the IFC drawing.	Y
+Electrical	X	N/A	identification tag Battery room	Provide Individual Tag # for all Lighting Fixtures inside Battery room and shall be reflected in the IFC drawing.	Y
+Electrical	X	N/A	identification tag Mechanical room	Scope of Work	Y
+Electrical	X	N/A	identification tag Relay room	Scope of Work	Y
+Electrical	X	N/A	identification tag GIS room	Scope of Work	Y
+Electrical	X	N/A	identification tag Out door lighting	Provide Individual Tag # for all Lighting Fixtures for Outdoor Ligthing and shall be reflected in the IFC drawing.	Y
+Electrical	X	N/A	identification tag lighting switches	Scope of Work	Y
+Structural	X	N/A	Landing Steel platform	Scope of work	Y
+Structural	X	N/A	Cage ladder	Scope of work	Y
+Mechanical	X	N/A	Acid neutralization tank	Acid neutralization tank to be installed in nuetralization tank pit.	Y
+Plumbing	X	N/A	P-Trap	Complete Installation of all floor drains with P-trap and cleanouts in SS building	Y
+Plumbing	X	N/A	Hose Bibb battery Room	Complete installation of 1/2 inch hose bibs with vacuum breaker for Battery room inside SS building	Y
+Plumbing	X	N/A	Hose Bibb Mech Room	Complete Installation of 1/2 inch hose bibs with vacuum breaker at HVAC equipment room (Mechanical Room) for Substation Building	Y
+Plumbing	X	N/A	Isolation valve	Complete and provide the installation report for all isolation valves for potable water network in SS building	Y
+Plumbing	X	N/A	Trap primer valve	Complete the installation of Trap primer valve and solenoid valve -Mechanical Room	Y
+Plumbing	X	N/A	Drainage piping	Scope of Work	Y
+Plumbing	X	N/A	drainage vend	Scope of Work	N
+Plumbing	X	N/A	drainage leak test	Scope of Work	Y
+Plumbing	X	N/A	Neutralization tank	Scope of Work	Y
+Plumbing	X	N/A	Oily water neutralization tank	Scope of Work	Y
+Plumbing	X	N/A	Emergency Eyewash	Scope of Work	Y
+Plumbing	X	N/A	Emergency Eye wash	Scope of Work	N
+Plumbing	X	N/A	Emergency Eye wash	Scope of Work	N
+Plumbing	X	N/A	P-Trap-AHU	Scope of Work	N
+Plumbing	X	N/A	storm water	Complete the installation of all Down spouts for storm water in SS building	N
+Plumbing	X	N/A	funnel drain	Complete the installation of funnel drain for AHU-1 & AHU -2 at SS Building.	N
+Plumbing	X	N/A	vent cowl	Scope of Work	N
+Plumbing	X	N/A	weather jacketing	Scope of Work	Y
+Plumbing	X	N/A	VTR and floor Slab	Scope of Work	N
+Plumbing	X	N/A	Trap primer Raw water line	Complete the installation of Trap primer Raw water line from Trap Primer valve(TPV) connected to floor drain inside Mechanical room.	Y
+Plumbing	X	N/A	installation of CPVC	Complete the installation of CPVC sch 80 drinking water supply line for Emergency Eye wash at battery room, SS building.	Y
+Plumbing	X	N/A	Installation of Galvanize supports	Scope of Work	Y
+Plumbing	X	N/A	material receiving inspection for GI sup	Provide material receiving inspection for GI supports to be used in Battery room in SS building.	N
+Plumbing	X	N/A	installation of isolation valve	Complete the installation of isolation valve for RAW and Drinking water supply line inside the valve box of SS building	Y
+Plumbing	X	N/A	service test for Raw and Drinking water	Scope of Work	Y
+Plumbing	X	N/A	potable water network	Conduct Disinfection and provide the certificate for potable water network, prior to put in service. RFI shall be provide for verifi	Y
+Plumbing	X	N/A	paint touchups for Scupper Drains	Repair and paint touchups for Scupper Drains in SS building.	N
+Plumbing	X	N/A	functional test for Traps,	Conduct functional test for Traps, drains and Underground sever network in SS building.	Y
+Plumbing	X	N/A	roof drains	Scope of Work	N
+Plumbing	X	N/A	DW and RW installation	Scope of Work	Y
+Plumbing	X	N/A	epoxy paint	Scope of Work	N
+Plumbing	X	N/A	Electric water heater	Complete the installation of Electric water heater of SS building	Y
+Plumbing	X	N/A	t and cold water supply line	Scope of Work	Y
+Plumbing	X	N/A	Functional test for Electric Water Heate	Scope of Work	Y
+Plumbing	X	N/A	supports for electric water heater	Scope of Work	N
+Plumbing	X	N/A	insulation for hot water line	Scope of Work	Y
+Plumbing	X	N/A	Hydrotest for all water supply line	Scope of Work	Y
+Plumbing	X	N/A	Installation of Flange connection	Scope of Work	Y
+Plumbing	X	N/A	installation of supports for DWV piping	Scope of Work	N
+Plumbing	X	N/A	leak test for all DWV pipes	Scope of Work	Y
+Plumbing	X	N/A	Escutcheon plates	Scope of Work	Y
+Plumbing	X	N/A	flanges and bolt torqueing	Scope of Work	Y
+Plumbing	X	N/A	functional test for all floor drains	Scope of Work	Y
+Plumbing	X	N/A	installation of FE-1 and FE-2 extinguish	Complete the installation of FE-1 and FE-2 extinguishers on designated area as per IFC drawings in SS building	Y
+Plumbing	X	N/A	carbon dioxide extinguishers	Complete the installation of carbon dioxide extinguishers on designated area as per IFC drawings in SS building.	Y
+Plumbing	X	N/A	identification numbers and red backgroun	Provide unique identification numbers and red background for Fire extinguishers in SS building.	N
+Plumbing	X	N/A	cleaned and touchup	Scope of Work	N
+Plumbing	X	N/A	Pipe sleeves seal	Pipe sleeves shall be completely sealed with Aramco approved fire rated sealant	N
+Plumbing	X	N/A	insulation for drain line of electric wa	Provide insulation for drain line of electric water heater in SS building.	N
+Plumbing	X	N/A	color coding for portable line	Tagging/Arrow direction/color coding for portable line shall be completed in SS building.	N
+Plumbing	X	N/A	PRV	Scope of Work	Y
+Plumbing	X	N/A	Repair and paint touchups	Scope of Work	N
+Plumbing	X	N/A	unique identification numbers	Scope of Work	N
+Plumbing	X	N/A	stud bolts and nuts	Scope of Work	N
+Plumbing	X	N/A	material inspection report for roof drai	Scope of Work	N
+Plumbing	X	N/A	water hammer arrestor	Completer the installation of water hammer arrestor in SS building.	Y
+Plumbing	X	N/A	Cleanouts	Cleanouts shall be provided at accessible locations as per IFC drawing in SS building.	N
+Plumbing	X	N/A	neoprene wrapping	Scope of Work	N
+Plumbing	X	N/A	DWV fixtures and accessories	Scope of Work	N
+Plumbing	X	N/A	material receiving inspection report for	Scope of Work	N
+Plumbing	X	N/A	CPVC pipes for potable network	Scope of Work	N
+Plumbing	X	N/A	functional test for Emergency Eye wash	Scope of Work	Y
+Plumbing	X	N/A	Functional test for Scupper drain	Scope of Work	Y
+Plumbing	X	N/A	house keeping	Scope of Work	N
+Structural	X	N/A	PMCC 1A - GIS Substation Building	Scope of work	Y
+Civil	X	N/A	Vendor drawings	All as built drawing shall be uploaded to iplant including the Vendor drawings that has to be converted to engineering drawings. In	N
+Electrical	X	N/A	Overhead Crane	Overhead Crane certification to be provided	Y
+Mechanical	X	N/A	Aluminum Louve	Aluminum Louver at the bottome of GIS room is not installed	Y
+Civil	X	N/A	 steel Platform	No steel Platform is installed (as per IFC) in front of the Roll-Up gate of the GIS Room	N
+Civil	X	N/A	Steel Landing	Steel Landing for the access door east side of the GIS room is not installed	N
+Civil	X	N/A	door installation	Some of the door installation and Ramp landing are incomplete	N
+Civil	X	N/A	ducts	Some ducts are without cladding	N
+Structural	X	N/A	PMCC 1A - GIS Substation Building	 Safety yellow shall be applied prior to instal for the Cage ladders	Y
+Structural	X	N/A	PMCC 1A - GIS Substation Building	Touch repair to be done for the Cable tray support	Y
+HVAC	X	N/A	Cable Activities	Scope of work	Y
+HVAC	X	N/A	Cable Identification	Scope of work	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Identification	Scope of work	Y
+HVAC	X	N/A	Cable Activities	Scope of work	Y
+HVAC	X	N/A	Cable Identification	T-1 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Installation	Scope of work	Y
+HVAC	X	N/A	Conduit Identification	Scope of work	Y
+HVAC	X	N/A	Cable Activities	FSD-7 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	Scope of work	Y
+HVAC	X	N/A	Device Tag	FSD-7 phenolic tag to be provided.	N
+HVAC	X	N/A	Conduit Installation	FSD-1 conduit to be installed.	N
+HVAC	X	N/A	Conduit Identification	Scope of work	N
+HVAC	X	N/A	Cable Activities	FSD-1 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	FSD-1 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	FSD-1 phenolic tag to be provided.	N
+HVAC	X	N/A	Conduit Installation	MD-2 conduit to be installed.	Y
+HVAC	X	N/A	Conduit Identification	MD-2 conduit to be idenrified.	Y
+HVAC	X	N/A	Cable Activities	Scope of work	Y
+HVAC	X	N/A	Cable Identification	Scope of work	Y
+HVAC	X	N/A	Device Tag	MD-2 phenolic tag to be provided.	N
+HVAC	X	N/A	Conduit Installation	MD-3 conduit to be installed.	Y
+HVAC	X	N/A	Conduit Identification	MD-3 conduit to be idenrified.	Y
+HVAC	X	N/A	Cable Activities	MD-3 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	MD-3 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	MD-3 phenolic tag to be provided.	N
+HVAC	X	N/A	Conduit Installation	MD-4 conduit to be installed.	Y
+HVAC	X	N/A	Conduit Identification	MD-4 conduit to be idenrified.	Y
+HVAC	X	N/A	Cable Activities	MD-4 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	MD-4 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Installation	MD-5 conduit to be installed.	Y
+HVAC	X	N/A	Conduit Identification	MD-5 conduit to be idenrified.	Y
+HVAC	X	N/A	Cable Activities	MD-5 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	Scope of work	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Installation	Scope of work	Y
+HVAC	X	N/A	Conduit Identification	Scope of work	Y
+HVAC	X	N/A	Cable Activities	Scope of work	Y
+HVAC	X	N/A	Cable Identification	Scope of work	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Installation	Scope of work	Y
+HVAC	X	N/A	Conduit Identification	FSD-8 conduit to be identified.	Y
+HVAC	X	N/A	Cable Activities	FSD-8 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	FSD-8 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	FSD-8 phenolic tag to be provided.	N
+HVAC	X	N/A	Conduit Installation	FSD-11 conduit to be installed.	Y
+HVAC	X	N/A	Conduit Identification	FSD-11 conduit to be identified.	Y
+HVAC	X	N/A	Cable Activities	FSD-11 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	Scope of work	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Installation	MD-6 conduit to be installed.	Y
+HVAC	X	N/A	Conduit Identification	MD-6 conduit to be idenrified.	Y
+HVAC	X	N/A	Cable Activities	Scope of work	Y
+HVAC	X	N/A	Cable Identification	MD-6 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	MD-6 phenolic tag to be provided.	N
+HVAC	X	N/A	Conduit Installation	Scope of work	Y
+HVAC	X	N/A	Conduit Identification	MD-7 conduit to be idenrified.	Y
+HVAC	X	N/A	Cable Activities	MD-7 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	Cable Identification	MD-7 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Conduit Identification	Scope of work	Y
+HVAC	X	N/A	Conduit Installation	Scope of work	Y
+HVAC	X	N/A	Conduit Identification	Scope of work	Y
+HVAC	X	N/A	Cable Activities	Scope of work	Y
+HVAC	X	N/A	Cable Identification	607-PDIT-0137 cable and wires to be identified.	Y
+HVAC	X	N/A	Device Tag	Scope of work	N
+HVAC	X	N/A	Plugged Entry	607-PDIT-0137 unused entry to be plugged.	N
+HVAC	X	N/A	Intallation	607-K-0023 not yet installed.	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 conduit to be installed.	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-5 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	FSD-6 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-6 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	FSD-6 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-6 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-5 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-4 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	VAV-3 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	VAV-2 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	VAV-2 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	VAV-2 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-2 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	FSD-3 conduit to be installed.	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-7 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	VAV-7 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	T-7 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-7 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	T-7 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	FSD-2 conduit to be installed.	Y
+HVAC	X	N/A	PMCC-1B	FSD-2 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-2 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	FSD-2 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-2 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-6 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	FSD-4 conduit to be installed.	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	FSD-4 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-5 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	VAV-5 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	VAV-5 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	FSD-6 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-5 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	T-5 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-4 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	VAV-4 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	VAV-4 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-3 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	VAV-2 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-2 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	T-2 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	T-2 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	FSD-3 conduit to be installed.	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	FSD-3 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	VAV-7 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	T-7 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	Y
+HVAC	X	N/A	PMCC-1B	Scope of work	N
+HVAC	X	N/A	PMCC-1B	VAV-6 conduit to be idenrified.	Y
+HVAC	X	N/A	PMCC-1B	VAV-6 cable to pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	VAV-6 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	VAV-6 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	T-6 conduit to be identified.	Y
+HVAC	X	N/A	PMCC-1B	T-6 cable to be pulled, terminated and tested.	Y
+HVAC	X	N/A	PMCC-1B	T-6 cable and wires to be identified.	Y
+HVAC	X	N/A	PMCC-1B	T-6 phenolic tag to be provided.	N
+HVAC	X	N/A	PMCC-1B	VAV-1 conduit to be idenrified.	N
+Safety	X	N/A	Installation	AA/AL-02, MDL-3 to be installed.	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	AA/AL-09, MDL-3 to be installed.	Y
+Safety	X	N/A	Installation	AA/AL-10, MDL-3 to be installed.	Y
+Safety	X	N/A	Installation	AA/AL-11, MDL-3 to be installed.	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	AL-17 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	AL-14 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	AA/AL-61, MDL-3 to be installed.	Y
+Safety	X	N/A	Tagging	AA/AL-02 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	AA/AL-030 not yet installed.	Y
+Safety	X	N/A	Tagging	AA/AL-04 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	AA/AL-08 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	AA/AL-09 not yet installed.	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	AA/AL-13 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	AA/AL-01 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	AL-14 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	LI-SD-01 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	LI-SD-02 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	LI-SD-03 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	LI-SD-05 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	LI-SD-06 not yet installed.	Y
+Safety	X	N/A	Installation	LI-SD-07 not yet installed.	Y
+Safety	X	N/A	Installation	LI-SD-08 not yet installed.	Y
+Safety	X	N/A	Installation	LI-SD-09 not yet installed.	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Installation	LI-DSD-01 not yet installed.	Y
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	LI-HD-18 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	LI-SD-19 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	LI-MP-06 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	LI-SD-27 has no device tag and no conduit identification.	N
+Safety	X	N/A	Installation	LI-SD-20 not yet installed.	Y
+Safety	X	N/A	Tagging	LI-SD-21 has no device tag and no conduit identification.	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Tagging	Scope of work	N
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	L2-HSSD-06 not yet installed.	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	FACP	Scope of work	N
+Safety	X	N/A	FACP	607-FACP-0002 has no batteries.	Y
+Safety	X	N/A	FACP	607-FACP-0002 termnation not started.	Y
+Safety	X	N/A	FACP	607-FACP-0002 has no tag for display unit.	N
+Safety	X	N/A	FACP	607-FACP-0001 has no final DC safe grounding.	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	IDJB-00650 not yet installed.	Y
+Safety	X	N/A	Installation	IC-24080 not yet installed.	Y
+Safety	X	N/A	Installation	IC-24090 not yet installed.	Y
+Safety	X	N/A	Installation	IC-23100 not yet installed.	Y
+Safety	X	N/A	Installation	Scope of work	Y
+Safety	X	N/A	Installation	IC-23120 not yet installed.	Y
+Safety	X	N/A	Installation	IC-23090 not yet installed.	Y
+Safety	X	N/A	Installation	IC-23130 not yet installed.	Y
+Safety	X	N/A	Installation	IC-23040 not yet installed.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install hollow metal door (D1) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install hollow metal door (D1) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly, located	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install hollow metal door (D5) with complete accessories, conforming to IFC Drawing door schedule and to operate smoothly, located a	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install hollow metal door (D5) with complete accessories, conforming to IFC Drawing door schedule and to operate smoothly, located a	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install hollow metal door (D7) with complete accessories, conforming to IFC Drawing door schedule and to operate smoothly, located a	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install interior hollow metal door (D8) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly,	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install interior hollow metal door (D8) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly,	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install interior hollow metal door (D8) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly,	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install interior hollow metal door (D8) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly,	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install interior hollow metal door (D6) with complete accessories, conforming to IFC Drawing door schedule, and to operate smoothly,	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Provide concrete screed with smoth surface finish at Telecom room - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete painting of gypsum board ceiling at Toilet - PB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete painting of gypsum board ceiling at Locker room - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete the installation and painting of gypsum board ceiling at Kitchen and Electric Water Heater - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Replace the hollow sound tiles at floors of Air Lock - 009 & 011 - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Replace the hollow sound tiles at floors of entire Corridors (011 to 004) - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Replace the hollow sound tiles at floors of Work Station Area (002) - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Replace the hollow sound tiles at floors of Operation Foreman room (008) - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Replace the hollow sound tiles at floors of Field Service Office Foremen room (018) - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete installation of balance raised floor at Process Interface room - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete applicatin of grout on floor tile and wall base joints in all rooms inside PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete application for the wall final paint finish of 4- rooms such as: Work Station Area, Prayer, and Airlocks (009 & 011) in PIB	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete application for the wall final paint finish of Process Interface room in PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete application for the wall final paint finish of Battery room in PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete application for the wall final paint finish of Electrical room in PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Complete application for the wall final paint finish of Mechanical room in PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Replace the damaged or bulged non-combustible acoustic ceiling tiles in Process Interface room - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Construct a 1.50 meters wide side walk with 2 % slope, cut for control joints and sealed, located around the sides of PIB Building	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Construct a concrete ramp with broom top surface finish at the entrance of Mechanical room - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Construct a concrete ramp with broom top surface at the entrance of Electrical room - PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install fire stops in openings around penetrations through fire resistant rated walls , partitions, floors or ceiling - PIB Building	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Install steel screen at every scupper drain at roof to prevent entry of gravel to downspout which will cause water clog - PIB Buildi	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Conduct water slope test at floor of Battery room, PIB Building.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	N
+Civil	X	N/A	PMCC 1B - PIB Process Interface Building	Scope of work.	Y
+Electrical	X	N/A	PIB (Process interface Building)	Standard Requirement for Equipment & Personal Safety	Y
+Electrical	X	N/A	PIB (Process interface Building)	Earth Resiatance Test & Continuity Test to be conducted at the all Main safety Busbar in the PI room ,Electrical ,Battery & Mechanic	Y
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	PVC stub up used for the grounding cables in the PI room ,Electrical, Battery ,Mechanical & Telecom room to be sealed with project a	N
+Electrical	X	N/A	PIB (Process interface Building)	Luminaires and control switches shall be marked (tagged) with circuit number and panel board number in PI room ,Electrical Battery M	N
+Electrical	X	N/A	PIB (Process interface Building)	Main Safety Ground bar for Electrical ,Telecom & instrumentation ,busbar identification label to be provided with approved materials	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	As per the Standard Requirement	N
+Electrical	X	N/A	PIB (Process interface Building)	Emergency Light Battery backup durartion test to be conducted in Electrical,Instrument & Telecom Busbar at PI room ,Electrical, Batt	N
+Civil	X	N/A	PIB building	Complete installing the door (Communication room).	N
+Civil	X	N/A	PIB building	Complete installing floor tails (Communication room).	N
+Civil	X	N/A	PIB building	Complete Touchup paint (Communication room).	N
+Civil	X	N/A	PIB building	Complete installing the door no.9 (Airlock ).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete installing the door no.11 (Airlock ).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete Touchup paint (office no.18).	N
+Civil	X	N/A	PIB building	Complete installing the carpet (Prayer room).	N
+Civil	X	N/A	PIB building	Complete installing the door (Prayer room).	N
+Civil	X	N/A	PIB building	Complete installing the door (Office no.08).	N
+Civil	X	N/A	PIB building	Complete Touchup paint (office no.08).	N
+Civil	X	N/A	PIB building	Complete installing the door (Office no.07).	N
+Civil	X	N/A	PIB building	Complete Touchup paint (office no.07).	N
+Civil	X	N/A	PIB building	Complete painting ceilling (Bathroom).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete Touchup paint (office no.19).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete painting ceilling (Locker room).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete Touchup paint (Kitchen).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete installing the door (Machinal room).	N
+Civil	X	N/A	PIB building	Complete floor final coat (Machinal room).	N
+Civil	X	N/A	PIB building	Complete Touchup paint (Machinal room).	N
+Civil	X	N/A	PIB building	Complete coating for one colum (Electrical room).	N
+Civil	X	N/A	PIB building	Complete installing the door (Electrical room).	N
+Civil	X	N/A	PIB building	Complete floor final coat (Electrical room).	N
+Civil	X	N/A	PIB building	Complete Touchup paint (Electrical room).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete grouting for walls and floor (Battery room).	N
+Civil	X	N/A	PIB building	External coat for PIB building.	N
+Civil	X	N/A	PIB building	Complete coating 4 platforms (PIB building).	N
+Civil	X	N/A	PIB building	Complete installing of 4 Handrails for platforms (PIB building).	N
+Civil	X	N/A	PIB building	Complete one Ramp Installation (PIB building).	N
+Civil	X	N/A	PIB building	Complete one Ramp coating (PIB building).	N
+Civil	X	N/A	PIB building	Complete installing Handrails for one ramp (PIB building).	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	To maintain safe work environment	N
+Civil	X	N/A	PIB building	Complete Touchup paint for PIB building (Genral).	N
+Electrical	X	N/A	607-001-UPS-001A/B Grounding	607-001-UPS-001A/B Installation Inspection for Equipment Grounding not done	Y
+Electrical	X	N/A	607-001-UPS-001A/B Grounding cable IR	607-001-UPS-001A/B Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-UPS-001A/B Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-002 Grounding	607-001-PP-002 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-PP-002 Grounding cable IR	607-001-PP-002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PP-002 Termination	607-001-PP-002 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PP-003 Grounding	607-001-PP-003 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-PP-003 Grounding cable IR	607-001-PP-003 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PP-003 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-007 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-007 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-007 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-019 Grounding	607-001-PP-019 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-PP-019 Grounding cable IR	607-001-PP-019 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PP-019 Termination	607-001-PP-019 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PP-013 Grounding	607-001-PP-013 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-PP-013 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-013 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-014 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-014 Grounding cable IR	607-001-PP-014 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-PP-014 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-015 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-015 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-015 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-025 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-025 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-PP-025 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-LP-005 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-LP-005 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-LP-005 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-004 Grounding	607-001-CP-004 Installation Inspection for Equipment Grounding not done	Y
+Electrical	X	N/A	607-001-CP-004 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-004 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-007 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-007 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-007 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-009 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-009 Grounding cable IR	607-001-XFR(T)-009 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-XFR(T)-009 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-012 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-012 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-XFR(T)-012 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-SB-003 Grounding	607-001-SB-003 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-SB-003 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-SB-003 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-CP-004 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-SB-004 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-SB-004 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-001 Grounding	607-001-DSW(D)-001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-001 Grounding cable IR	607-001-DSW(D)-001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-001 Termination	607-001-DSW(D)-001 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-0017 Grounding	607-001-DSW(D)-0017 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-0017 Grounding cable IR	607-001-DSW(D)-0017 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-0017 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-002 Grounding	607-001-DSW(D)-002 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-002 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-002 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-0016 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-DSW(D)-0016 Grounding cable IR	607-001-DSW(D)-0016 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-001-DSW(D)-0016 Termination	607-001-DSW(D)-0016 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	ACCU-1A Grounding	ACCU-1A Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	ACCU-1A Grounding cable IR	ACCU-1A Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	ACCU-1A Termination	Scope of Work	Y
+Electrical	X	N/A	ACCU-1B Grounding	Scope of Work	Y
+Electrical	X	N/A	ACCU-1B Grounding cable IR	ACCU-1B Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	ACCU-1B Termination	Scope of Work	Y
+Electrical	X	N/A	AHU-1A Grounding	Scope of Work	Y
+Electrical	X	N/A	AHU-1A Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	AHU-1A Termination	Scope of Work	Y
+Electrical	X	N/A	AHU-1B Grounding	Scope of Work	Y
+Electrical	X	N/A	AHU-1B Grounding cable IR	AHU-1B Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	AHU-1B Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-DDC-002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-001-DDC-002 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-001-DDC-002 Termination	Scope of Work	Y
+Electrical	X	N/A	607-001-DDC-002 Grounding	607-FACP-0002 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-FACP-0002 Grounding cable IR	607-FACP-0002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-FACP-0002 Termination	607-FACP-0002 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-SVR-0001 Grounding	607-SVR-0001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-SVR-0001 Grounding cable IR	607-SVR-0001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-SVR-0001 Termination	607-SVR-0001 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-SVR-0002 Grounding	607-SVR-0002 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-SVR-0002 Grounding cable IR	607-SVR-0002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-SVR-0002 Termination	607-SVR-0002 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-SVR-0003 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-SVR-0003 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-SVR-0003 Termination	Scope of Work	Y
+Electrical	X	N/A	607-NWK-0001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-NWK-0001 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-NWK-0001 Termination	Scope of Work	Y
+Electrical	X	N/A	607-ESD-SYS-0001 Grounding	607-ESD-SYS-0001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-ESD-SYS-0001 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-SYS-0001 Termination	607-ESD-SYS-0001 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-SYS-0001 Grounding	607-DCS-SYS-0001 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-DCS-SYS-0001 Grounding cable IR	607-DCS-SYS-0001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-SYS-0001 Termination	607-DCS-SYS-0001 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-VMS-0001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-VMS-0001 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-VMS-0001 Termination	Scope of Work	Y
+Electrical	X	N/A	607-VMS-0002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-VMS-0002 Grounding cable IR	607-VMS-0002 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-VMS-0002 Termination	Scope of Work	Y
+Electrical	X	N/A	607-VMS-0003 Grounding	607-VMS-0003 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-VMS-0003 Grounding cable IR	607-VMS-0003 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-VMS-0003 Termination	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0001 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0001 Termination	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0002 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0002 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0002 Termination	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0003 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0003 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0003 Termination	607-ESD-MC-0003 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-ESD-MC-0004 Grounding	607-ESD-MC-0004 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-ESD-MC-0004 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-MC-0004 Termination	607-ESD-MC-0004 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-MC-0001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0001 Grounding cable IR	607-DCS-MC-0001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-MC-0001 Termination	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0002 Grounding	607-DCS-MC-0002 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-DCS-MC-0002 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0002 Termination	607-DCS-MC-0002 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-MC-0003 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0003 Grounding cable IR	607-DCS-MC-0003 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-MC-0003 Termination	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0004 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0004 Grounding cable IR	607-DCS-MC-0004 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-MC-0004 Termination	607-DCS-MC-0004 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-MC-0005 Grounding	607-DCS-MC-0005 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-DCS-MC-0005 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0005 Termination	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0006 Grounding	607-DCS-MC-0006 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-DCS-MC-0006 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-DCS-MC-0006 Termination	Scope of Work	Y
+Electrical	X	N/A	607-PLC-MC-0001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-PLC-MC-0001 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-PLC-MC-0001 Termination	Scope of Work	Y
+Electrical	X	N/A	607-PLC-001 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-PLC-001 Grounding cable IR	607-PLC-001 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-PLC-001 Termination	607-PLC-001 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-OWS-01 Grounding	607-DCS-OWS-01 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-DCS-OWS-01 Grounding cable IR	607-DCS-OWS-01 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-OWS-01 Termination	607-DCS-OWS-01 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-OWS-02 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-DCS-OWS-02 Grounding cable IR	607-DCS-OWS-02 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-OWS-02 Termination	607-DCS-OWS-02 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-ESD-SOE-01 Grounding	607-ESD-SOE-01 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-ESD-SOE-01 Grounding cable IR	607-ESD-SOE-01 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-ESD-SOE-01 Termination	607-ESD-SOE-01 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-EWS-01 Grounding	607-DCS-EWS-01 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-DCS-EWS-01 Grounding cable IR	607-DCS-EWS-01 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-DCS-EWS-01 Termination	607-DCS-EWS-01 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-ESD-EWS-01 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ESD-EWS-01 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-EWS-01 Termination	607-ESD-EWS-01 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-VMS-EWS-01 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-VMS-EWS-01 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-VMS-EWS-01 Termination	Scope of Work	Y
+Electrical	X	N/A	607-NMS-EWS-01 Grounding	607-NMS-EWS-01 Installation Inspection for Equipment Grounding not done.	Y
+Electrical	X	N/A	607-NMS-EWS-01 Grounding cable IR	607-NMS-EWS-01 Continuity & Resistance Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-NMS-EWS-01 Termination	Scope of Work	Y
+Electrical	X	N/A	607-FDM-EWS-01 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-FDM-EWS-01 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-FDM-EWS-01 Termination	607-FDM-EWS-01 Termination Torque Test for Equipment Grounding conductor not done.	Y
+Electrical	X	N/A	607-ALMS-EWS-01 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ALMS-EWS-01 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ALMS-EWS-01 Termination	Scope of Work	Y
+Electrical	X	N/A	607-ALMS-OWS-01 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ALMS-OWS-01 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ALMS-OWS-01 Termination	Scope of Work	Y
+Electrical	X	N/A	607-ESD-AUX-01 Grounding	Scope of Work	Y
+Electrical	X	N/A	607-ESD-AUX-01 Grounding cable IR	Scope of Work	Y
+Electrical	X	N/A	607-ESD-AUX-01 Termination	Scope of Work	Y
+HVAC	X	N/A	FSD-01 Installation	Scope of work	Y
+Electrical	X	N/A	Flood Light PIB	SCOPE OF WORK	Y
+Electrical	X	N/A	Flood Light PIB	Scope of Work	Y
+Electrical	X	N/A	Flood Light condit PIB	Scope of Work	Y
+Electrical	X	N/A	Flood Light wiring PIB	Scope of Work	Y
+Electrical	X	N/A	inside lights illumination PIB	Scope of Work	Y
+Electrical	X	N/A	battery backup PIB	Scope of Work	Y
+Electrical	X	N/A	Exit Light PIB	Scope of Work	Y
+Electrical	X	N/A	identification tag PIB	complete the identification Tags for all Lighting Fixtures with CKT# and Panel Number in PIB	Y
+Electrical	X	N/A	identification tag Lighting switches PIB	complete the identification Tags for all Lighting switches in PIB	Y
+Electrical	X	N/A	Lights mechanical room PIB	Scope of Work	Y
+Electrical	X	N/A	Flood Light illumination PIB	Illumination testing of External wall mounted lights in PIB building to be completed	Y
+Electrical	X	N/A	Grounding PIB	Complete Grounding connections for all Metallic Doors, Ladders and Structures of PIB	Y
+Electrical	X	N/A	Busbar Ideentification tag PIB	Provide Grounding BUS Bar Identification or Stenciling for MSG, ISG and TMGB Bus Bars	Y
+Electrical	X	N/A	water heater PIB	complete the Grounding connection of water Heater in PIB toilet room.	Y
+Electrical	X	N/A	cabletray grounding	Scope of Work	Y
+Electrical	X	N/A	busbar cables identification tag	Scope of Work	Y
+Electrical	X	N/A	color coding	Provide Color coding for MSG conductors and ISG conductors in PIR Room	Y
+Electrical	X	N/A	bus bar Battery room PIB	Scope of Work	Y
+Electrical	X	N/A	Test terminal	Complete the TEST Terminal Plate Installation in PIB	Y
+Electrical	X	N/A	Electrode Resistance Testing	Perform Ground Terminal System Electrode Resistance Testing in PIB	Y
+Electrical	X	N/A	Lightning arrester	Complete the Lightning Installation works Ground conductors and Lightning Arrester Terminals	Y
+Electrical	X	N/A	Lightning arrester conductor	Complete the installation of Ground down Conductor & Conduit for Riser Up & Riser Down for the connection of Ground Rod to Lightning	Y
+HVAC	X	N/A	FSD-01 Access door	Complete installation of Access door Fire smoke damper Tag-01 at Mechanical Room PIB building	Y
+HVAC	X	N/A	FSD-02 Installation	Complete installation of Fire smoke damper Tag-02 at   office Room PIB building	Y
+HVAC	X	N/A	FSD-02 Access door	Complete installation of Access door Fire smoke damper Tag-02 at office Room PIB building	Y
+HVAC	X	N/A	FSD-03 Installation	Complete installation of Fire smoke damper Tag-03 at operation learning center Room PIB building	Y
+HVAC	X	N/A	FSD-03 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-04 Installation	Scope of Work	Y
+HVAC	X	N/A	FSD-04 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-05 Installation	Complete installation of Fire smoke damper Tag-05 at telecom Room PIB building	Y
+HVAC	X	N/A	FSD-05 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-06 Installation	Complete installation of Fire smoke damper Tag-06 at corridor PIB building	Y
+HVAC	X	N/A	FSD-06 Access door	Complete installation of Access door Fire smoke damper Tag-06 at corridor PIB building	Y
+HVAC	X	N/A	FSD-07 Installation	Complete installation of Fire smoke damper Tag-07 at PI Room PIB building	Y
+HVAC	X	N/A	FSD-07 Access door	Scope of Work	Y
+HVAC	X	N/A	FSD-08 Access door	Complete installation of Access door Fire smoke damper Tag-08 at Electrical Room PIB building	Y
+HVAC	X	N/A	FSD-09 Installation	Complete installation of Fire smoke damper Tag-09 at PI Room PIB building	Y
+HVAC	X	N/A	FSD-09 Access door	Complete installation of Access door Fire smoke damper Tag-09 at PI Room PIB building	Y
+HVAC	X	N/A	FSD-10 Access door	Complete installation of Access door Fire smoke damper Tag-10 at Electrical Room PIB building	Y
+HVAC	X	N/A	FSD-11 Access door	Complete installation of Access door Fire smoke damper Tag-11 at Electrical Room PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1A	Complete installation of Exhaust Fan at battery Room EF-1A PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1B	Complete installation of Exhaust Fan at battery Room EF-1B PIB building	Y
+HVAC	X	N/A	Exhaust Fan-2 Installation	Complete installation of Exhaust Fan at Toilet EF-2 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-3 Installation	Complete installation of Exhaust Fan at Locker room EF-3 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-4 Installation	Complete installation of Exhaust Fan at Kitchen EF-4 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1A, BDD Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-1B, BDD Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-2 BDD Installation	Complete installation of Exhaust Fan Back draft damper at Toilet EF-2 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-3 BDD Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-4 BDD Installation	Complete installation of Exhaust Fan Back draft damper at Kitchen EF-4 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1A Access door Installation	Complete installation of Access Door for Exhaust Fan Back draft damper at battery Room EF-1A PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1B Access door Installation	Complete installation of Access Door to Exhaust Fan Back draft damper at battery Room EF-1B PIB building	Y
+HVAC	X	N/A	Exhaust Fan-2 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-3 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-4 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-01 Installation	Complete installation Motorized damper Tag-MD-01 at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-02 Installation	Complete installation Motorized damper Tag-MD-02 at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-03 Installation	Complete installation Motorized damper Tag-MD-03 at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-04 Installation	Complete installation Motorized damper Tag-MD-04 at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-05 Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-06 Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-07 Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-01 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-02 Access door Installation	Complete installation of Access door Tag-MD-2 at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-03 Access door Installation	Complete installation of Access door Tag-MD-3 at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-04 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-05 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-06 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	MVD-07 Access door Installation	Complete installation of Access door Tag-MD-7 at Mechanical Room PIB building	Y
+HVAC	X	N/A	Exhaust Fan-4 Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-1A, BDD Installation	Complete installation of Exhaust Fan Back draft damper at battery Room EF-1A PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1B, BDD Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-2 BDD Installation	Scope of Work	Y
+HVAC	X	N/A	Exhaust Fan-3 BDD Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-01 Installation	Complete installation Electrical Duct Heater Tag-EDH-01 at service Foremen Room PIB building	Y
+HVAC	X	N/A	EDH-02 Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-03 Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-04 Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-05 Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-06 Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-07 Installation	Complete installation Electrical Duct Heater Tag-EDH-07 at office room-2 PIB building	Y
+HVAC	X	N/A	EDH-01 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-02 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	EDH-03 Access door Installation	Complete installation Electrical Duct Heater Access door Tag-EDH-03 at operation Foreman room PIB building	Y
+HVAC	X	N/A	EDH-04 Access door Installation	Complete installation Electrical Duct Heater Access door Tag-EDH-04 at work station area PIB building	Y
+HVAC	X	N/A	EDH-05 Access door Installation	Complete installation Electrical Duct Heater Access door Tag-EDH-05 at prayer room PIB building	Y
+HVAC	X	N/A	EDH-06 Access door Installation	Complete installation Electrical Duct Heater Access door Tag-EDH-06 at office room-1 PIB building	Y
+HVAC	X	N/A	EDH-07 Access door Installation	Complete installation Electrical Duct Heater Access door Tag-EDH-07 at office room-2 PIB building	Y
+HVAC	X	N/A	VAV-01 Installation	Complete installation VAV-01 at service Foremen Room PIB building	Y
+HVAC	X	N/A	VAV-02 Installation	Complete installation Tag no-VAV-02 at operation learning center PIB building	Y
+HVAC	X	N/A	VAV-03 Installation	Complete installation Tag no-VAV-3 at operation Foreman PIB building	Y
+HVAC	X	N/A	VAV-04 Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-05 Installation	Complete installation Tag no -VAV-05 at prayer room at PIB building	Y
+HVAC	X	N/A	VAV-06 Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-07 Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-01 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-02 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-03 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-04 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	VAV-05 Access door Installation	Complete installation Access door for Tag no-VAV-05 at prayer room at PIB building	Y
+HVAC	X	N/A	VAV-06 Access door Installation	Complete installation Access door for Tag no-VAV-06 at office room-1 at PIB building	Y
+HVAC	X	N/A	VAV-07 Access door Installation	Scope of Work	Y
+HVAC	X	N/A	SAG-1 Installation	Scope of Work	Y
+HVAC	X	N/A	SAD Installation Mechanical Room	Complete installation of supply air main duct at Mechanical Room PIB building	Y
+HVAC	X	N/A	RAD Installation Mechanical Room	Complete installation of return air main duct at Mechanical Room PIB building	Y
+HVAC	X	N/A	FAD Installation Mechanical Room	Scope of Work	Y
+HVAC	X	N/A	Supply air branch duct Mechanical Room	Scope of Work	Y
+HVAC	X	N/A	Return air branch duct Mechanical Room	Scope of Work	Y
+HVAC	X	N/A	Fresh air branch duct Mechanical Room	Scope of Work	Y
+HVAC	X	N/A	Supply VCD Installation Mechanical room	Complete Installation of Supply air manual volume damper at Mechanical room	Y
+HVAC	X	N/A	Return VCD Installation Mechanical room	Complete Installation of Return air manual volume damper at Mechanical room	Y
+HVAC	X	N/A	Fresh VCD Installation Mechanical room	Complete Installation of Fresh air manual volume damper at Mechanical room	Y
+HVAC	X	N/A	Supply Air Insulation Installation Mecha	Complete Insulation Installation of Supply air duct at Mechanical room	Y
+HVAC	X	N/A	Return Air Insulation Installation Mecha	Complete Insulation Installation of Return air duct at Mechanical room	Y
+HVAC	X	N/A	Fresh Air Insulation Installation Mechan	Scope of Work	Y
+HVAC	X	N/A	Air Stack FAD	Scope of Work	Y
+HVAC	X	N/A	FAD External Duct	Complete installation fresh air external ducts for Air stacks	Y
+HVAC	X	N/A	FAD External Duct support	Complete installation fresh air external ducts supports for air stacks	Y
+HVAC	X	N/A	FAD External Duct Insulation	Complete installation fresh air external ducts insulation for Air stack	Y
+HVAC	X	N/A	FAD External Duct Cladding	Complete installation fresh air external ducts cladding for Air stacks	Y
+HVAC	X	N/A	FAD Leak test Mech Room	Complete Fresh air duct leak test at mechanical room	Y
+HVAC	X	N/A	RAD Leak test Mech Room	Complete Supply air duct leak test at mechanical room	Y
+HVAC	X	N/A	SAD Leak test Mech Room	Scope of Work	Y
+HVAC	X	N/A	Insulation Strap Band	Complete duct Insulation Aluminum strap bands mechanical room	Y
+HVAC	X	N/A	Duct Cleaning	Scope of Work	N
+HVAC	X	N/A	Cleaning AHU-2A	Scope of Work	N
+HVAC	X	N/A	Cleaning AHU-2B	Scope of Work	N
+HVAC	X	N/A	SAD Installation Electrical Room	Scope of Work	Y
+HVAC	X	N/A	RAD Installation Electrical Room	Scope of Work	Y
+HVAC	X	N/A	FAD Installation Electrical Room	Complete installation of fresh air main duct at Electrical Room PIB building	Y
+HVAC	X	N/A	Supply air branch duct Electrical Room	Complete installation of supply air branch duct at Electrical Room PIB building	Y
+HVAC	X	N/A	Return air branch duct Electrical Room	Complete installation of return air branch duct at Electrical Room PIB building	Y
+HVAC	X	N/A	Fresh air branch duct Electrical Room	Scope of Work	Y
+HVAC	X	N/A	Supply VCD Installation Electrical room	Complete Installation of Supply air manual volume damper at Electrical room	Y
+HVAC	X	N/A	Return VCD Installation Electrical room	Complete Installation of Return air manual volume damper at Electrical room	Y
+HVAC	X	N/A	Fresh VCD Installation Electrical room	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Elect	Scope of Work	Y
+HVAC	X	N/A	Return air Insulation Installation Elect	Scope of Work	Y
+HVAC	X	N/A	Fresh Air Insulation Installation Electr	Scope of Work	Y
+HVAC	X	N/A	FAD Leak test Electrical Room	Complete Fresh air duct leak test at Electrical room	Y
+HVAC	X	N/A	SAD Leak test Electrical Room	Complete Supply air duct leak test at Electrical room	Y
+HVAC	X	N/A	RAD Leak test Electrical Room	Complete Return air duct leak test at Electrical room	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Complete duct Insulation Aluminum strap bands Electrical room	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD El	Complete proper cleaning inside ducts SAD,RAD,FAD,EAD Electrical Room	N
+HVAC	X	N/A	Return Air Bell Mouth	Complete Return Air Bell Mouth wire Mesh installation at Electrical room	Y
+HVAC	X	N/A	SAD Grill Electrical Room	Scope of Work	Y
+HVAC	X	N/A	SAD Grill Electrical Room	Scope of Work	Y
+HVAC	X	N/A	RAD Installation Process Interface Room	Scope of Work	Y
+HVAC	X	N/A	SAD Installation Process Interface Room	Complete installation of Supply air main duct at Process Interface Room PIB building	Y
+HVAC	X	N/A	SAD branch Installation Process Interfac	Complete installation of supply air branch duct at Process Interface Room PIB building	Y
+HVAC	X	N/A	RAD branch duct Process Interface Room	Complete installation of return air branch duct at Process Interface Room PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Process Interfac	Scope of Work	Y
+HVAC	X	N/A	Return VCD Installation Process Interfac	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Proce	Scope of Work	Y
+HVAC	X	N/A	Return air Insulation Installation Proce	Scope of Work	Y
+HVAC	X	N/A	SAD Leak test Process Interface Room	Scope of Work	Y
+HVAC	X	N/A	RAD Leak test Process Interface Room	Complete Return air Main and Branch duct leak test at Process Interface Room	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Pr	Scope of Work	N
+HVAC	X	N/A	Return Air Bell Mouth	Scope of Work	Y
+HVAC	X	N/A	SAD Grill Process Interface Room	Complete installation of Supply Air Diffuser Process Interface Room	Y
+HVAC	X	N/A	RAD Grill Process Interface Room	Complete installation of Return Air Diffuser Process Interface Room	Y
+HVAC	X	N/A	RAD Main Duct Installation Telecom Room	Complete installation of return air main duct at Telecom Room PIB building	Y
+HVAC	X	N/A	SAD Main Duct Installation Telecom Room	Complete installation of Supply air main duct at Telecom Room PIB building	Y
+HVAC	X	N/A	SAD branch Installation Telecom Room	Complete installation of supply air branch duct at Telecom Room PIB building	Y
+HVAC	X	N/A	RAD branch duct Telecom Room	Complete installation of return air branch duct at Telecom Room PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Telecom Room	Complete Installation of Supply air manual volume damper at Telecom Room	Y
+HVAC	X	N/A	Return VCD Installation Telecom Room	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Telec	Complete Insulation Installation of Supply air duct at Telecom Room	Y
+HVAC	X	N/A	Return air Insulation Installation Telec	Complete Insulation Installation of Return air duct at Telecom Room	Y
+HVAC	X	N/A	SAD Leak test Telecom Room	Scope of Work	Y
+HVAC	X	N/A	RAD Leak test Telecom Room	Scope of Work	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Te	Complete proper cleaning inside ducts SAD,RAD,FAD,EAD Telecom Room	N
+HVAC	X	N/A	Return Air Bell Mouth	Complete Return Air Bell Mouth wire Mesh installation at Telecom Room	Y
+HVAC	X	N/A	SAD Grill Telecom Room	Complete installation of Supply Air Grill Telecom Room	Y
+HVAC	X	N/A	RAD Grill Telecom Room	Complete installation of Return Air Grill Telecom Room	Y
+HVAC	X	N/A	RAD Main Duct Installation Operation For	Complete installation of return air main duct at Operation Foreman Room PIB building	Y
+HVAC	X	N/A	SAD Main Duct Installation Operation For	Scope of Work	Y
+HVAC	X	N/A	SAD branch Installation Operation Forema	Complete installation of supply air branch duct at Operation Foreman Room PIB building	Y
+HVAC	X	N/A	RAD branch duct Operation Foreman Room	Complete installation of return air branch duct at Operation Foreman Room PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Operation Forema	Complete Installation of Supply air manual volume damper at Operation Foreman Room	Y
+HVAC	X	N/A	Return VCD Installation Operation Forema	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Opera	Complete Insulation Installation of Supply air duct at Operation Foreman Room	Y
+HVAC	X	N/A	Return air Insulation Installation Opera	Scope of Work	Y
+HVAC	X	N/A	SAD Leak test Operation Foreman Room	Scope of Work	Y
+HVAC	X	N/A	RAD Leak test Operation Foreman Room	Scope of Work	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Op	Scope of Work	N
+HVAC	X	N/A	Return Air Bell Mouth	Scope of Work	Y
+HVAC	X	N/A	SAD Diffuser Operation Foreman Room	Complete installation of Supply Air Diffuser Operation Foreman Room	Y
+HVAC	X	N/A	RAD Diffuser Operation Foreman Room	Scope of Work	Y
+HVAC	X	N/A	RAD Main Duct Installation Operation lea	Scope of Work	Y
+HVAC	X	N/A	SAD Main Duct Installation Operation lea	Scope of Work	Y
+HVAC	X	N/A	SAD branch Installation Operation learni	Complete installation of supply air branch duct at Operation learning center PIB building	Y
+HVAC	X	N/A	RAD branch duct Operation learning cente	Scope of Work	Y
+HVAC	X	N/A	Supply VCD Installation Operation learni	Scope of Work	Y
+HVAC	X	N/A	Return VCD Installation Operation learni	Complete Installation of Return air manual volume damper at Operation learning center	Y
+HVAC	X	N/A	Supply Air Insulation Installation Opera	Complete Insulation Installation of Supply air duct at Operation learning center	Y
+HVAC	X	N/A	Return air Insulation Installation Opera	Complete Insulation Installation of Return air duct at Operation learning center	Y
+HVAC	X	N/A	SAD Leak test Operation learning center	Complete Supply air Main and branch duct leak test at Operation learning center	Y
+HVAC	X	N/A	RAD Leak test Operation learning center	Complete Return air Main and Branch duct leak test at Operation learning center	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Op	Scope of Work	N
+HVAC	X	N/A	Return Air Bell Mouth	Scope of Work	Y
+HVAC	X	N/A	SAD Diffuser Operation learning center	Scope of Work	Y
+HVAC	X	N/A	RAD Diffuser Operation learning center	Complete installation of Return Air Diffuser Grill Operation learning center	Y
+HVAC	X	N/A	RAD Main Duct Installation Office Room 0	Complete installation of return air main duct at Office Room 019 PIB building	Y
+HVAC	X	N/A	SAD Main Duct Installation Office Room 0	Scope of Work	Y
+HVAC	X	N/A	SAD branch Installation Office Room 019	Scope of Work	Y
+HVAC	X	N/A	RAD branch duct Office Room 019	Scope of Work	Y
+HVAC	X	N/A	Supply VCD Installation Office Room 019	Scope of Work	Y
+HVAC	X	N/A	Return VCD Installation Office Room 019	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Offic	Scope of Work	Y
+HVAC	X	N/A	Return air Insulation Installation Offic	Complete Insulation Installation of Return air duct at Office Room 019	Y
+HVAC	X	N/A	SAD Leak test Office Room 019	Complete Supply air Main and branch duct leak test at Office Room 019	Y
+HVAC	X	N/A	RAD Leak test Office Room 019	Scope of Work	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Of	Scope of Work	N
+HVAC	X	N/A	Return Air Bell Mouth	Complete Return Air Bell Mouth wire Mesh installation at Office Room 019	Y
+HVAC	X	N/A	SAD Diffuser Office Room 019	Complete installation of Supply Air Diffuser Office Room 019	Y
+HVAC	X	N/A	RAD Diffuser Office Room 019	Scope of Work	Y
+HVAC	X	N/A	RAD Main Duct Installation Field Service	Scope of Work	Y
+HVAC	X	N/A	SAD Main Duct Installation Field Service	Complete installation of Supply air main duct at Field Service office 018 PIB building	Y
+HVAC	X	N/A	SAD branch Installation Field Service of	Complete installation of supply air branch duct at Field Service office 018 PIB building	Y
+HVAC	X	N/A	RAD branch duct Field Service office 018	Complete installation of return air branch duct at Field Service office 018 PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Field Service of	Scope of Work	Y
+HVAC	X	N/A	Return VCD Installation Field Service of	Complete Installation of Return air manual volume damper at Field Service office 018	Y
+HVAC	X	N/A	Supply Air Insulation Installation Field	Scope of Work	Y
+HVAC	X	N/A	Return air Insulation Installation Field	Complete Insulation Installation of Return air duct at Field Service office 018	Y
+HVAC	X	N/A	SAD Leak test Field Service office 018	Complete Supply air Main and branch duct leak test at Field Service office 018	Y
+HVAC	X	N/A	RAD Leak test Field Service office 018	Complete Return air Main and Branch duct leak test at Field Service office 018	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Complete duct Insulation Aluminum strap bands Field Service office 018	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Fi	Scope of Work	N
+HVAC	X	N/A	Return Air Bell Mouth	Complete Return Air Bell Mouth wire Mesh installation at Field Service office 018	Y
+HVAC	X	N/A	SAD Diffuser Field Service office 018	Complete installation of Supply Air Diffuser Field Service office 018	Y
+HVAC	X	N/A	RAD Diffuser Field Service office 018	Complete installation of Return Air Diffuser Grill Field Service office 018	Y
+HVAC	X	N/A	RAD Main Duct Installation Prayer Room	Complete installation of return air main duct at Prayer Room PIB building	Y
+HVAC	X	N/A	SAD Main Duct Installation Prayer Room	Complete installation of Supply air main duct at Prayer Room PIB building	Y
+HVAC	X	N/A	SAD branch Installation Prayer Room	Complete installation of supply air branch duct at Prayer Room PIB building	Y
+HVAC	X	N/A	RAD branch duct Prayer Room	Complete installation of return air branch duct at Prayer Room PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Prayer Room	Complete Installation of Supply air manual volume damper at Prayer Room	Y
+HVAC	X	N/A	Return VCD Installation Prayer Room	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Praye	Complete Insulation Installation of Supply air duct at Prayer Room	Y
+HVAC	X	N/A	Return air Insulation Installation Praye	Scope of Work	Y
+HVAC	X	N/A	SAD Leak test Prayer Room	Scope of Work	Y
+HVAC	X	N/A	RAD Leak test Prayer Room	Scope of Work	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Complete duct Insulation Aluminum strap bands Prayer Room	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Pr	Complete proper cleaning inside ducts SAD,RAD,FAD,EAD Prayer Room	N
+HVAC	X	N/A	Return Air Bell Mouth	Complete Return Air Bell Mouth wire Mesh installation at Prayer Room	Y
+HVAC	X	N/A	SAD Diffuser Prayer Room	Complete installation of Supply Air Diffuser Prayer Room	Y
+HVAC	X	N/A	RAD Diffuser Prayer Room	Complete installation of Return Air Diffuser Grill Prayer Room	Y
+HVAC	X	N/A	RAD Main Duct Installation Workstation A	Scope of Work	Y
+HVAC	X	N/A	SAD Main Duct Installation Workstation A	Scope of Work	Y
+HVAC	X	N/A	SAD branch Installation Workstation Area	Complete installation of supply air branch duct at Workstation Area 002 PIB building	Y
+HVAC	X	N/A	RAD branch duct Workstation Area 002	Complete installation of return air branch duct at Workstation Area 002 PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Workstation Area	Complete Installation of Supply air manual volume damper at Workstation Area 002	Y
+HVAC	X	N/A	Return VCD Installation Workstation Area	Complete Installation of Return air manual volume damper at Workstation Area 002	Y
+HVAC	X	N/A	Supply Air Insulation Installation Works	Complete Insulation Installation of Supply air duct at Workstation Area 002	Y
+HVAC	X	N/A	Return air Insulation Installation Works	Scope of Work	Y
+HVAC	X	N/A	SAD Leak test Workstation Area 002	Complete Supply air Main and branch duct leak test at Workstation Area 002	Y
+HVAC	X	N/A	RAD Leak test Workstation Area 002	Scope of Work	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Wo	Scope of Work	N
+HVAC	X	N/A	Return Air Bell Mouth	Scope of Work	Y
+HVAC	X	N/A	SAD Diffuser Workstation Area 002	Scope of Work	Y
+HVAC	X	N/A	RAD Diffuser Workstation Area 002	Complete installation of Return Air Diffuser Grill Workstation Area 002	Y
+HVAC	X	N/A	EAD Main Duct Installation Toilet 005	Scope of Work	Y
+HVAC	X	N/A	SAD Main Duct Installation Toilet 005	Complete installation of Supply air main duct at Toilet 005 PIB building	Y
+HVAC	X	N/A	SAD branch Installation Toilet 005	Complete installation of supply air branch duct at Toilet 005 PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Toilet 005	Complete Installation of Supply air manual volume damper at Toilet 005	Y
+HVAC	X	N/A	Supply Air Insulation Installation Toile	Scope of Work	Y
+HVAC	X	N/A	SAD Leak test Toilet 005	Scope of Work	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Complete duct Insulation Aluminum strap bands Toilet 005	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,EAD Toilet 005	Scope of Work	N
+HVAC	X	N/A	SAD Diffuser Toilet 005	Scope of Work	Y
+HVAC	X	N/A	ECD Diffuser Toilet 005	Scope of Work	Y
+HVAC	X	N/A	EAD Main Duct Installation Kitchen	Complete installation of Exhaust air main duct at Kitchen PIB building	Y
+HVAC	X	N/A	EAD Branch Duct Installation Kitchen	Complete installation of Exhaust air Branch duct at Kitchen PIB building	Y
+HVAC	X	N/A	SAD Main Duct Installation Kitchen	Scope of Work	Y
+HVAC	X	N/A	SAD branch Installation Kitchen	Complete installation of supply air branch duct at Kitchen PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Kitchen	Scope of Work	Y
+HVAC	X	N/A	Supply Air Insulation Installation Kitch	Complete Insulation Installation of Supply air duct at Kitchen	Y
+HVAC	X	N/A	SAD Leak test Kitchen	Complete Supply air Main and branch duct leak test at Kitchen	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Scope of Work	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,EAD Kitchen	Complete proper cleaning inside ducts SAD,EAD Kitchen	N
+HVAC	X	N/A	SAD Diffuser Kitchen	Scope of Work	Y
+HVAC	X	N/A	ECD Diffuser Kitchen	Scope of Work	Y
+HVAC	X	N/A	RAD Main Duct Installation Corridor 004	Scope of Work	Y
+HVAC	X	N/A	SAD Main Duct Installation Corridor 004	Scope of Work	Y
+HVAC	X	N/A	SAD branch Installation Corridor 004	Scope of Work	Y
+HVAC	X	N/A	RAD branch duct Corridor 004	Scope of Work	Y
+HVAC	X	N/A	Supply VCD Installation Corridor 004	Complete Installation of Supply air manual volume damper at Corridor 004	Y
+HVAC	X	N/A	Return VCD Installation Corridor 004	Complete Installation of Return air manual volume damper at Corridor 004	Y
+HVAC	X	N/A	Supply Air Insulation Installation Corri	Scope of Work	Y
+HVAC	X	N/A	Return air Insulation Installation Corri	Scope of Work	Y
+HVAC	X	N/A	SAD Leak test Corridor 004	Scope of Work	Y
+HVAC	X	N/A	RAD Leak test Corridor 004	Complete Return air Main and Branch duct leak test at Corridor 004	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Complete duct Insulation Aluminum strap bands Corridor 004	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,RAD,FAD,EAD Co	Complete proper cleaning inside ducts SAD,RAD,FAD,EAD Corridor 004	N
+HVAC	X	N/A	Return Air Bell Mouth	Scope of Work	Y
+HVAC	X	N/A	SAD Diffuser Corridor 004	Scope of Work	Y
+HVAC	X	N/A	RAD Diffuser Corridor 004	Scope of Work	Y
+HVAC	X	N/A	Duct Penetration walls	Scope of Work	Y
+HVAC	X	N/A	EAD Main Duct Installation Battery Room	Complete installation of Stainless Steel supply air main duct at Battery Room PIB building	Y
+HVAC	X	N/A	SAD Main Duct Installation Battery Room	Complete installation of Stainless Steel Supply air branch duct at Battery Room PIB building	Y
+HVAC	X	N/A	Supply VCD Installation Battery Room	Complete Installation of Supply air Stainless Steel manual volume damper at Battery Room	Y
+HVAC	X	N/A	Supply Air Insulation Installation Batte	Complete Insulation Installation of Supply air duct at Battery Room	Y
+HVAC	X	N/A	SAD Leak test Battery Room	Complete Supply air Main and branch duct leak test at Battery Room	Y
+HVAC	X	N/A	Insulation Aluminum strap bands	Complete duct Insulation Aluminum strap bands Battery Room	Y
+HVAC	X	N/A	Cleaning inside ducts SAD,EAD Battery Ro	Complete proper cleaning inside ducts SAD,EAD Battery Room	N
+HVAC	X	N/A	SAD Diffuser Battery Room	Complete installation of Supply Air stainless steel grills or Epoxy coated suitable for Battery Room	Y
+HVAC	X	N/A	ECD Diffuser Battery Room	Complete installation of Exhaust Air stainless steel grills or Epoxy coated suitable for Battery Room	Y
+HVAC	X	N/A	Cladding installation Battery room	Complete Battery Room cladding installation for supply air duct	Y
+HVAC	X	N/A	Suction pipe Support installation ACCU-1	Complete installation of suction pipe line support installation ACCU-1A	Y
+HVAC	X	N/A	Liquid pipe Support installation ACCU-1A	Complete installation of liquid pipe line support installation ACCU-1A	Y
+HVAC	X	N/A	Suction pipe installation ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe installation ACCU-1A	Complete installation of liquid pipe line ACCU-1A	Y
+HVAC	X	N/A	Suction pipe blowout ACCU-1A	Complete refrigerant suction pipe line blowout of ACCU-1A	Y
+HVAC	X	N/A	Liquid pipe blowout ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Suction pipe line Brazing ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line Brazing ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Suction pipe line leak test ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line leak test ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Suction pipe line vacuum test ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line vacuum test ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Suction pipe line insulation ACCU-1A	Complete insulation installation of suction pipe line ACCU-1A	Y
+HVAC	X	N/A	Liquid pipe line insulation ACCU-1A	Complete insulation installation of liquid pipe line ACCU-1A	Y
+HVAC	X	N/A	Suction pipe line cladding ACCU-1A	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line cladding ACCU-1A	Complete installation of liquid pipe line Cladding installation ACCU-1A	Y
+HVAC	X	N/A	Suction pipe Support installation ACCU-1	Complete installation of suction pipe line support installation ACCU-1B	Y
+HVAC	X	N/A	Liquid pipe Support installation ACCU-1B	Complete installation of liquid pipe line support installation ACCU-1B	Y
+HVAC	X	N/A	Suction pipe installation ACCU-1B	Complete installation of suction pipe line ACCU-1B	Y
+HVAC	X	N/A	Liquid pipe installation ACCU-1B	Scope of Work	Y
+HVAC	X	N/A	Suction pipe blowout ACCU-1B	Complete refrigerant suction pipe line blowout of ACCU-1B	Y
+HVAC	X	N/A	Liquid pipe blowout ACCU-1B	Complete refrigerant liquid pipe line blowout of ACCU-1B	Y
+HVAC	X	N/A	Suction pipe line Brazing ACCU-1B	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line Brazing ACCU-1B	Complete refrigerant liquid pipe line brazing of ACCU-1B	Y
+HVAC	X	N/A	Suction pipe line leak test ACCU-1B	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line leak test ACCU-1B	Complete refrigerant liquid pipe line leak test of ACCU-1B	Y
+HVAC	X	N/A	Suction pipe line vacuum test ACCU-1B	Complete refrigerant suction line vacuum test of ACCU-1B	Y
+HVAC	X	N/A	Liquid pipe line vacuum test ACCU-1B	Complete refrigerant liquid pipe line vacuum test of ACCU-1B	Y
+HVAC	X	N/A	Suction pipe line insulation ACCU-1B	Complete insulation installation of suction pipe line ACCU-1B	Y
+HVAC	X	N/A	Liquid pipe line insulation ACCU-1B	Complete insulation installation of liquid pipe line ACCU-1B	Y
+HVAC	X	N/A	Suction pipe line cladding ACCU-1B	Scope of Work	Y
+HVAC	X	N/A	Liquid pipe line cladding ACCU-1B	Complete installation of liquid pipe line Cladding installation ACCU-1B	Y
+HVAC	X	N/A	FSD-01 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-02 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-03 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-04 Functional Test	Complete Fire smoke damper-04 functional test at Mechanical Room PIB building	Y
+HVAC	X	N/A	FSD-05 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-06 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-07 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-08 Functional Test	Complete Fire smoke damper-08 functional test at Mechanical Room PIB building	Y
+HVAC	X	N/A	FSD-09 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-10 Functional Test	Scope of Work	Y
+HVAC	X	N/A	FSD-11 Functional Test	Complete Fire smoke damper-11 functional test at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-01 Functional Test	Scope of Work	Y
+HVAC	X	N/A	MVD-02 Functional Test	Scope of Work	Y
+HVAC	X	N/A	MVD-03 Functional Test	Scope of Work	Y
+HVAC	X	N/A	MVD-04 Functional Test	Complete Motorized damper -04 functional test at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-05 Functional Test	Complete Motorized damper -05 functional test at Mechanical Room PIB building	Y
+HVAC	X	N/A	MVD-06 Functional Test	Scope of Work	Y
+HVAC	X	N/A	MVD-07 Functional Test	Scope of Work	Y
+HVAC	X	N/A	EDH-01 Functional Test	Scope of Work	Y
+HVAC	X	N/A	EDH-02 Functional Test	Scope of Work	Y
+HVAC	X	N/A	EDH-03 Functional Test	Complete Functional Test EDH-03 at operation Foreman room PIB building	Y
+HVAC	X	N/A	EDH-04 Functional Test	Complete Functional Test EDH-04 at work station area PIB building	Y
+HVAC	X	N/A	EDH-05 Functional Test	Complete Functional Test EDH-05 at prayer room PIB building	Y
+HVAC	X	N/A	EDH-06 Functional Test	Complete Functional Test EDH-06 at office room-1 PIB building	Y
+HVAC	X	N/A	EDH-07 Functional Test	Complete Functional Test EDH-07 at office room-2 PIB building	Y
+HVAC	X	N/A	VAV-01 Functional Test	Scope of Work	Y
+HVAC	X	N/A	VAV-02 Functional Test	Complete Functional Test VAV-02 at operation learning center PIB building	Y
+HVAC	X	N/A	VAV-03 Functional Test	Complete Functional Test VAV-03 at operation Foreman PIB building	Y
+HVAC	X	N/A	VAV-04 Functional Test	Complete Functional Test VAV-04 at work station area PIB building	Y
+HVAC	X	N/A	VAV-05 Functional Test	Complete Functional Test VAV-05 at prayer room at PIB building	Y
+HVAC	X	N/A	VAV-06 Functional Test	Complete Functional Test VAV-06 at office room-1 at PIB building	Y
+HVAC	X	N/A	VAV-07 Functional Test	Complete Functional Test VAV-07 at office room-2 at PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1A Functional Test	Complete Functional Test Exhaust Fan at battery Room EF-1A PIB building	Y
+HVAC	X	N/A	Exhaust Fan-1B Functional Test	Complete Functional Test Exhaust Fan at battery Room EF-1B PIB building	Y
+HVAC	X	N/A	Exhaust Fan-2 Functional Test	Complete Functional Test Exhaust Fan at Toilet EF-2 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-3 Functional Test	Complete Functional Test Exhaust Fan at Locker room EF-3 PIB building	Y
+HVAC	X	N/A	Exhaust Fan-4 Functional Test	Complete Functional Test Exhaust Fan at Kitchen EF-4 PIB building	Y
+HVAC	X	N/A	ACCU-1A Installation	Scope of Work	Y
+HVAC	X	N/A	ACCU-1B Installation	Complete installation of ACCU-1B	Y
+HVAC	X	N/A	Cleaning ACCU-1A	Scope of Work	N
+HVAC	X	N/A	Cleaning ACCU-1B	Scope of Work	N
+HVAC	X	N/A	Paint touchup ACCU-1A	Scope of Work	N
+HVAC	X	N/A	Paint touchup ACCU-1B	Scope of Work	N
+HVAC	X	N/A	Grounding ACCU-1A	Scope of Work	N
+HVAC	X	N/A	Grounding ACCU-1B	Scope of Work	Y
+HVAC	X	N/A	Spring isolators ACCU-1A	Complete proper tightening alignment of Spring isolators ACCU-1A	Y
+HVAC	X	N/A	Spring isolators ACCU-1B	Complete proper tightening alignment of Spring isolators ACCU-1B	Y
+HVAC	X	N/A	Functional test ACCU-1A	Complete Functional test ACCU-1A	Y
+HVAC	X	N/A	Functional test ACCU-1B	Scope of Work	Y
+HVAC	X	N/A	AHU-1A Installation	Complete installation of AHU-1A	Y
+HVAC	X	N/A	AHU-1B Installation	Complete installation of AHU-1B	Y
+HVAC	X	N/A	Cleaning AHU-1A	Complete cleaning inside and outside the of AHU-1A	N
+HVAC	X	N/A	Cleaning AHU-1B	Scope of Work	N
+HVAC	X	N/A	Paint touchup AHU-1A	Scope of Work	N
+HVAC	X	N/A	Paint touchup AHU-1B	Scope of Work	N
+HVAC	X	N/A	Grounding AHU-1A	Scope of Work	N
+HVAC	X	N/A	Grounding AHU-1B	Scope of Work	N
+HVAC	X	N/A	Functional test AHU-1A	Complete Functional test AHU-1A	Y
+HVAC	X	N/A	Functional test AHU-1B	Complete Functional test AHU-1B	Y
+HVAC	X	N/A	damage insulation rectification	Complete damage insulation rectification FAD,SAD,RAD for all rooms	Y
+HVAC	X	N/A	Seal Wall penetration	Complete seal the wall through penetrations of refrigerant pipe	N
+HVAC	X	N/A	FSD tagging labeling	Complete FSD tagging labeling and stenciling as per equipment schedule	N
+HVAC	X	N/A	VAV tagging labeling	Complete VAV tagging labeling and stenciling as per equipment schedule	N
+HVAC	X	N/A	Exhaust Fan tagging labeling	Complete Exhaust Fan tagging labeling and stenciling as per equipment schedule	N
+HVAC	X	N/A	ACCU 1A & 1B Label Stenciling	Scope of Work	N
+HVAC	X	N/A	AHU 1A & 1B Label Stenciling	Scope of Work	N
+HVAC	X	N/A	EDH tagging labeling	Scope of Work	N
+HVAC	X	N/A	MVD tagging labeling	Scope of Work	N
+HVAC	X	N/A	identification sticker for Duct services	Scope of Work	N
+HVAC	X	N/A	identification sticker for Refrigerant p	provide identification sticker Refrigerant flow Direction arrow identifying the service of the pipe	N
+HVAC	X	N/A	Refrigerant pipe redline drawing AHU-1A	Scope of Work	N
+HVAC	X	N/A	Refrigerant pipe redline drawing AHU-1B	Scope of Work	N
+HVAC	X	N/A	Grounding Cable AHU-1A	Scope of Work	N
+HVAC	X	N/A	Grounding Cable AHU-1B	Scope of Work	N
+HVAC	X	N/A	Duct support excess rods cutting	Completed duct support excess rods need to be cut in all rooms	N
+HVAC	X	N/A	Galvanize paint touchup angle and rod	Complete galvanize paint touchup at Rod and Angle edges	Y
+HVAC	X	N/A	Duct support Alignment	Complete Alignment duct supports for supply, return, Fresh air and Exhaust duct	Y
+HVAC	X	N/A	Exhaust fans back draft damper installat	Scope of Work	Y
+HVAC	X	N/A	Raw water hose bib installation	Scope of Work	N
+HVAC	X	N/A	Drain Pipe installation AHU-1A	Complete Installation inspection for drain pipe for AHU-1A	Y
+HVAC	X	N/A	Drain Pipe installation AHU-1B	Complete Installation inspection for drain pipe for AHU-1B	Y
+HVAC	X	N/A	FSD Cable continuity test	Complete Cable pulling, Termination and Continuity test for FSDs from Tag No- 01 to 11	Y
+HVAC	X	N/A	MVD Cable continuity test	Complete Cable pulling, Termination and Continuity test for MVDs from Tag No-01 to 07	Y
+HVAC	X	N/A	DDC Panel Functional test	Functional test for HVAC DDC Panel	Y
+HVAC	X	N/A	Exhaust fans continuity test	Complete Cable pulling, Termination and Continuity test for Exhaust Fan EF-1A,1B, EF2, EF3, EF4	N
+HVAC	X	N/A	VAV Cable continuity test	Complete Cable pulling, Termination and Continuity test for VAV Tag No- 01 to 07	N
+HVAC	X	N/A	EDH Cable continuity test	Complete Cable pulling, Termination and Continuity test for EDH Tag No- 01 to 07	N
+HVAC	X	N/A	Exhaust fans Grounding cable	Grounding cable shall be complete for Exhaust Fan EF-1A,1B, EF2, EF3, EF4	N
+HVAC	X	N/A	Thermostat installation VAV-01	Complete Thermostat installation VAV-01	Y
+HVAC	X	N/A	Thermostat installation VAV-02	Complete Thermostat installation VAV-02	Y
+HVAC	X	N/A	Thermostat installation VAV-03	Complete Thermostat installation VAV-03	Y
+HVAC	X	N/A	Thermostat installation VAV-04	Complete Thermostat installation VAV-04	Y
+HVAC	X	N/A	Thermostat installation VAV-05	Complete Thermostat installation VAV-05	Y
+HVAC	X	N/A	Thermostat installation VAV-06	Complete Thermostat installation VAV-06	Y
+HVAC	X	N/A	Thermostat installation VAV-07	Complete Thermostat installation VAV-07	Y
+HVAC	X	N/A	Cable Continuity EDH-01	Complete cable continuity and insulation resistance testing for Thermostat-EDH-01	N
+HVAC	X	N/A	Cable Continuity EDH-02	Complete cable continuity and insulation resistance testing for Thermostat-EDH-02	N
+HVAC	X	N/A	Cable Continuity EDH-03	Complete cable continuity and insulation resistance testing for Thermostat-EDH-03	N
+HVAC	X	N/A	Cable Continuity EDH-04	Complete cable continuity and insulation resistance testing for Thermostat-EDH-04	N
+HVAC	X	N/A	Cable Continuity EDH-05	Complete cable continuity and insulation resistance testing for Thermostat-EDH-05	N
+HVAC	X	N/A	Cable Continuity EDH-06	Complete cable continuity and insulation resistance testing for Thermostat-EDH-06	N
+HVAC	X	N/A	Cable Continuity EDH-07	Complete cable continuity and insulation resistance testing for Thermostat-EDH-07	N
+HVAC	X	N/A	Redline as built drawing for DDC	Scope of Work	N
+HVAC	X	N/A	Cleaning DDC Panel	Complete cleaning inside and outside of HVAC, DDC Panel at Mechanical Rm.	N
+HVAC	X	N/A	Identification HVAC Panel	Scope of Work	N
+HVAC	X	N/A	FSD-08 Installation	SCOPE OF WORK	Y
+HVAC	X	N/A	FSD-10 Installation	Complete installation of Fire smoke damper Tag-10 at Electrical   Room PIB building	Y
+HVAC	X	N/A	FSD-11 Installation	Complete installation of Fire smoke damper Tag-11 at Electrical   Room PIB building	Y
+Plumbing	X	N/A	FD	Scope of Work	N
+Plumbing	X	N/A	HB/BB	Scope of Work	N
+Plumbing	X	N/A	TPV	PIB Bldg (002). Mechanical Room - Complete Installation of Trap Primer Valve with solenoid valve.	Y
+Plumbing	X	N/A	Vent Pipe	PIB Bldg (002). Mechanical Room - Complete installation of Drainage Piping including gravity leak testing of Drainage Pipes.	Y
+Plumbing	X	N/A	TPV	PIB Bldg (002). Mechanical Room - Complete installation of Trap Primer Raw water line from Trap Primer Valve (TPV) connected to floo	Y
+Plumbing	X	N/A	Vent Pipe	Scope of Work	N
+Plumbing	X	N/A	P-trap	PIB Bldg (002). Mechanical Room - Installation of AHU 1 & AHU 2 condensate drain pipe with P-trap.	N
+Plumbing	X	N/A	F Drain	Scope of Work	N
+Plumbing	X	N/A	DS	Scope of Work	N
+Plumbing	X	N/A	Vent Pipe	PIB Bldg (002).Complete installation of all Vent Cowl for all Vent thru Roof pipe end on the building roof top and provide UV protec	Y
+Plumbing	X	N/A	Eye wash	PIB Bldg (002). Battery Room - Complete Installation of an approved Emergency Eyewash with strainer, PRV, pressure gage and car-seal	Y
+Plumbing	X	N/A	VB	Scope of Work	N
+Plumbing	X	N/A	Isolation valve	PIB Bldg (002).Complete installation of isolation valve inside the pit.	Y
+Plumbing	X	N/A	DW	PIB Bldg (002). Battery Room -Complete Installation of CPVC Sched. 80 Drinking Water supply line for emergency eyewash.	Y
+Plumbing	X	N/A	WC	Scope of Work	Y
+Plumbing	X	N/A	Valve Box	Scope of Work	Y
+Plumbing	X	N/A	Kitchen Fixture	PIB/Oprator Shelter Bldg (002) Kitchen/Mess Room-Complete installation of approved Kitchen sink with faucets, angle valves including	Y
+Plumbing	X	N/A	Functional test	PIB/Oprator Shelter Bldg (002)Toilet -Conduct Functionl testing of all plumbing fixtures, water closets, lavatories, flush valves, m	Y
+Plumbing	X	N/A	isolation valve	Scope of Work	Y
+Plumbing	X	N/A	Insulation	Scope of Work	Y
+Plumbing	X	N/A	Gravity test	Scope of Work	Y
+Plumbing	X	N/A	pipe penetrates	PIB/Oprator Shelter Bldg (002)- Install escutheon plate on the wall where drain pipe and water supply pipe penetrates	N
+Plumbing	X	N/A	FD	Scope of Work	Y
+Plumbing	X	N/A	Flange Connection	Scope of Work	Y
+Plumbing	X	N/A	Disinfection report	Scope of Work	Y
+Plumbing	X	N/A	Hydrotest	Scope of Work	Y
+Plumbing	X	N/A	water heater	Conduct the Functional test for Electric Water Heater of PIB building.	Y
+Plumbing	X	N/A	Tagging	Complete Tagging/Arrow direction/color coding for portable line shall be completed in Pib building.	N
+Plumbing	X	N/A	G.I Supports	Scope of Work	N
+Plumbing	X	N/A	FT	Scope of Work	Y
+Plumbing	X	N/A	Drainage line	Complete the installation of drainage line building connections to the final discharge points or to Sanitary holding tanks.	Y
+Plumbing	X	N/A	extinguisher	Complete the installation of FE-1 & FE-2 extinguishers on designated area as per IFC drawings in PIB	Y
+Plumbing	X	N/A	CO2	Scope of Work	Y
+Plumbing	X	N/A	support	All rusted supports shall be cleaned and touchup in PIB building.	N
+Plumbing	X	N/A	sealent	Pipe sleeves shall be completely sealed with aramco approved fire rated sealant	N
+Plumbing	X	N/A	identification	Provide identification numbers and red background for Fire extinguishers in PIB building.	N
+Plumbing	X	N/A	gravity test	Scope of Work	Y
+Plumbing	X	N/A	seewage pit	Scope of Work	Y
+Plumbing	X	N/A	hammer arrestor	Scope of Work	Y
+Plumbing	X	N/A	house keeping	Conduct good house keeping at all work areas in PIB/Operator shelter building.	N
+Plumbing	X	N/A	neutralization tank	Scope of Work	Y
+Plumbing	X	N/A	OWS	Scope of Work	Y
+Plumbing	X	N/A	vent cowl	Scope of Work	N
+Plumbing	X	N/A	roof drains	Conduct gravity flow test for roof drains of storm netwok PIB building.	Y
+Plumbing	X	N/A	insulation	Scope of Work	N
+Plumbing	X	N/A	support	Provide the adequate supports for electric water heater and drain line of PIB building.	N
+Plumbing	X	N/A	bolt torquing	Complete the assembly of flanges and bolt torquing for flange connections of PIB building.	Y
+Plumbing	X	N/A	PRV	Coduct water supply pressure setting as per designated PRV in PIB building.	Y
+Plumbing	X	N/A	touchup	Repair and paint touchup for Roof Drains in PIB building.	N
+Plumbing	X	N/A	FT	Conduct Functional test for Scupper drain and downspouts in PIB building.	Y
+HVAC	X	N/A	MD-02 functional test	Complete functional test Motorized damper Tag-MD-02 at Mechanical Room Substation building	N
+HVAC	X	N/A	MD-03 functional test	Complete functional test Motorized damper Tag-MD-03 at Mechanical Room Substation building	N
+HVAC	X	N/A	MD-04 functional test	Complete functional test Motorized damper Tag-MD-04 at Mechanical Room Substation building	N
+HVAC	X	N/A	MD-05 functional test	Complete functional test Motorized damper Tag-MD-05 at Mechanical Room Substation building	N
+HVAC	X	N/A	MD-06 functional test	Complete functional test Motorized damper Tag-MD-06 at Battery Room Substation building	N
+HVAC	X	N/A	MD-07 functional test	Complete functional test Motorized damper Tag-MD-07 at Battery Room Substation building	N
+HVAC	X	N/A	functional test ACCU-2A	Complete functional test ACCU Tag No- 2A at substation building	N
+HVAC	X	N/A	functional test ACCU-2B	Complete functional test ACCU Tag No- 2B at substation building	N
+HVAC	X	N/A	functional test ACCU-2A	Complete functional test AHU Tag No- 2A at substation building	N
+HVAC	X	N/A	functional test ACCU-2B	Complete functional test AHU Tag No- 2B at substation building	N
+HVAC	X	N/A	Duct insulation	Complete damage insulation supply air, RAD all rooms	Y
+HVAC	X	N/A	wall Penetration	Complete all refrigerant pipe penetrations at substation building	Y
+HVAC	X	N/A	Stenciling ACCU-2A/2B	Complete Equipment tag number stenciling for ACCU 2A & 2B	N
+HVAC	X	N/A	Stenciling AHU-2A/2B	Complete Equipment tag number stenciling for AHU 2A & 2B	N
+HVAC	X	N/A	FSD Stencil	Complete all FSD tag number stenciling at substation building	N
+HVAC	X	N/A	MVD Stencil	Complete all MVD tag number stenciling at substation building	N
+HVAC	X	N/A	Grounding AHU-2A	Grounding wire between AHU and flexible connectors AHU Tag no 2A	N
+HVAC	X	N/A	Grounding AHU-2B	Grounding wire between AHU and duct flexible connectors AHU Tag no 2B	N
+HVAC	X	N/A	Duct Clashing	Complete duct clashing with electrical tray at switchgear room	Y
+HVAC	X	N/A	Drip Tray	Complete provide drain tray above the electrical panal to avoid condensation at switchgear room	Y
+HVAC	X	N/A	FSD	Complete and witness expansion clearance space for all FSD	Y
+HVAC	X	N/A	Identification Sticker	Complete and provide indentification sticker SAD,RAD,FAD and EAD air flow arrow identifying the service of duct	N
+HVAC	X	N/A	Battery Room SAD installation	Complete Battery Room supply air Stainless steel duct Installation	Y
+HVAC	X	N/A	Battery Room VCD Installation	Complete Battery Room supply air Stanless steel VCD Installation	Y
+HVAC	X	N/A	Battery Room SAD Cladding	Complete Battery Room cladding Installation for SAD	Y
+HVAC	X	N/A	Cleaning ACCU/AHU 2A	Complete cleaning inside and outside the of ACCU-2A	Y
+Structural	X	N/A	Cage ladder	Scope of work	Y
+Structural	X	N/A	Hand rail	Scope of work	Y
+Mechanical	X	N/A	Acid neutralization tank	Acid neutralization tank to be installed in nuetralization tank pit	Y
+Civil	X	N/A	PMCC 1B - PIB Process interface Building	Holding Tank Internal coating Coal Tar epoxy shall be applied to the internal Top surface of the tank and External coating shall be	Y
+Documents	X	N/A	built drawing	All as built drawing shall be uploaded to iplant including the Vendor drawings that has to be converted to engineering drawings. In	N
+Civil	X	N/A	tile remover	2 wall boxes shall be installed at proper locations for tile remover	N
+Civil	X	N/A	entrances items	Most of the entrances are incomplete (missing doors, missing handrails , stairs rough finishes,..)	N
+Safety	X	N/A	Missing Fire equipment	Missing Fire equipment	Y
+Civil	X	N/A	PIB ROOM	Process interface Room has missing Tiles	N
+Civil	X	N/A	offices door	Install all the offices door with associated accessories	N
+Electrical		N/A	PIB ROOM	Install the light switchs with ON/OFF inducator	N
+Electrical		N/A	PIB ROOM	Install electrical switchs with ON/OFF inductor	N
+Structural	X	N/A	PIB ROOM	Tolities have to be completed and safe to use	N
+

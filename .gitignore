@@ -1,0 +1,6 @@
+.venv
+*.out
+*.log
+ollama-models
+!ollama-models/README.md
+*.sqlite3

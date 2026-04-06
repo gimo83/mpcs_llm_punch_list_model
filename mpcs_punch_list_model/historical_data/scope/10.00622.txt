@@ -1,0 +1,477 @@
+PROJECT SCOPE OF WORK (SOW)
+
+Project Number: 10-00622
+Project Title: PMCC 1A - GIS Substation Building Completion
+Location: [Site Name - To be inserted]
+Building Type: Gas Insulated Switchgear (GIS) Substation Building
+1.0 PROJECT OVERVIEW
+
+The Contractor shall provide all labor, materials, equipment, and supervision required for the complete engineering, procurement, construction, installation, testing, and commissioning of the PMCC 1A GIS Substation Building. This is a greenfield substation facility designed to house Gas Insulated Switchgear (GIS), associated electrical equipment, HVAC systems, instrumentation, fire alarm and safety systems, and all civil/structural works.
+
+The project scope includes all disciplines: Civil, Structural, Mechanical (HVAC & Plumbing), Electrical, Instrumentation & Control, and Fire & Safety systems.
+2.0 CIVIL & STRUCTURAL WORKS
+2.1 Building Completion
+
+    Complete all remaining civil works for the GIS Substation Building including foundation platforms (A), concrete screed floors with control joints, and final non-slip epoxy paint application in Mechanical, Switchgear, Relay, GIS, and Battery rooms.
+
+    Complete final textured paint finish on all internal columns, beams, and walls in all rooms (Mechanical, Switchgear, Relay, GIS, Battery rooms).
+
+2.2 Doors & Access
+
+    Supply and install hollow metal doors (D1, D2, D4) with all accessories (frames, hardware, hinges, locks) conforming to IFC drawing door schedule. Ensure all doors operate smoothly.
+
+    Install two doors in Relay Room, two doors in Switchgear Room, and one door in Battery Room.
+
+    Provide ramp-up installations at entrances of door D1 in both Mechanical Room and Switchgear Room.
+
+2.3 External Works
+
+    Remove temporary backfill materials used as ramps at exterior side of GIS room (South side).
+
+    Complete backfilling around cable entry support foundations (6 locations) after protective coating application.
+
+    Install galvanized steel caged ladders painted safety yellow at lower bay (exterior side of Switchgear room, east side) and higher bay (exterior side of GIS room, north side).
+
+    Complete installation of steel stairs and platforms at East and South sides of GIS room.
+
+    Install steel platform in front of Roll-Up gate of GIS room.
+
+    Install steel landing for access door on east side of GIS room.
+
+2.4 Roofing & Drainage
+
+    Add 50mm uniform thickness gravel on all roof areas.
+
+    Install steel screens at every scupper drain to prevent gravel entry.
+
+    Complete downspout installation for storm water drainage.
+
+    Repair and paint touch-ups for scupper drains.
+
+2.5 Firestopping
+
+    Install fire stops in all openings around penetrations through fire-rated walls, partitions, floors, and ceilings.
+
+3.0 HVAC SYSTEM (HEATING, VENTILATION, AIR CONDITIONING)
+3.1 Air Handling Units (AHU) & Air Conditioning Units (ACCU)
+
+    Complete installation of AHU-2A and AHU-2B including all accessories.
+
+    Complete installation of ACCU-2A and ACCU-2B.
+
+    Install refrigerant piping (suction and liquid lines) for ACCU-2A and ACCU-2B including:
+
+        Pipe installation
+
+        Pipe insulation
+
+        Pipe support installation
+
+        Cladding installation
+
+        Refrigerant line blowout
+
+        Leak testing (suction and liquid lines)
+
+3.2 Motorized Dampers (MD) & Fire/Smoke Dampers (FSD)
+
+    Install the following motorized dampers: MD-1, MD-2, MD-3, MD-4, MD-5, MD-6, MD-7 with complete accessories and access doors.
+
+    Install the following fire/smoke dampers: FSD-1, FSD-2, FSD-3, FSD-4, FSD-5, FSD-6, FSD-7 (including FSD-01, 02, 03, 04, 05, 06, 07) with access doors.
+
+    For all dampers, complete:
+
+        Conduit installation
+
+        Cable pulling, tagging, termination, and testing
+
+        Phenolic tag identification for both device and conduit
+
+        Functional testing
+
+3.3 Exhaust Fans
+
+    Complete installation of exhaust fans EF-5A and EF-5B in Battery Room.
+
+    Install backdraft dampers (BDD) for both exhaust fans.
+
+    Provide grounding cables and complete continuity testing.
+
+3.4 Ductwork
+
+    Complete supply air, return air, exhaust air (EAD), and fresh air (FAD) duct installations for all rooms (Switchgear, Relay, GIS, Mechanical, Battery rooms).
+
+    Install Stainless Steel ducts for Battery Room SAD and EAD.
+
+    Perform leak testing on all duct systems (SAD, RAD, EAD, FAD) per room.
+
+    Complete duct clashing resolution with electrical cable trays in Switchgear Room.
+
+    Install duct sealant at all joints.
+
+    Repair all damaged duct insulation.
+
+    Complete duct alignment and excess rod cutting.
+
+    Apply galvanized paint touch-up on rods and angle edges.
+
+3.5 Grilles, Diffusers, and Accessories
+
+    Install Supply Air Grilles (SAG-1, SAG-2) and Return Air Grilles in all rooms.
+
+    Install Fresh Air stack external ducts with supports and insulation.
+
+    Install FAD cladding.
+
+    Install VCDs (Volume Control Dampers) for supply air in GIS Room (VCD-1 through 4) and Switchgear Room.
+
+    Install return air bell mouths with wire mesh in Switchgear and GIS rooms.
+
+    Install drain pipes for AHU-2A and AHU-2B with proper insulation.
+
+3.6 HVAC Controls & Instrumentation
+
+    Install DDC Panel (607-K-0059) including cable pulling, termination, meggering, and functional testing.
+
+    Install temperature sensors/devices: T1 (Battery Room), T2, T3.
+
+    Install Pressure Differential Switches (High & Low) for AHU-2A and AHU-2B.
+
+    Install 607-PDIT-0050 and 607-PDIT-0051 including all cable activities and identification.
+
+    Install TS-1 (Return air temp) and TS-2 (Supply air temp).
+
+    Complete cable continuity testing for all FSDs and MVDs.
+
+    Perform functional testing for all HVAC equipment (ACCU-2A, ACCU-2B, AHU-2A, AHU-2B, all FSDs, all MDs, exhaust fans).
+
+3.7 Equipment Identification
+
+    Complete stenciling for ACCU-2A/2B, AHU-2A/2B, all FSDs, all MVDs.
+
+    Provide identification stickers/tags for all HVAC devices.
+
+3.8 Cleaning
+
+    Complete cleaning inside and outside of AHU-2A, AHU-2B, ACCU-2A, ACCU-2B, and exhaust fans 5A/5B.
+
+3.9 Documentation
+
+    Provide redline drawings for refrigerant piping between AHU and ACCU for both 2A and 2B.
+
+4.0 ELECTRICAL WORKS
+4.1 Equipment Grounding (Major Scope)
+
+The Contractor shall complete all equipment grounding installations, testing, and documentation for the following equipment (this is a representative list; refer to drawings for complete scope):
+
+Switchgear & Panels:
+
+    607-001-SG-001, SG-301, SG-601 (GIS Switchgear)
+
+    607-001-MCC-001, MCC-002 (Motor Control Centers)
+
+    607-001-BC-001, BC-002 (Battery Chargers)
+
+Control & Relay Panels:
+
+    607-001-RP-601 through RP-608 (Relay Panels)
+
+    607-001-CP-601 through CP-607 (Control Panels)
+
+    607-001-PSA-001 through PSA-004 (Power System Automation Panels)
+
+    607-001-FACP-001 (Fire Alarm Control Panel)
+
+    PSA Annunciator
+
+Circuit Breakers & Disconnect Switches:
+
+    607-001-CB(A)-001, CB(A)-002
+
+    607-001-DSW(D)-005, 006, 007, 008
+
+    13.8kV and 480V Breaker Test Cabinets
+
+HVAC Equipment:
+
+    AHU-2A and AHU-2B
+
+    ACCU-2A and ACCU-2B
+
+    Exhaust Fans EF-5A and EF-5B
+
+Other Equipment:
+
+    607-001-IRP-0001 through IRP-0004
+
+    607-001-CP-601 through 605
+
+    607-001-XFR(T)-001, 006, 010, 011 (Dry Type Transformers - Neutral Grounding)
+
+    607-001-SG-605
+
+Grounding Requirements for each equipment include:
+
+    Physical installation of grounding conductor
+
+    Continuity and resistance testing
+
+    Termination and torque testing as per SAES standards
+
+    Identification tagging of all terminated ground cables at Main Safety Ground Busbars (MSG)
+
+4.2 Busbars & Cable Trays
+
+    Complete grounding of Busbars inside Switchgear Room (north side), Relay Room, and GIS room.
+
+    Provide identification tag numbers for all busbars, reflected to IFC drawings.
+
+    Provide cable tray grounding at both ends in Switchgear and Relay rooms.
+
+    Complete vertical cable tray grounding (in front of Substation).
+
+4.3 Door Grounding
+
+    Complete door grounding installation, IR testing, and termination for Switchgear Room, Relay Room, and GIS Room doors.
+
+4.4 Lightning Protection System
+
+    Complete Air Terminal and Down Conductor installation per approved IFC drawings.
+
+    Ensure Air Terminal height exceeds cage/steel access ladder height.
+
+    Provide proper support for grounding conductor from main grid to down conductor.
+
+    Complete torque testing for air terminals.
+
+4.5 Earthing System
+
+    Complete earth pit installation with proper identification around Substation Building.
+
+    Perform earth resistance testing and continuity testing at all Main Safety Busbars and connected equipment.
+
+    Provide spare grounding provisions on Electrical, Instrument, and Telecom busbars for future equipment connections.
+
+    Complete grounding for main substation grid, test wells, cellar room, and steel ladder in front of substation.
+
+4.6 Lighting System
+
+    Complete installation, IR testing, and functional testing of lighting system in all rooms:
+
+        Switchgear Room (functional and illumination testing)
+
+        Battery Room
+
+        Mechanical Room
+
+        Relay Room
+
+        GIS Room
+
+    Complete outdoor lighting installation, IR testing, functional and illumination testing.
+
+    Perform emergency light battery backup duration test in all rooms.
+
+    Provide identification tags for all lighting fixtures in all rooms and outdoor lighting, reflected to IFC drawings.
+
+    Provide identification tags for lighting switches with circuit and panel board numbers.
+
+    Complete exit light installation.
+
+4.7 Power Distribution
+
+    Complete storage batteries installation, termination, and IR testing for battery systems.
+
+    Install bus bars in Battery Room including IR testing, termination, and tagging.
+
+    Complete installation and testing of DSW-005 and DSW-007 grounding.
+
+4.8 Other Electrical Requirements
+
+    Provide overhead crane certification.
+
+    Complete illumination testing for all interior and exterior areas per standard acceptance criteria.
+
+    Complete all substation drawings (as-built) upload to iPlant including vendor drawings converted to engineering drawings.
+
+5.0 INSTRUMENTATION & CONTROL
+
+    Install 607-PDIT-0051 including all cable pulling, termination, and testing.
+
+    Complete cable activities and identification for all instrumentation devices.
+
+    Provide phenolic tags for all instruments: 607-AA/AL-01 through 10, 607-LI-MP-01 through 07, 607-LI-SD-01 through 16, 607-LI-DSD-01/02, 607-LI-HSSD-17, 607-LI-PB-07.
+
+    Complete MDL-3 installation for multiple locations (AA/AL-01 through 10).
+
+    Install 607-FS-0043.
+
+    Complete 607-IC-2526 cable activities.
+
+    Install 607-FACP-0001 pocket provision, termination, and display unit identification.
+
+    Complete DC safe grounding.
+
+6.0 PLUMBING & SANITARY
+6.1 Drainage Systems
+
+    Complete installation of all floor drains with P-traps and cleanouts.
+
+    Install P-trap for AHU units.
+
+    Complete storm water downspout installation.
+
+    Install funnel drains for AHU-1 and AHU-2.
+
+    Complete drainage piping, vents, and leak testing.
+
+    Install oily water neutralization tank and acid neutralization tank in neutralization tank pit.
+
+    Conduct functional testing for all traps, drains, and underground sewer network.
+
+6.2 Potable Water System
+
+    Complete installation of CPVC Sch 80 drinking water supply line for Emergency Eyewash in Battery Room.
+
+    Install isolation valves for raw and drinking water supply lines inside valve boxes.
+
+    Install 1/2" hose bibs with vacuum breakers for Battery Room and Mechanical Room.
+
+    Install isolation valves for potable water network.
+
+    Conduct disinfection and provide certificate for potable water network prior to service.
+
+    Perform hydrotest for all water supply lines.
+
+6.3 Hot Water System
+
+    Complete installation of electric water heater including insulation for hot water line and drain line.
+
+    Provide insulation for drain line of electric water heater.
+
+    Complete functional testing for electric water heater.
+
+6.4 Ancillary Plumbing
+
+    Install emergency eyewash stations in Battery Room.
+
+    Install trap primer valves and solenoid valves in Mechanical Room.
+
+    Install water hammer arrestors.
+
+    Install flange connections with proper bolt torqueing.
+
+    Provide escutcheon plates for all penetrations.
+
+    Complete pipe sleeve sealing with Aramco-approved fire-rated sealant.
+
+    Complete color coding, tagging, and arrow direction marking for portable water lines.
+
+    Provide material receiving inspection reports for GI supports, roof drains, and CPVC pipes.
+
+    Complete repair and paint touch-ups for all plumbing systems.
+
+    Install PRV (Pressure Reducing Valve) as required.
+
+7.0 FIRE & SAFETY SYSTEMS
+
+    Install FE-1 and FE-2 fire extinguishers in designated areas per IFC drawings.
+
+    Install carbon dioxide extinguishers in designated areas.
+
+    Provide unique identification numbers and red background for all fire extinguishers.
+
+    Complete 607-FACP-0001 panel including pocket provision, termination, and display unit identification.
+
+    Install 607-FS-0043.
+
+    Complete MDL-3 installation for all safety devices.
+
+    Provide phenolic tags for all safety devices (607-AA/AL series, 607-LI series).
+
+    Complete functional testing for all fire alarm and safety systems.
+
+8.0 DOCUMENTATION & CLOSEOUT REQUIREMENTS
+8.1 As-Built Drawings
+
+    Upload all as-built drawings to iPlant system.
+
+    Convert all vendor drawings to engineering drawing format prior to upload.
+
+    Provide redline drawings for refrigerant piping (ACCU-2A and 2B).
+
+8.2 Testing & Commissioning Documentation
+
+    Provide all inspection test reports (ITRs) for:
+
+        Grounding continuity, resistance, and torque tests
+
+        Cable meggering and continuity tests
+
+        Functional tests for all HVAC equipment
+
+        Illumination tests for all rooms
+
+        Emergency light battery backup duration tests
+
+        Earth resistance tests
+
+        Duct leak test reports
+
+        Refrigerant line leak test reports
+
+        Hydrotest reports for plumbing
+
+        Disinfection certificate for potable water
+
+8.3 Tagging & Identification
+
+    Provide phenolic tags for all instruments, control panels, and equipment.
+
+    Provide stenciling for ACCU, AHU, FSD, and MVD units.
+
+    Provide identification stickers for all HVAC devices.
+
+    Provide tag numbers for busbars and lighting fixtures, reflected to IFC drawings.
+
+    Provide identification tags for all ground cables terminated at MSG busbars.
+
+8.4 Compliance & Closeout
+
+    Close all punch items as per SAES standards.
+
+    Complete all standard requirements for equipment and personal safety per SAES-Q-012 Sections 7 & 8.
+
+    Provide overhead crane certification.
+
+    Complete all remaining as-built documentation for iPlant.
+
+    Final housekeeping and site cleanup.
+
+9.0 EXCLUSIONS
+
+The following items are noted as incomplete or require verification:
+
+    All functional testing items marked with STARTUP = "N" shall be completed prior to project handover.
+
+    All identification items (phenolic tags, stenciling) marked "N" shall be completed.
+
+    Roof drain gravel installation and scupper screens (items 106, 107).
+
+    Various earth pit installations, lightning protection components, and illumination tests marked as not started.
+
+    Vendor drawing conversions to engineering format.
+
+10.0 ACCEPTANCE CRITERIA
+
+The project will be deemed complete upon:
+
+    Successful completion and documentation of all inspection items (100% of items with STARTUP = "Y" verified, all "N" items completed)
+
+    All functional testing passed with documented results
+
+    All as-built drawings and vendor documentation uploaded to iPlant
+
+    All tagging and identification completed per SAES standards
+
+    Final safety and compliance certification from PMCC

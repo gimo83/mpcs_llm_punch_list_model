@@ -1,0 +1,53 @@
+#version: '3.8'
+
+networks:
+  llm-network:
+    driver: bridge
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: unless-stopped
+    networks:
+      - llm-network
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+      - ./ollama-models:/root/.ollama/models
+      - ./mpcs_punch_list_model:/root/mpcs_punch_list_model
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      # Add proxy configuration
+      - HTTP_PROXY=http://10.69.15.5:1080
+      - HTTPS_PROXY=http://10.69.15.5:1080
+      - NO_PROXY=localhost,127.0.0.1,ollama
+      - http_proxy=http://10.69.15.5:1080
+      - https_proxy=http://10.69.15.5:1080
+      - no_proxy=localhost,127.0.0.1,ollama,172.24.0.2,10.69.15.0/28
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+      - 1.1.1.1
+    runtime: nvidia  # Uncomment for NVIDIA GPUs
+
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    restart: unless-stopped
+    networks:
+      - llm-network
+    ports:
+      - "3000:8080"
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - WEBUI_SECRET_KEY=${WEBUI_SECRET_KEY:-your-secret-key-change-this}
+    volumes:
+      - open-webui-data:/app/backend/data
+    depends_on:
+      - ollama
+
+volumes:
+  ollama-data:
+  open-webui-data:

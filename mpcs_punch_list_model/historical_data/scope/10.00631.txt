@@ -1,0 +1,364 @@
+PROJECT SCOPE OF WORK (SOW)
+
+Project Number: 10-00631
+Project Title: PMCC-05 - Process Interface Building PIB-19 Completion
+Location: [Site Name - To be inserted]
+Building Type: Process Interface Building (PIB) - Telecom/Rack Facility
+1.0 PROJECT OVERVIEW
+
+The Contractor shall provide all labor, materials, equipment, and supervision required for the complete engineering, procurement, construction, installation, testing, and commissioning of the Process Interface Building PIB-19 (PMCC-05) . This is a process interface facility designed to house telecommunications equipment, server racks, UPS/battery systems, and associated support infrastructure.
+
+The project scope includes all required disciplines: Civil/Structural, Safety Systems, Fire Detection & Alarm, HVAC with blast/fire dampers, Electrical, IT/Telecom power, and all access/egress requirements per Saudi Aramco Engineering Standards (SAES).
+2.0 BUILDING ACCESS & EGRESS (SAES-B-014 & SAES-B-054)
+2.1 Stairways & Platforms
+
+    Complete installation of access/egress stairways for Rack Room with handrails/guards.
+
+    Complete installation of access/egress stairways for Battery Room.
+
+    Complete installation of access/egress stairways for Air Lock with handrails/guards.
+
+    Install handrails/guards on all stairways per SAES-B-014 requirements.
+
+2.2 Fixed Ladder
+
+    Complete installation (footing and bolts) of East side fixed caged ladder including all structural connections.
+
+2.3 Doors Installation
+
+Complete installation of all doors including frames, hardware, hinges, locks, and smooth operation verification:
+Location	Door Type	Status
+Battery Room	Interior door	Complete
+Air Lock	Exterior door	Complete
+Air Lock	Interior door	Complete
+Lobby	Interior door	Complete
+Telecoms Room	Interior door	Complete
+Rack Room	Interior door(s)	Complete
+2.4 Building Entrances Consolidation
+
+    Consolidate and close all building entrance items as per IFC drawings.
+
+    Ensure all entrance configurations meet SAES-B-054 requirements.
+
+3.0 SAFETY SYSTEMS
+3.1 Eye Wash Station
+
+    Complete installation of emergency eye wash station in the Battery Room per SAES requirements.
+
+3.2 Explosion Protection - Battery Room
+
+    Complete installation of explosion-proof extraction fans in the Battery Room.
+
+    Complete installation of blast protection damper in the Battery Room (per SAES-M-009).
+
+    Note: No toxic gas detection system at PIB-19 (as agreed per inspection).
+
+3.3 Gas Detection
+
+    Complete installation of Flammable Gas Detection System.
+
+    Note: Toxic gas detection is not in project scope for PIB-19.
+
+3.4 Fire/Smoke Dampers (SAES-B-014)
+
+Complete installation of fire/smoke dampers in the following locations:
+
+    Telecoms Room
+
+    Lobby
+
+    Rack Room
+
+3.5 Blast Protection Dampers (SAES-M-009)
+
+Complete installation of blast protection dampers in the following locations:
+
+    Battery Room
+
+    UPS/Electrical Room
+
+    Mechanical Room (West Wall)
+
+    Note: Blast protection damper at other locations confirmed as not in project scope (item 2050)
+
+3.6 Fire Dampers
+
+    Install all required fire dampers per SAES-B-014 specifications.
+
+4.0 FIRE EXTINGUISHERS & SAFETY EQUIPMENT
+4.1 CO₂ Fire Extinguishers (Wall Mounted)
+
+Complete installation of wall-mounted portable CO₂ fire extinguishers in:
+
+    UPS/Electrical Room
+
+    Lobby Room
+
+    Telecoms Room
+
+4.2 Dry Chemical Fire Extinguishers
+
+    Complete installation of outdoor wall-mounted portable Dry Chemical fire extinguisher at entrance of Rack Room.
+
+    Complete installation of Dry Chemical extinguishers on exterior of process interface buildings near all entrances (per SAES-B-017).
+
+4.3 Safety Equipment Cabinet
+
+    Complete installation of safety equipment cabinet containing required PPE (per SAES-B-014).
+
+4.4 Battery Room Signage
+
+    Install all required signage in Battery Room per Section 6.10 of SAES-P-103.
+
+5.0 FIRE DETECTION & ALARM SYSTEM
+5.1 Smoke Detection System
+
+Complete installation of smoke detection/alarm systems as follows:
+Location	System Type
+Rack Room	Ceiling void, floor void, duct, and spot type detection
+Lobby Room	Standard smoke detection
+UPS/Electrical Room	HSSD (High Sensitivity Smoke Detection) with alarm system
+Telecoms Room	Standard smoke detection
+
+*All installations per SAES-B-014 requirements.*
+5.2 Fire Alarm System (SAES-B-014 & NFPA 72)
+
+    Complete installation of combination audible/light alarms inside each room of the building, including:
+
+        Mechanical Room
+
+        Rack Room
+
+        Telecoms Room
+
+        UPS/Electrical Room
+
+        Lobby
+
+        Battery Room
+
+        Air Lock
+
+    Minimum of 5 alarm devices as specified per inspection item 2073.
+
+5.3 Manual Pull Stations
+
+    Consolidate and close manual pull station installations as per IFC drawings (as agreed with initiator).
+
+5.4 Fire Detection & Alarm System Compliance
+
+    Ensure all fire detection and alarm systems meet SAES-B-017 requirements.
+
+6.0 FIRE STOPPING & PASSIVE FIRE PROTECTION
+6.1 Fire Stopping Requirements (SAES-B-014 & SAES-M-100 Section 701.2)
+
+    Install fire stops in all openings around penetrations through fire-resistant rated walls, partitions, floors, and ceilings.
+
+    Ensure Fire Resistive Assembly Packet is completed and included in construction documents per SAES-M-100 Section 701.2.
+
+7.0 FIRE WATER SYSTEM
+
+    Complete fire water system per SAES-B-017 requirements (as applicable to PIB-19).
+
+8.0 LIGHTING & EMERGENCY SYSTEMS
+8.1 Emergency Lighting
+
+    Complete installation of emergency lighting in the Rack Room.
+
+8.2 General Lighting
+
+    Ensure all building rooms (Rack, Telecom, UPS/Electrical, Battery, Mechanical, Lobby, Air Lock) have complete lighting systems per SAES requirements.
+
+9.0 HVAC & VENTILATION
+9.1 Battery Room Ventilation
+
+    Complete installation of explosion-proof extraction fans in Battery Room.
+
+9.2 General HVAC
+
+    Complete all HVAC ductwork, grilles, diffusers, and associated equipment per IFC drawings.
+
+    Ensure all fire/smoke dampers and blast protection dampers are integrated with HVAC system per SAES-M-009 and SAES-B-014.
+
+10.0 ELECTRICAL & POWER SYSTEMS
+10.1 Permanent Power (IT/Telecom)
+
+    Complete permanent power connection for IT/Telecom equipment (Item 2083 indicates "Permanent power is not ready" - to be completed).
+
+    Ensure power quality and reliability meet telecom/rack room requirements.
+
+10.2 General Electrical (PMCC-05-ELCT-PIB-19)
+
+    Complete all electrical scope of work for PIB-19 including:
+
+        Panelboards and distribution
+
+        Branch circuit wiring
+
+        Equipment grounding
+
+        Lighting control systems
+
+        Power for all mechanical and safety equipment
+
+10.3 UPS/Electrical Room Systems
+
+    Complete all electrical installations in UPS/Electrical Room including:
+
+        UPS system connections
+
+        Battery system (if applicable)
+
+        Power distribution to critical loads (rack room, telecom)
+
+11.0 TELECOM & IT ROOM REQUIREMENTS
+11.1 Rack Room
+
+    Complete all installations in Rack Room including:
+
+        Smoke detection (ceiling void, floor void, duct, spot type)
+
+        Emergency lighting
+
+        Door installation with proper access/egress
+
+        Fire extinguisher at entrance
+
+        Stairway access with handrails
+
+11.2 Telecoms Room
+
+    Complete all installations in Telecoms Room including:
+
+        Smoke detection system
+
+        Fire/smoke damper
+
+        Door installation
+
+        Fire extinguisher
+
+        Audible/light alarm device
+
+12.0 MECHANICAL ROOM REQUIREMENTS
+
+    Complete installation of blast protection damper on West Wall.
+
+    Install combination audible/light alarm.
+
+    Ensure all mechanical equipment is properly installed and tested.
+
+13.0 LOBBY & AIR LOCK REQUIREMENTS
+13.1 Lobby
+
+    Complete door installation.
+
+    Complete fire/smoke damper installation.
+
+    Complete smoke detection system.
+
+    Install fire extinguisher.
+
+    Install audible/light alarm.
+
+13.2 Air Lock
+
+    Complete exterior door installation.
+
+    Complete interior door installation.
+
+    Install handrails/guards on stairway.
+
+    Install audible/light alarm.
+
+14.0 SAFETY STANDARDS COMPLIANCE SUMMARY
+
+The following SAES standards govern this scope of work:
+Standard	Applicable Scope
+SAES-B-014	Access/Egress, Fire Dampers, Fire Extinguishers, Smoke Detection, Fire Alarm
+SAES-B-017	Fire Detection & Alarm System, Fire Water System, Dry Chemical Extinguishers
+SAES-B-054	Building Entrances
+SAES-M-009	Blast Protection Dampers
+SAES-M-100 Section 701.2	Fire Stopping, Fire Resistive Assembly Packet
+SAES-P-103 Section 6.10	Battery Room Signage
+NFPA 72	Fire Alarm System
+15.0 DOCUMENTATION & CLOSEOUT REQUIREMENTS
+15.1 As-Built Documentation
+
+    Upload all as-built drawings to iPlant system.
+
+    Complete Fire Resistive Assembly Packet per SAES-M-100 Section 701.2.
+
+15.2 Testing & Commissioning Documentation
+
+Provide inspection test reports (ITRs) for:
+
+    Smoke detection system functional testing
+
+    Fire alarm system testing (audible/light alarms)
+
+    Gas detection system calibration and testing
+
+    Explosion-proof fan operation
+
+    Blast damper operation verification
+
+    Fire damper operation verification
+
+    Emergency lighting battery backup test
+
+    Eye wash station flow and operation test
+
+    Door operation and hardware verification
+
+15.3 Tagging & Identification
+
+    Provide all required room signage per SAES-P-103 Section 6.10 (Battery Room).
+
+    Ensure all fire extinguishers have proper identification numbers and red backgrounds.
+
+    Label all safety equipment cabinets.
+
+15.4 Compliance Closeout
+
+    Close all punch items as per SAES standards.
+
+    Consolidate and close all "agreed to consolidate and close as per IFC" items (2025, 2027, 2028, 2052, 2074).
+
+    Final housekeeping and site cleanup.
+
+16.0 EXCLUSIONS (Confirmed Not in Scope)
+
+Based on inspection records, the following are confirmed NOT in scope for Project 10-00631:
+Item	Description	Reason
+Toxic Gas Detection	No toxic gas detection system at PIB-19	Item 2040
+Blast Protection Damper (various locations)	Not in project scope	Item 2050
+17.0 ACCEPTANCE CRITERIA
+
+The project will be deemed complete upon:
+
+    100% completion of all inspection items marked STARTUP = "Y"
+
+    Successful functional testing of all safety systems:
+
+        Smoke detection (including HSSD for UPS room)
+
+        Fire alarm (audible/light alarms in all rooms)
+
+        Flammable gas detection
+
+        Explosion-proof fans
+
+        Blast and fire dampers
+
+    Permanent power available and connected to IT/Telecom equipment
+
+    All access/egress elements complete (stairs, ladders, doors, handrails)
+
+    All fire extinguishers and safety equipment installed and labeled
+
+    Fire Resistive Assembly Packet completed and submitted
+
+    All as-built drawings uploaded to iPlant
+
+    All "consolidate and close as per IFC" items formally closed
